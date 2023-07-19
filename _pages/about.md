@@ -13,13 +13,9 @@ Dr. Dipl-Ing. Olivera Kotevska is a research scientist in Computer Science and M
 <b> Research Interests </b> <br>
 Data mining, machine learning, privacy algorithms, and trustworthy AI (interpretability, explainability, adversarial attacks) for science applications.
 
-<b> Get in touch </b> <br>
-If you would like to contact me directly, please use the email address below. I will do my best to get back to you as soon as possible. Thank you! <br>
-Email: kolivera@ieee.org.
-
 <b> Students </b> <br>
 If you would like to work with me please check these programs sponsored by <a href="https://education.ornl.gov/pathways/"> ORNL</a>,  <a href="https://science.osti.gov/wdts/suli">DOE</a>, and <a href="https://orise.orau.gov/nsf-msgi/">NSF</a>.
 
-
-
-
+<b> Get in touch </b> <br>
+If you would like to contact me directly, please use the email address below. I will do my best to get back to you as soon as possible. Thank you! <br>
+Email: kolivera@ieee.org.
