@@ -24,7 +24,7 @@ author_profile: true
 <li> <a href="https://www.osti.gov/biblio/1923187"> Privacy Amplification for Episodic Training Methods</a> <br>ACM CIKM Workshop on Privacy Algorithms in System</li>
 <li> <a href="https://www.osti.gov/biblio/1923961"> Robustness of privacy policies to reserve engineering </a> <br>ACM CIKM Workshop on Privacy Algorithms in System</li>
 <li><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119834052.ch18"> Reinforcement Learning for Intelligent Building Energy Management System Control  </a> <br> [Book chapter] Intelligent Data Mining and Analysis in Power and Energy Systems: Models and Applications for Smarter Efficient Power Systems</li>
-<li> <a href=""> ORNL Microelectronics LDRD Initiative Deep Dive</a><br> [White paper] </li>
+<li> <a href=""> ORNL Microelectronics LDRD Initiative Deep Dive</a><br> [White paper] ORNL Internal</li>
 </ul>
 
 <b> 2021 </b>
