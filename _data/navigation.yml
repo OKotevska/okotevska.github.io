@@ -5,21 +5,18 @@ main:
 
   - title: "Talks"
     url: /talks/    
+  
+  - title: "Awards"
+    url: /awards/
+
+  - title: "Students"
+    url: /students/
 
   - title: "Service"
-    url: /teaching/    
+    url: /service/    
 
   - title: "Outreach"
     url: /outreach/
-    
-  - title: "Awards"
-    url: /portfolio/
         
   - title: "Blog Posts"
     url: /year-archive/
-    
-  #- title: "CV"
-  #  url: /cv/
-    
-  #- title: "Guide"
-  #  url: /markdown/
