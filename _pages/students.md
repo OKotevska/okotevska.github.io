@@ -18,8 +18,9 @@ If you are interested to work with me consider the opportunities listed below. I
 <a href="https://education.ornl.gov/pathways/"> ORNL Pathways to Computing Internship Program (PCIP) </a>
 
 <b> List of students </b> <br>
+Yichuan (Phoebe) Shi, DOE SULI, 2023, From Massachusetts Institute of Technology, MA <br>
 Richard Sanses, ORNL PCIP, 2023, From Virginia Polytechnic Institute, VA<br>
-Jimi Kim, DOE MSGI, 2022, From The University of Texas at Dallas, TX<br>
+Jimi Kim, NSF MSGI, 2022, From The University of Texas at Dallas, TX<br>
 Nolan Askew, DOE SULI, 2022, From University of Tennessee Knoxville, TN<br>
 Daniel Joy, ORNL PCIP, 2022, From Carson-Newman University, TN<br>
 Afrose, Sharmin, NSF MSGI, 2021, From Virginia Polytechnic Institute, VA<br>
