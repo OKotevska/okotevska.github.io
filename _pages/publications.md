@@ -13,6 +13,7 @@ My software portfolio is available on <a href="https://github.com/OKotevska"> Gi
 <b> 2023 </b>
 
 <ul style="list-style-type: square;">  
+<li> <a href="https://arxiv.org/pdf/2308.16375">A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications</a> <br> Preprint </li>
 <li> <a href="https://www.sciencedirect.com/science/article/abs/pii/S2542660523001555"> Energy-Efficient Cooperative Resource Allocation and Task Scheduling for Internet of Things Environments </a> <br> Elsevier Internet of Things</li>
 </ul>
 

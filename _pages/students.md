@@ -11,11 +11,11 @@ If you are interested to work with me consider the opportunities listed below. I
 
 <b> Internship opportunities </b> 
 
-<b> Graduate fellowship </b><br>
-<a href="https://orise.orau.gov/nsf-msgi/"> National Science Foundation Mathematical Sciences Graduate Internship (NSF-MSGI) Program</a> <br>
-<b> Undergraduate fellowships </b> <br>
-<a href="https://science.osti.gov/wdts/suli"> Department of Energy Science Undergraduate Laboratory Internship (SULI) Program </a> <br>
-<a href="https://education.ornl.gov/pathways/"> ORNL Pathways to Computing Internship Program (PCIP) </a>
+National Science Foundation  - Mathematical Sciences Graduate Internship (<a href="https://orise.orau.gov/nsf-msgi/"> NSF-MSGI </a>  ) Program <br>
+Department of Energy - Office of Science Graduate Student Research (<a href="https://science.osti.gov/wdts/scgsr/">SCGSR</a> ) Program<br>
+Department of Energy -  Omni Technology Alliance Internship ( <a href="https://orise.orau.gov/doe-omni/">OMNI</a> ) Program <br>
+Department of Energy - Science Undergraduate Laboratory Internship ( <a href="https://science.osti.gov/wdts/suli"> SULI</a> ) Program <br>
+ORNL - Pathways to Computing Internship ( <a href="https://education.ornl.gov/pathways/"> PCIP</a> ) Program
 
 <b> List of students </b> <br>
 Yichuan (Phoebe) Shi, DOE SULI, 2023, From Massachusetts Institute of Technology, MA <br>
