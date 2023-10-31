@@ -13,7 +13,7 @@ My software portfolio is available on <a href="https://github.com/OKotevska"> Gi
 <b> 2023 </b>
 
 <ul style="list-style-type: square;">  
-<li>  Frequency Oracle for SEnsitive Data Monitoring <br>  AAAI'24 STudent Abstract and Poster Program </li> 
+<li>  Frequency Oracle for Sensitive Data Monitoring <br>  AAAI'24 STudent Abstract and Poster Program </li> 
 <li>  Privacy-Preserving Federated Learning with Frequency Estimation <br>  NeurIPS'23 Workshop Program</li> 
 <li> <a href="https://arxiv.org/pdf/2308.16375">A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications</a> <br> Preprint </li>
 <li> <a href="https://www.sciencedirect.com/science/article/abs/pii/S2542660523001555"> Energy-Efficient Cooperative Resource Allocation and Task Scheduling for Internet of Things Environments </a> <br> Elsevier Internet of Things</li>
