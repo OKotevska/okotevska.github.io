@@ -17,7 +17,7 @@ My software portfolio is available on <a href="https://github.com/OKotevska"> Gi
 <li>  Privacy-Preserving Federated Learning with Frequency Estimation <br>  NeurIPS'23 Workshop Program</li> 
 <li> <a href="https://arxiv.org/pdf/2308.16375">A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications</a> <br> Preprint. <a href="https://github.com/nds-vu/awesome-gnn-privacy"> GiHub page </a></li>
 <li> <a href="https://www.sciencedirect.com/science/article/abs/pii/S2542660523001555"> Energy-Efficient Cooperative Resource Allocation and Task Scheduling for Internet of Things Environments </a> <br> Elsevier Internet of Things</li>
-<li> <a href="https://arxiv.org/abs/2310.17013"> Reusable Hybrid and Multi-Cloud Analytics Service Framework </a> </br> Preprint. [White paper]
+<li> <a href="https://arxiv.org/abs/2310.17013"> Reusable Hybrid and Multi-Cloud Analytics Service Framework </a> </br> Preprint. [White paper]</li>
 </ul>
 
 
