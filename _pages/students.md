@@ -18,6 +18,7 @@ Department of Energy - Science Undergraduate Laboratory Internship (<a href="htt
 ORNL - Pathways to Computing Internship (<a href="https://education.ornl.gov/pathways/">PCIP</a>) Program
 
 <b> List of students </b> <br>
+Jacob Flores, DOE SULI, 2024, From Texas A&M International University, TX <br>
 Yichuan (Phoebe) Shi, DOE SULI, 2023, From Massachusetts Institute of Technology, MA <br>
 Richard Sanses, ORNL PCIP, 2023, From Virginia Polytechnic Institute, VA<br>
 Jimi Kim, NSF MSGI, 2022, From The University of Texas at Dallas, TX<br>
