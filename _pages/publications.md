@@ -10,10 +10,15 @@ author_profile: true
 My software portfolio is available on <a href="https://github.com/OKotevska"> GitHub </a> and <a href="https://code.ornl.gov/ok0/set-of-projects">  GitLab </a> pages.
 
 <b> Publications and White papers </b> <br>
-<b> 2023 </b>
-
+<b> 2024 </b>
 <ul style="list-style-type: square;">  
-<li>  Frequency Oracles for Sensitive Data Monitoring <br>  AAAI'24 Student Abstract and Poster Program </li> 
+<li> <a href="https://arxiv.org/abs/2405.10376"> Dealing Doubt: Unveiling Threat Models in Gradient Inversion Attacks under Federated Learning, A Survey and Taxonomy </a> Preprint. </li>
+<li> <a href="https://ojs.aaai.org/index.php/AAAI/article/view/30507">  Frequency Oracles for Sensitive Data Monitoring </a><br>  AAAI'24 Student Abstract and Poster Program </li> 
+<li> Response to Notice of RFI Related to DOE's Responsibilities on Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence<br>Office of Science and Technology Policy (OSTP) [White paper]</li>
+</ul>
+
+<b> 2023 </b>
+<ul style="list-style-type: square;">  
 <li>  Privacy-Preserving Federated Learning with Frequency Estimation <br>  NeurIPS'23 Workshop Program</li> 
 <li> <a href="https://arxiv.org/pdf/2308.16375">A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications</a> <br> Preprint. <a href="https://github.com/nds-vu/awesome-gnn-privacy"> GiHub page </a></li>
 <li> <a href="https://www.sciencedirect.com/science/article/abs/pii/S2542660523001555"> Energy-Efficient Cooperative Resource Allocation and Task Scheduling for Internet of Things Environments </a> <br> Elsevier Internet of Things</li>
