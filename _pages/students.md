@@ -18,6 +18,10 @@ Department of Energy - Science Undergraduate Laboratory Internship (<a href="htt
 ORNL - Pathways to Computing Internship (<a href="https://education.ornl.gov/pathways/">PCIP</a>) Program
 
 <b> List of students </b> <br>
+Shrey Modi, ORNL PCIP, 2024, From University of Wisconsin-Madison, WI <br>
+Daniel Li, DOE OMNI, 2024, University of Tennessee Knoxville, TN <br>
+Autumn Sky, DOE OMNI, 2024, From Arizona State University, AZ <br>
+Yichuan (Phoebe) Shi, ORNL ECO, 2024, From Massachusetts Institute of Technology, MA <br>
 Jacob Flores, DOE SULI, 2024, From Texas A&M International University, TX <br>
 Yichuan (Phoebe) Shi, DOE SULI, 2023, From Massachusetts Institute of Technology, MA <br>
 Richard Sanses, ORNL PCIP, 2023, From Virginia Polytechnic Institute, VA<br>
