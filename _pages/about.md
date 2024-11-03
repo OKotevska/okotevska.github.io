@@ -8,11 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Dipl-Ing. Olivera Kotevska is a research scientist in the Computer Science and Mathematics Division (CSMD) at Oak Ridge National Laboratory (ORNL), Tennessee, USA. She received her Ph.D. degree in Computer Science from the Universite Grenoble Alpes, France in 2018 and during her doctorate she performed research at the National Institute of Standards and Technology (NIST) in Washington, DC. Prior to her PhD she worked on software development for Nuance Communications (UK), Vivo (Brazil), T-Mobile (Macedonia), Renault (France), and others. Her research work focuses on privacy algorithms, machine learning, and intersection for various science applications. She has published over 50 publications and reports and regularly serves as a program committee member at the top conferences in these domains and served in organizational roles including Lead Chair at Privacy Algorithms in Systems workshop, Co-Chair of IEEE Big Data Industry and Government Program, Chair of IEEE Power and Energy Society Computational Analytical Methods Subcommittee, and Co-Editor of Sensors journal special issue IoT Data Analytics. Dr. Kotevska is an organizer and chair of IEEE WiE East Tennessee affinity group. She received IEEE Senior membership award in 2021 and ORNL CSMD Outreach and Service award in 2020.
-
-<b> Research Interests </b> <br>
-Data mining, machine learning, privacy algorithms, and trustworthy AI (interpretability, explainability, adversarial attacks) for science applications.
+Dr. Dipl-Ing. Olivera Kotevska is a research scientist in the Computer Science and Mathematics Division (CSMD) at Oak Ridge National Laboratory (ORNL), Tennessee, USA. She works on trustworthy AI/deep learning. Her interest lies in the intersection of vulnerability, control, and efficiency of deep learning for science applications. Prior to joining ORNL in 2019, she was international guest researcher at <a href="https://www.nist.gov"> National Institute of Standards and Technology (NIST) </a>, and prior to her PhD she worked on software development for Nuance Communications (UK), Vivo (Brazil), T-Mobile (Macedonia), and Renault (France). She received her Ph.D. degree in Computer Science from the <a href="https://www.univ-grenoble-alpes.fr"> Universite Grenoble Alpes, France </a> and BS and MS degrees in Computer Science and Engineering at <a href="https://ukim.edu.mk"> University of Ss Cyril and Methodius, Skopje, Macedonia </a>.
+ 
 
 <b> Get in touch </b> <br>
-If you would like to contact me directly, please use the email address below. I will do my best to get back to you as soon as possible. Thank you! <br>
-Email: kolivera@ieee.org.
+If you would like to contact me, please use this email address kolivera@ieee.org. I will do my best to get back to you as soon as possible. Thank you! <br>
