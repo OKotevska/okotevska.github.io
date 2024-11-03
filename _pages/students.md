@@ -38,7 +38,7 @@ ORNL - Pathways to Computing Internship (<a href="https://education.ornl.gov/pat
 
 <b> Undergraduate </b>
 <ul style="list-style-type: square;">
-<li>Jason Qin, From Columbia University, NY <br></li>
+<li>Jason Qin, Columbia University, NY <br></li>
 <li>Shrey Modi, ORNL PCIP, 2024, From University of Wisconsin-Madison, WI <br></li>
 <li>Daniel Li, DOE OMNI, 2024, University of Tennessee Knoxville, TN <br></li>
 <li>Jacob Flores, DOE SULI, 2024, From Texas A&M International University, TX <br></li>
