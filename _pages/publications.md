@@ -85,23 +85,3 @@ My software portfolio is available on <a href="https://github.com/OKotevska"> Gi
 <li> <a href="https://repository.ukim.mk/handle/20.500.12188/26114">Towards a patient-centered collaborative health care system model </a><br> International Journal of Computer Theory and Engineering (IJCTE), 2012 </li>
 <li> <a href="http://ciit.finki.ukim.mk/data/papers/8CiiT/8CiiT-09.pdf">COHESY - Collaborative Health Care System Model</a><br> International Conference on Informatics and Information Technologies (CIIT) , 2011 </li>
 </ul>
-
-<b> Symposiums </b>
-<ul style="list-style-type: square;">
-<li>"Frequency Oracle Identification for Sensitive Data Streams" in ORNL Symposium, 2023</li>
-<li>"Examining Smart Devices and Data Privacy: Differential Privacy & TOPSIS Results" in ORNL Symposium, 2022</li>
-<li>"Federated Learning with Differential Privacy" in ORNL Symposium, 2022</li>
-<li><a href="https://orise.orau.gov/nsf-msgi/symposium.html"> "Causal Inference and Discovery with Dynamic Intervention for Policy making"</a> in NSF Mathematical Sciences Summer Research Symposium, 2022</li>
-<li>"Benchmarking Local Differential Privacy Algorithms for Streaming Data" in ORNL Symposium, 2021</li>
-<li>"Effectiveness of Privacy Techniques for Smart Meter Systems" in ORNL Symposium, 2021</li>
-<li>"Impact of Building and Spatial Clustering on Energy Consumption" in ORNL Symposium, 2020</li>
-<li><a href="https://c3e.org/2019">  "Applying Machine Learning to Energy Security, Optimization and Privacy - Novel application and evaluation" </a>in U.S. Clean Energy Education and Empowerment (C3E), 2019</li>
-<li> "Machine Learning and Artificial Intelligence for Smart Cyber-Physical Systems" in ORNL ORPA Symposium, 2019</li>
-<li>"HVAC Load Management Using Reinforcement Learning" in IEEE PES General Meeting Conference, 2019</li>
-<li>"RL-HEMS: Reinforcement Learning-based Home Energy Management System for HVAC Energy Optimization" in AI Expo, 2019</li>
-<li><a href="https://cra.org/ccc/wp-content/uploads/sites/2/2018/04/CCC-ECR-Poster-Booklet-August-2018.pdf"> "AI and statistical based analysis of IoT network traffic"</a> in CCC Early Career Researcher Symposium, 2018</li>
-<li>"Machine Learning for IoT and Smart Cities Data Sharing" in NIST Information Technology (ITL) Science Day, 2017</li>
-<li>"Framework for Network Event Analysis and Prediction" in ACM Women in Computing, 2017</li>
-<li>"Mobile Cloud Computing project toward a Cloudlet based Architecture framework for the assessment of services, exchanges, security, and metrics" in NIST ITL Science Day, 2015</li>
-</ul>
-
