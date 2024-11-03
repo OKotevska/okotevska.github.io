@@ -31,7 +31,6 @@ My software portfolio is available on <a href="https://github.com/OKotevska"> Gi
 
 <b> 2022 </b>
 <ul style="list-style-type: square;">  
-<li> <a href="https://www.nitrd.gov/rfi/2022/87-fr-35250/Kotevska-PET-RFI-Response-2022.pdf"> Comments on Advancing Privacy-Enhancing Technologies </a><br>Office of Science and Technology Policy (OSTP) [White paper] </li>
 <li> <a href="https://www.mdpi.com/2079-9292/11/18/2888"> A Multi-Objective Approach for Optimizing Edge-based Resource Allocation using TOPSIS </a> <br> MDPI Electronics</li>
 <li> <a href="https://ieeexplore.ieee.org/document/10042926"> Investigating Users Privacy Concerns of Internet of Things (IoT) Smart Devices</a> <br> IEEE Eurasia Conference on IOT, Communication and Engineering (ECICE) </li>
 <li> <a href="https://dl.acm.org/doi/abs/10.1145/3511808.3557494">PAS: Privacy Algorithms in Systems </a> <br>ACM International Conference on Information & Knowledge Management (CIKM) </li>
@@ -39,6 +38,7 @@ My software portfolio is available on <a href="https://github.com/OKotevska"> Gi
 <li> <a href="https://www.osti.gov/biblio/1923187"> Privacy Amplification for Episodic Training Methods</a> <br>ACM CIKM Workshop on Privacy Algorithms in System</li>
 <li> <a href="https://www.osti.gov/biblio/1923961"> Robustness of privacy policies to reserve engineering </a> <br>ACM CIKM Workshop on Privacy Algorithms in System</li>
 <li><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119834052.ch18"> Reinforcement Learning for Intelligent Building Energy Management System Control  </a> <br> Intelligent Data Mining and Analysis in Power and Energy Systems: Models and Applications for Smarter Efficient Power Systems [Book chapter] </li>
+<li> <a href="https://www.nitrd.gov/rfi/2022/87-fr-35250/Kotevska-PET-RFI-Response-2022.pdf"> Comments on Advancing Privacy-Enhancing Technologies </a><br>Office of Science and Technology Policy (OSTP) [White paper] </li>
 <li> <a href=""> ORNL Microelectronics LDRD Initiative Deep Dive</a><br>ORNL Internal [White paper]</li>
 </ul>
 
@@ -47,12 +47,12 @@ My software portfolio is available on <a href="https://github.com/OKotevska"> Gi
 <li> <a href="https://ieeexplore.ieee.org/abstract/document/9647839">Measurement of Local Differential Privacy Techniques for IoT-based Streaming Data </a> <br> IEEE Conference on Privacy, Security, and Trust (PST) </li>
 <li> <a href="https://ieeexplore.ieee.org/abstract/document/9799176">Optimal Balance of Privacy and Utility with Differential Privacy Deep Learning Frameworks </a> <br>IEEE International Conference on Computational Science and Computational Intelligence (CSCI)</li>
 <li> <a href="https://ieeexplore.ieee.org/abstract/document/9799049"> Effectiveness of Privacy Techniques in Smart Metering Systems  </a> <br>IEEE International Conference on Computational Science and Computational Intelligence (CSCI)</li>
-<li> <a href="https://ieeexplore.ieee.org/abstract/document/9377735"> Methodology for interpretable reinforcement learning model for HVAC energy control </a> <br> IEEE International Conference on Big Data</li>
+<li> <a href="https://ieeexplore.ieee.org/abstract/document/9377735"> Methodology for interpretable reinforcement learning model for HVAC energy control </a> <br> IEEE International Conference on Big Data. Best paper runner up.</li>
 <li> <a href="https://ieeexplore.ieee.org/abstract/document/9372205"> Double Deep Q-Networks for Optimizing Electricity Cost of a Water Heater </a><br> IEEE PES Innovative Smart Grid Technologies (ISGT) </li>
 <li> <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0246310"> A pre-training and self-training approach for biomedical named entity recognition  </a><br> PLOS One </li>
 <li> <a href="https://www.osti.gov/biblio/1783004"> Challenges in Automated Detection of COVID-19 Misinformation</a> <br> ACM Workshop on Human Aspects of Misinformation Online</li>
 <li> <a href="https://www.sciencedirect.com/science/article/pii/S0378779620307574"> Multi-task deep reinforcement learning for intelligent multi-zone residential HVAC control</a> <br> Elsevier Electric Power Systems Research</li>
-<li> <a href="https://www.sciencedirect.com/science/article/abs/pii/S030626192031535X"> Intelligent multi-zone residential HVAC control strategy based on deep reinforcement learning</a> <br> Elsevier Applied Energy</li>
+<li> <a href="https://www.sciencedirect.com/science/article/abs/pii/S030626192031535X"> Intelligent multi-zone residential HVAC control strategy based on deep reinforcement learning</a> <br> Elsevier Applied Energy. Awarded highly cited research paper. </li>
 <li> <a href="https://link.springer.com/chapter/10.1007/978-3-030-96498-6_21"> An Open Call to Solve Scientific Data Challenges Using Advanced Data Analytics and Edge Computing</a> <br>Springer - Driving Scientific and Engineering Discoveries Through the Integration of Experiment, Big Data, and Modeling and Simulation </li>
 <li> <a href="https://custom.cvent.com/DCBD4ADAAD004096B1E4AD96F3C8049E/files/event/f9a6d32df34c43e5980b54f79ad848bc/738372bbcdd246ac9a9c00a177c075ac.pdf"> Challenges with Sensitive Data in Distributed Graph</a> <br>DOE ASCR Workshop on Cybersecurity and Privacy for Scientific Computing Ecosystems [White paper] </li>
 <li> <a href="https://custom.cvent.com/DCBD4ADAAD004096B1E4AD96F3C8049E/files/event/f9a6d32df34c43e5980b54f79ad848bc/2e42c4c5dbe74b578e47188036244a10.pdf"> Addressing the Limitations to Distributed Learning Containing Sensitive Data</a><br>DOE ASCR Workshop on Cybersecurity and Privacy for Scientific Computing Ecosystems [White paper] </li>
