@@ -7,7 +7,7 @@ author_profile: true
 <br>
 
 <b> Open-source software </b> <br>
-My software portfolio is available on <a href="https://github.com/OKotevska"> GitHub </a> and <a href="https://code.ornl.gov/ok0/set-of-projects">  GitLab </a> pages.
+The software portfolio is available on <a href="https://github.com/OKotevska"> GitHub </a> and <a href="https://code.ornl.gov/ok0/set-of-projects">  GitLab </a> pages.
 
 <b> Publications and White papers </b> <br>
 <b> 2024 </b>
