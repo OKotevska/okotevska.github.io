@@ -4,10 +4,8 @@ title: "Scientific outputs"
 permalink: /publications/
 author_profile: true
 ---
-<br>
-
-<b> Open-source software </b> <br>
-The software portfolio is available on <a href="https://github.com/OKotevska"> GitHub </a> and <a href="https://code.ornl.gov/ok0/set-of-projects">  GitLab </a> pages.
+<!--<b> Open-source software </b> <br>-->
+<!--The software portfolio is available on <a href="https://github.com/OKotevska"> GitHub </a> and <a href="https://code.ornl.gov/ok0/set-of-projects">  GitLab </a> pages.-->
 
 <b> Publications and White papers </b> <br>
 <b> 2024 </b>
