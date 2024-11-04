@@ -13,7 +13,7 @@ author_profile: true
 <li> <a href="https://arxiv.org/html/2409.01532v1"> Improving Robustness of Spectrogram Classifiers with Neural Stochastic Differential Equations </a> <br> IEEE 34th International Workshop on Machine Learning for Signal Processing (MLSP). </li>
 <li> <a href="https://arxiv.org/pdf/2308.16375">A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications</a> <br> IEEE Transactions on Knowledge and Data Engineering. <a href="https://github.com/nds-vu/awesome-gnn-privacy"> [Repository] </a></li>
 <li> <a href="https://arxiv.org/abs/2405.10376"> Dealing Doubt: Unveiling Threat Models in Gradient Inversion Attacks under Federated Learning, A Survey and Taxonomy </a> Preprint. </li>
-<li> <a href="https://ojs.aaai.org/index.php/AAAI/article/view/30507">  Frequency Oracles for Sensitive Data Monitoring </a><br>  AAAI Conference </li> 
+<li> <a href="https://ojs.aaai.org/index.php/AAAI/article/view/30507">  Frequency Oracles for Sensitive Data Monitoring </a><br>  Association for the Advancement of Artificial Intelligence (AAAI) Conference </li> 
 <li> Oak Ridge National Laboratory’s Strategic Research and Development Insights for Digital Twins<br>Office of Science and Technology Policy (OSTP) [White paper]</li>
 <li> DOE's Responsibilities on Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence<br>Office of Science and Technology Policy (OSTP) [White paper]</li>
 </ul>
