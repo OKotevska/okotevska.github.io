@@ -1,10 +1,9 @@
 --- 
 layout: archive 
-title: "Awards" 
+title: "Selected Awards" 
 permalink: /trophy/ 
 author_profile: true 
 ---
-Selected awards:
 * CRA Early and Mid Career Mentoring Workshop, 2023
 * IEEE Senior Membership , 2021
 * Community Outreach, ORNL Computer Science and Mathematics Division, 2020
