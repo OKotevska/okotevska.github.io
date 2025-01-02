@@ -10,9 +10,9 @@ author_profile: true
 <b> Publications and White papers </b> <br>
 <b> 2024 </b>
 <ul style="list-style-type: square;">  
-<li> <a href="https://smartcities.ieee.org/newsletter/october-november-2024/privacy-by-design-in-distributed-edge-systems-innovating-secure-workflows-for-smart-cities"> Privacy by Design in Distributed Edge Systems: Innovating Secure Workflows for Smart Cities </a> <br> IEEE Smart Cities. </li>
+<li> <a href="https://smartcities.ieee.org/newsletter/october-november-2024/privacy-by-design-in-distributed-edge-systems-innovating-secure-workflows-for-smart-cities"> Privacy by Design in Distributed Edge Systems: Innovating Secure Workflows for Smart Cities </a> <br> IEEE Smart Cities Newletter. </li>
 <li> <a href="https://arxiv.org/html/2409.01532v1"> Improving Robustness of Spectrogram Classifiers with Neural Stochastic Differential Equations </a> <br> IEEE 34th International Workshop on Machine Learning for Signal Processing (MLSP). </li>
-<li> <a href="https://arxiv.org/pdf/2308.16375">A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications</a> <br> IEEE Transactions on Knowledge and Data Engineering. <a href="https://github.com/nds-vu/awesome-gnn-privacy"> [Repository] </a></li>
+<li> <a href="https://arxiv.org/pdf/2308.16375">A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications</a> <br> IEEE Transactions on Knowledge and Data Engineering. <a href="https://github.com/nds-vu/awesome-gnn-privacy"> [Repository]. </a></li>
 <li> <a href="https://arxiv.org/abs/2405.10376"> Dealing Doubt: Unveiling Threat Models in Gradient Inversion Attacks under Federated Learning, A Survey and Taxonomy. </a> Preprint. </li>
 <li> <a href="https://ojs.aaai.org/index.php/AAAI/article/view/30507">  Frequency Oracles for Sensitive Data Monitoring </a><br>  Association for the Advancement of Artificial Intelligence (AAAI) Conference. </li> 
 <li> <a href="https://www.osti.gov/biblio/2439867" </a> Oak Ridge National Laboratory’s Strategic Research and Development Insights for Digital Twins<br>Office of Science and Technology Policy (OSTP) [White paper]. </li>
@@ -71,7 +71,7 @@ author_profile: true
 
 <b> 2019 and before</b>
 <ul style="list-style-type: square;">  
-<li> <a href="https://ieeexplore.ieee.org/abstract/document/9006318">Kensor: Coordinated Intelligence from Co-Located Sensors</a> <br> IEEE International Conference on Big Data, 2019 </li>
+<li> <a href="https://ieeexplore.ieee.org/abstract/document/9006318">Kensor: Coordinated Intelligence from Co-Located Sensors</a> <br> IEEE International Conference on Big Data, 2019. </li>
 <li> <a href="https://ieeexplore.ieee.org/document/8066282">Dynamic Network Model for Smart City Data-loss Resilience</a> <br> IEEE Access - Advanced Data Analytics for Large-scale Complex Data Environments, 2018. </li>
 <li> <a href="https://journal.uob.edu.bh/handle/123456789/286">Sentiment analysis of Social Sensors for improvement of local services improvement </a><br> International Journal of Computing and Digital Systems (IJCDS), 2017. </li>
 <li> <a href="">Toward a Real-Time Framework in Cloudlet-Based Architecture</a><br> Tsinghua Science and Technology Journal, 2016. </li>
