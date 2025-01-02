@@ -10,6 +10,7 @@ author_profile: true
 <b> Publications and White papers </b> <br>
 <b> 2024 </b>
 <ul style="list-style-type: square;">  
+<li> <a href="https://smartcities.ieee.org/newsletter/october-november-2024/privacy-by-design-in-distributed-edge-systems-innovating-secure-workflows-for-smart-cities"> Privacy by Design in Distributed Edge Systems: Innovating Secure Workflows for Smart Cities </a> <br> IEEE Smart Cities. </li>
 <li> <a href="https://arxiv.org/html/2409.01532v1"> Improving Robustness of Spectrogram Classifiers with Neural Stochastic Differential Equations </a> <br> IEEE 34th International Workshop on Machine Learning for Signal Processing (MLSP). </li>
 <li> <a href="https://arxiv.org/pdf/2308.16375">A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications</a> <br> IEEE Transactions on Knowledge and Data Engineering. <a href="https://github.com/nds-vu/awesome-gnn-privacy"> [Repository] </a></li>
 <li> <a href="https://arxiv.org/abs/2405.10376"> Dealing Doubt: Unveiling Threat Models in Gradient Inversion Attacks under Federated Learning, A Survey and Taxonomy </a> Preprint. </li>
