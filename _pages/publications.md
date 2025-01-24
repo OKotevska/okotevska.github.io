@@ -15,8 +15,8 @@ author_profile: true
 <li> <a href="https://arxiv.org/pdf/2308.16375">A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications</a> <br> IEEE Transactions on Knowledge and Data Engineering. <a href="https://github.com/nds-vu/awesome-gnn-privacy"> [Repository]. </a></li>
 <li> <a href="https://arxiv.org/abs/2405.10376"> Dealing Doubt: Unveiling Threat Models in Gradient Inversion Attacks under Federated Learning, A Survey and Taxonomy. </a> Preprint. </li>
 <li> <a href="https://ojs.aaai.org/index.php/AAAI/article/view/30507">  Frequency Oracles for Sensitive Data Monitoring </a><br>  Association for the Advancement of Artificial Intelligence (AAAI) Conference. </li> 
-<li> <a href="https://www.osti.gov/biblio/2439867"> ORNL Strategic Research and Development Insights for Digital Twins</a> <br>Office of Science and Technology Policy (OSTP) [White paper]. </li>
-<li> ORNL response to DOE's Responsibilities on Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence<br>Office of Science and Technology Policy (OSTP) [White paper]. </li>
+<li> <a href="https://www.osti.gov/biblio/2439867"> Oak Ridge National Laboratory’s Strategic Research and Development Insights for Digital Twins</a><br>Office of Science and Technology Policy (OSTP) [White paper]. </li>
+<li> Oak Ridge National Laboratory’s response to DOE's Responsibilities on Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence<br>Office of Science and Technology Policy (OSTP) [White paper]. </li>
 </ul>
 
 <b> 2023 </b>
