@@ -11,8 +11,9 @@ author_profile: true
 <b> 2026 </b>
 <ul style="list-style-type: square;">  
 <li> <a href=""> SPUN: Spectral Projection--based UNlearning in Hyperdimensional Computing. </a> <br> AAAI Workshop on Artificial Intelligence for Cyber Security. </li>
-<li> <a href="https://www.wiley.com/en-ae/AI+for+Cybersecurity%3A+Research+and+Practice-p-9781394293759"> The Security of Reinforcement Learning Systems in Electric Grid Domain. </a> <br> IEEE-Wiley Book AI for Cybersecurity: Research and Practice. </li>
-<li> <a href="https://www.wiley.com/en-ae/AI+for+Cybersecurity%3A+Research+and+Practice-p-9781394293759"> Robust AI Techniques to Support High Consequence Applications in the Cyber Age. </a> <br> IEEE-Wiley Book AI for Cybersecurity: Research and Practice. </li>
+<li> <a href="https://www.wiley.com/en-ae/AI+for+Cybersecurity%3A+Research+and+Practice-p-9781394293759"> The Security of Reinforcement Learning Systems in Electric Grid Domain. </a> <br> IEEE-Wiley Book AI for Cybersecurity: Research and Practice [Book chapter]. </li>
+<li> <a href="https://www.wiley.com/en-ae/AI+for+Cybersecurity%3A+Research+and+Practice-p-9781394293759"> Robust AI Techniques to Support High Consequence Applications in the Cyber Age. </a> <br> IEEE-Wiley Book AI for Cybersecurity: Research and Practice [Book chapter]. </li>
+<li> <a href="https://www.energyconsequences.com"> Federated neuromorphic computing in distributed edge environments. </a> <br> 2026 Energy Consequences of Information Workshop [White paper]/ </li>
 </ul>
 
 <b> 2025 </b>
@@ -21,7 +22,7 @@ author_profile: true
 <li> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11218270"> MIC-DP: A Scalable Correlation-Aware Differential Privacy Framework for Edge AI and High-Dimensional Data. </a> <br> IEEE Transactions on Privacy. </li>
 <li> <a href="https://ieeexplore.ieee.org/document/10924687"> Enhancing Smart Home Privacy: A Tutorial on Local Differential Privacy Techniques for Frequency and Mean Estimation. </a> <br> IEEE Communications Magazine. </li>
 <li> <a href="https://ieeexplore.ieee.org/document/11079249"> Privacy Preservation from High-Performance Computing to Autonomous Science. </a> <br> IEEE Computational Intelligence Magazine. </li>
-<li> <a href="https://www.computer.org/csdl/proceedings-article/pst/2025/11268818/2c95SqJQPhC"> Balancing Trade-offs: Adaptive Differential Privacy in Interpretable Machine Learning Models. </a> <br> IEEE Conference on Privacy, Security, and Trust. </li>
+<li> <a href="https://www.computer.org/csdl/proceedings-article/pst/2025/11268818/2c95SqJQPhC"> Balancing Trade-offs: Adaptive Differential Privacy in Interpretable Machine Learning Models. </a> <br> IEEE Conference on Privacy, Security, and Trust (PST). </li>
 <li> <a href="https://ieeexplore.ieee.org/document/11050545"> Dynamical Sketching for Enhanced Communication Efficiency in Federated Learning. </a> <br> IEEE International Conference on Artificial Intelligence. </li>
 </ul>
 
