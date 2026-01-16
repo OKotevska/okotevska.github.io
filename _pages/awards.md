@@ -5,7 +5,9 @@ permalink: /awards/
 author_profile: true 
 ---
 Selected awards:
-	▪	CRA Early and Mid Career Mentoring Workshop, 2023 
+	▪	R&D 100 Award - ”PRESTO: Privacy REcommendation and SecuriTy Optimization”, 2025
+	▪   Outstanding Mentorship, Computer Science and Mathematics Division, ORNL, 2024
+	▪   CRA Early and Mid Career Mentoring Workshop, 2023 
 	▪	Highly cited research paper award <a href=“https://www.sciencedirect.com/science/article/abs/pii/S030626192031535X”> Intelligent multi-zone residential HVAC control strategy based on deep reinforcement learning' </a>, Applied Energy, 2022
 	▪	IEEE Senior Membership, 2021
 	▪	Community Outreach, Computer Science and Mathematics Division, ORNL, 2020
