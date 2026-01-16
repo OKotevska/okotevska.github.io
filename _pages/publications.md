@@ -18,7 +18,7 @@ author_profile: true
 
 <b> 2025 </b>
 <ul style="list-style-type: square;">  
-<li> <a href="https://dl.acm.org/doi/10.1145/3731599.3767397"> OmniFed: A Modular Framework for Configurable Federated Learning from Edge to HPC. </a> <br> ACM/IEEE Supercomputing Workshop. </li>
+<li> <a href="https://dl.acm.org/doi/10.1145/3731599.3767397"> OmniFed: A Modular Framework for Configurable Federated Learning from Edge to HPC. </a> <br> ACM/IEEE Supercomputing Workshop on Extreme Heterogeneity and AI Convergence in HPC. </li>
 <li> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11218270"> MIC-DP: A Scalable Correlation-Aware Differential Privacy Framework for Edge AI and High-Dimensional Data. </a> <br> IEEE Transactions on Privacy. </li>
 <li> <a href="https://ieeexplore.ieee.org/document/10924687"> Enhancing Smart Home Privacy: A Tutorial on Local Differential Privacy Techniques for Frequency and Mean Estimation. </a> <br> IEEE Communications Magazine. </li>
 <li> <a href="https://ieeexplore.ieee.org/document/11079249"> Privacy Preservation from High-Performance Computing to Autonomous Science. </a> <br> IEEE Computational Intelligence Magazine. </li>
