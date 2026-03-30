@@ -10,7 +10,7 @@ author_profile: true
 <b> Publications and White papers </b> <br>
 <b> 2026 </b>
 <ul style="list-style-type: square;">  
-<li> <a href=""> Traceable Black-box Watermarks for Federated Learning. [Code](https://github.com/JiiahaoXU/TraMark) </a> <br> The Fourteenth International Conference on Learning Representations (ICLR) 2026. </li>
+<li> <a href=""> Traceable Black-box Watermarks for Federated Learning.</a> <br> The Fourteenth International Conference on Learning Representations (ICLR) 2026. </li>
 <li> <a href=""> Selective Amnesia using Contrastive Subnet Erasure for Class Level Unlearning in Vision Models. </a> <br> The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026. </li>  
 <li> <a href=""> Scalable Federated Learning for Scientific Foundation Models on Leadership-Class Systems. </a> <br> The 6th Workshop on Machine Learning and Systems (EuroMLSys)co-located with EuroSys '26. </li>
 <li> <a href=""> Energy-Efficiency Metrics for Privacy-Preserving Federated Learning with SmartNIC Server Acceleration. </a> <br> The Sixteenth International Workshop on Accelerators and Hybrid Emerging Systems co-located with 40th IEEE International Parallel and Distributed Processing Symposium. </li>
