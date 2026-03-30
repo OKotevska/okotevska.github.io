@@ -10,6 +10,12 @@ author_profile: true
 <b> Publications and White papers </b> <br>
 <b> 2026 </b>
 <ul style="list-style-type: square;">  
+<li> <a href=""> Traceable Black-box Watermarks for Federated Learning. </a> <br> The Fourteenth International Conference on Learning Representations (ICLR) 2026. </li>
+<li> <a href=""> Selective Amnesia using Contrastive Subnet Erasure for Class Level Unlearning in Vision Models. </a> <br> The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026. </li>  
+<li> <a href=""> Scalable Federated Learning for Scientific Foundation Models on Leadership-Class Systems. </a> <br> The 6th Workshop on Machine Learning and Systems (EuroMLSys)co-located with EuroSys '26. </li>
+<li> <a href=""> Energy-Efficiency Metrics for Privacy-Preserving Federated Learning with SmartNIC Server Acceleration. </a> <br> The Sixteenth International Workshop on Accelerators and Hybrid Emerging Systems co-located with 40th IEEE International Parallel and Distributed Processing Symposium. </li>
+<li> <a href=""> Assuring Trustworthiness in Scalable Federated Learning for Scientific AI Systems. </a> SPIE Conference on Assurance and Security for AI-enabled Systems 2026. <br>  </li>
+<li> <a href="https://ieeexplore.ieee.org/abstract/document/11373392"> Optimal Client Sampling in Federated Learning with Client-level Heterogeneous Differential Privacy. </a> <br> IEEE Internet of Things Journal. </li>
 <li> <a href=""> SPUN: Spectral Projection--based UNlearning in Hyperdimensional Computing. </a> <br> AAAI Workshop on Artificial Intelligence for Cyber Security. </li>
 <li> <a href="https://www.wiley.com/en-ae/AI+for+Cybersecurity%3A+Research+and+Practice-p-9781394293759"> The Security of Reinforcement Learning Systems in Electric Grid Domain. </a> <br> IEEE-Wiley Book AI for Cybersecurity: Research and Practice [Book chapter]. </li>
 <li> <a href="https://www.wiley.com/en-ae/AI+for+Cybersecurity%3A+Research+and+Practice-p-9781394293759"> Robust AI Techniques to Support High Consequence Applications in the Cyber Age. </a> <br> IEEE-Wiley Book AI for Cybersecurity: Research and Practice [Book chapter]. </li>
@@ -18,11 +24,13 @@ author_profile: true
 
 <b> 2025 </b>
 <ul style="list-style-type: square;">  
+<li> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11311065"> Engineering Privacy at the Edge: A Practical Guide to Differential Privacy in System Architectures. </a> <br> The 43rd IEEE International Conference on Computer Design (ICCD 2025). </li>
 <li> <a href="https://dl.acm.org/doi/10.1145/3731599.3767397"> OmniFed: A Modular Framework for Configurable Federated Learning from Edge to HPC. </a> <br> ACM/IEEE Supercomputing Workshop on Extreme Heterogeneity and AI Convergence in HPC. </li>
 <li> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11218270"> MIC-DP: A Scalable Correlation-Aware Differential Privacy Framework for Edge AI and High-Dimensional Data. </a> <br> IEEE Transactions on Privacy. </li>
 <li> <a href="https://ieeexplore.ieee.org/document/10924687"> Enhancing Smart Home Privacy: A Tutorial on Local Differential Privacy Techniques for Frequency and Mean Estimation. </a> <br> IEEE Communications Magazine. </li>
 <li> <a href="https://ieeexplore.ieee.org/document/11079249"> Privacy Preservation from High-Performance Computing to Autonomous Science. </a> <br> IEEE Computational Intelligence Magazine. </li>
 <li> <a href="https://www.computer.org/csdl/proceedings-article/pst/2025/11268818/2c95SqJQPhC"> Balancing Trade-offs: Adaptive Differential Privacy in Interpretable Machine Learning Models. </a> <br> IEEE Conference on Privacy, Security, and Trust (PST). </li>
+<li> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10825853"> Privacy-Preserving Federated Learning for Science: Challenges and Research Directions.  </a> <br> The 13th IEEE International Conference on Big Data (IEEE BigData 2025). </li>
 <li> <a href="https://ieeexplore.ieee.org/document/11050545"> Dynamical Sketching for Enhanced Communication Efficiency in Federated Learning. </a> <br> IEEE International Conference on Artificial Intelligence. </li>
 </ul>
 
