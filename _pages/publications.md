@@ -19,7 +19,7 @@ author_profile: true
 <li> <a href=""> SPUN: Spectral Projection--based UNlearning in Hyperdimensional Computing. </a> <br> AAAI Workshop on Artificial Intelligence for Cyber Security. </li>
 <li> <a href="https://www.wiley.com/en-ae/AI+for+Cybersecurity%3A+Research+and+Practice-p-9781394293759"> The Security of Reinforcement Learning Systems in Electric Grid Domain. </a> <br> IEEE-Wiley Book AI for Cybersecurity: Research and Practice [Book chapter]. </li>
 <li> <a href="https://www.wiley.com/en-ae/AI+for+Cybersecurity%3A+Research+and+Practice-p-9781394293759"> Robust AI Techniques to Support High Consequence Applications in the Cyber Age. </a> <br> IEEE-Wiley Book AI for Cybersecurity: Research and Practice [Book chapter]. </li>
-<li> <a href="https://www.energyconsequences.com"> Federated neuromorphic computing in distributed edge environments. </a> <br> 2026 Energy Consequences of Information Workshop [White paper]/ </li>
+<li> <a href="https://www.energyconsequences.com"> Federated neuromorphic computing in distributed edge environments. </a> <br> 2026 Energy Consequences of Information Workshop [White paper]. </li>
 </ul>
 
 <b> 2025 </b>
