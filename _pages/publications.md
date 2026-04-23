@@ -17,8 +17,7 @@ author_profile: true
 <li> <a href=""> Energy-Efficiency Metrics for Privacy-Preserving Federated Learning with SmartNIC Server Acceleration. </a> <br> The Sixteenth International Workshop on Accelerators and Hybrid Emerging Systems co-located with 40th IEEE International Parallel and Distributed Processing Symposium. </li>
 <li> <a href=""> ADP-TwoLevel: Two-Stage Gra-
 dient Subspace Learning for Differentially Private Federated Learning. </a> <br> SPIE Conference on Assurance and Security for AI-enabled Systems.  </li>
-<li> <a href=""> ADP-TwoLevel: Entropy-weighted multi-layer
-attention for token-level attribution in autoregressive language models. </a> <br> SPIE Conference on Assurance and Security for AI-enabled Systems.  </li>
+<li> <a href=""> DP-TwoLevel: Entropy-weighted multi-layer attention for token-level attribution in autoregressive language models. </a> <br> SPIE Conference on Assurance and Security for AI-enabled Systems.  </li>
 <li> <a href="https://ieeexplore.ieee.org/abstract/document/11373392"> Optimal Client Sampling in Federated Learning with Client-level Heterogeneous Differential Privacy. </a> <br> IEEE Internet of Things Journal. </li>
 <li> <a href=""> SPUN: Spectral Projection--based UNlearning in Hyperdimensional Computing. </a> <br> AAAI Workshop on Artificial Intelligence for Cyber Security. </li>
 <li> <a href="https://www.wiley.com/en-ae/AI+for+Cybersecurity%3A+Research+and+Practice-p-9781394293759"> The Security of Reinforcement Learning Systems in Electric Grid Domain. </a> <br> IEEE-Wiley Book AI for Cybersecurity: Research and Practice [Book chapter]. </li>
