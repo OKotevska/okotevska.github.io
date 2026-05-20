@@ -7,16 +7,16 @@ author_profile: true
 <!--<b> Open-source software </b> <br>-->
 <!--The software portfolio is available on <a href="https://github.com/OKotevska"> GitHub </a> and <a href="https://code.ornl.gov/ok0/set-of-projects">  GitLab </a> pages.-->
 
-<p>Peer-reviewed articles, conference papers, book chapters, and reports spanning privacy-preserving machine learning, federated learning, differential privacy, and AI security. <b>TOTAL PUBLICATIONS: 71</b> &nbsp;|&nbsp; <a href="https://scholar.google.com/citations?user=8kdeBSEAAAAJ&hl=en&authuser=1">Google Scholar</a></p>
+<p>Peer-reviewed articles, conference papers, book chapters, and reports spanning privacy-preserving machine learning, federated learning, differential privacy, and AI security.<br><b>TOTAL PUBLICATIONS: 71</b> &nbsp;|&nbsp; <a href="https://scholar.google.com/citations?user=8kdeBSEAAAAJ&hl=en&authuser=1">Google Scholar</a></p>
 
 <b> Under Review (Preprints on arXiv) </b> <br>
 <i> Ordered by arXiv posting date, most recent first. </i>
 <ul style="list-style-type: none;">
-<li> Zhang, Z., Hu, R., Kotevska, O., &amp; Xu, J. (2026). <a href="https://arxiv.org/abs/2604.01473">SelfGrader: Stable Jailbreak Detection for Large Language Models using Token-Level Logits.</a> <em>arXiv preprint</em>, submitted April 2026. </li>
-<li> Tran, T., Kotevska, O., &amp; Xiong, L. (2026). <a href="https://arxiv.org/abs/2603.19375">Automated Membership Inference Attacks: Discovering MIA Signal Computations using LLM Agents.</a> <em>arXiv preprint</em>, submitted March 2026. </li>
-<li> Riya, F. F., Hoque, S., Sun, J. S., &amp; Kotevska, O. (2025). <a href="https://arxiv.org/abs/2511.13535">Accuracy is Not Enough: Poisoning Interpretability in Federated Learning via Color Skew.</a> <em>arXiv preprint</em>, submitted November 2025. </li>
-<li> Mahbub, M., Klein, R. J., Selvan, M. E., Yip, R., Henschke, C., Morales, P., Goethert, I., Kotevska, O., Shekar, M. C., Wilkinson, S. R., McAllister, E., Aguayo, S. M., Gümüş, Z. H., Danciu, I., &amp; VA Million Veteran Program. (2025). <a href="https://arxiv.org/abs/2510.07477">HEMERA: A Human-Explainable Transformer Model for Estimating Lung Cancer Risk using GWAS Data.</a> <em>arXiv preprint</em>, submitted October 2025. </li>
-<li> Shi, Y., Kotevska, O., Reshniak, V., Singh, A., &amp; Raskar, R. (2024). <a href="https://arxiv.org/abs/2405.10376">Dealing Doubt: Unveiling Threat Models in Gradient Inversion Attacks under Federated Learning, A Survey and Taxonomy.</a> <em>arXiv preprint</em>, submitted May 2024. </li>
+<li> <b>01.</b> Zhang, Z., Hu, R., Kotevska, O., &amp; Xu, J. (2026). <a href="https://arxiv.org/abs/2604.01473">SelfGrader: Stable Jailbreak Detection for Large Language Models using Token-Level Logits.</a> <em>arXiv preprint</em>, submitted April 2026. </li>
+<li> <b>02.</b> Tran, T., Kotevska, O., &amp; Xiong, L. (2026). <a href="https://arxiv.org/abs/2603.19375">Automated Membership Inference Attacks: Discovering MIA Signal Computations using LLM Agents.</a> <em>arXiv preprint</em>, submitted March 2026. </li>
+<li> <b>03.</b> Riya, F. F., Hoque, S., Sun, J. S., &amp; Kotevska, O. (2025). <a href="https://arxiv.org/abs/2511.13535">Accuracy is Not Enough: Poisoning Interpretability in Federated Learning via Color Skew.</a> <em>arXiv preprint</em>, submitted November 2025. </li>
+<li> <b>04.</b> Mahbub, M., Klein, R. J., Selvan, M. E., Yip, R., Henschke, C., Morales, P., Goethert, I., Kotevska, O., Shekar, M. C., Wilkinson, S. R., McAllister, E., Aguayo, S. M., Gümüş, Z. H., Danciu, I., &amp; VA Million Veteran Program. (2025). <a href="https://arxiv.org/abs/2510.07477">HEMERA: A Human-Explainable Transformer Model for Estimating Lung Cancer Risk using GWAS Data.</a> <em>arXiv preprint</em>, submitted October 2025. </li>
+<li> <b>05.</b> Shi, Y., Kotevska, O., Reshniak, V., Singh, A., &amp; Raskar, R. (2024). <a href="https://arxiv.org/abs/2405.10376">Dealing Doubt: Unveiling Threat Models in Gradient Inversion Attacks under Federated Learning, A Survey and Taxonomy.</a> <em>arXiv preprint</em>, submitted May 2024. </li>
 </ul>
 
 <b> Publications and White papers </b> <br>
