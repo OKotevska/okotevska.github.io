@@ -76,7 +76,7 @@ author_profile: true
 <li> Zhang, Y., Zhao, Y., Li, Z., Cheng, X., Wang, Y., Kotevska, O., Yu, P. S., &amp; Derr, T. (2024). <a href="https://arxiv.org/pdf/2308.16375">A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications.</a> <em>IEEE Transactions on Knowledge and Data Engineering</em>. <a href="https://github.com/nds-vu/awesome-gnn-privacy">[Repository].</a> </li>
 <li> Sances, R., Kotevska, O., &amp; Laiu, P. (2024). <a href="https://ojs.aaai.org/index.php/AAAI/article/view/30507">Frequency Oracles for Sensitive Data Monitoring.</a> <em>Association for the Advancement of Artificial Intelligence (AAAI) Conference</em>. </li>
 <li> Al Najjar, A., Anantharaj, V., Asthagiri, D., Badalassi, V., Balaprakash, P., Beck, T., et al., Kotevska, O., et al., &amp; Ziabari, A. (2024). <a href="https://www.osti.gov/biblio/2439867">Oak Ridge National Laboratory's Strategic Research and Development Insights for Digital Twins.</a> <em>Office of Science and Technology Policy (OSTP)</em> [White paper]. </li>
-<li> (2024). Oak Ridge National Laboratory's response to DOE's Responsibilities on Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence. <em>Office of Science and Technology Policy (OSTP)</em> [White paper]. </li>
+<li> (2024). Oak Ridge National Laboratory's response to U.S. Department of Energy (DOE)'s Responsibilities on Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence. <em>Office of Science and Technology Policy (OSTP)</em> [White paper]. </li>
 </ul>
 
 <b> 2023 </b>
