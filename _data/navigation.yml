@@ -9,13 +9,13 @@ main:
   - title: "Awards"
     url: /trophy/
 
-  - title: "Grants"
+  - title: "Funding"
     url: /grants/
 
   - title: "Students"
     url: /students/
 
-  - title: "Service"
+  - title: "Activities"
     url: /service/    
 
   - title: "Outreach"

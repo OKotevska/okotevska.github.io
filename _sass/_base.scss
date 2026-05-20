@@ -68,6 +68,25 @@ p {
   margin-bottom: 1em;
 }
 
+.section-heading {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 0.1em;
+}
+
+.year-label {
+  display: block;
+  margin-top: 0.8em;
+  margin-bottom: 0.1em;
+}
+
+.sq-list {
+  list-style-type: square;
+  margin: 0 0 0 1.5em;
+  padding: 0;
+  li { margin-bottom: 0.2em; }
+}
+
 u,
 ins {
   text-decoration: none;
