@@ -16,16 +16,16 @@ author_profile: true
 
 <ul style="list-style-type: none; padding-left: 0;">
   <li>
+    <b>2025–2027 &nbsp;|&nbsp; $14,000,000</b><br>
+    Genesis Mission / ModCon — AI Safety &amp; Security Thrust<br>
+    <em>Team Member</em> — Office of Advanced Scientific Computing Research (ASCR)
+  </li>
+  <br>
+  <li>
     <b>2024–2027 &nbsp;|&nbsp; $7,000,000</b><br>
     Federated Learning Methods for Privacy Preservation in Foundational Models<br>
     <em>Principal Investigator</em> — Office of Advanced Scientific Computing Research (ASCR), AI for Science<br>
     <a href="https://github.com/ORNL/Sci_PPFL_FM/blob/main/readme.md">Project info</a>
-  </li>
-  <br>
-  <li>
-    <b>2025–2027 &nbsp;|&nbsp; $14,000,000</b><br>
-    Genesis Mission / ModCon — AI Safety &amp; Security Thrust<br>
-    <em>Team Member</em> — Office of Advanced Scientific Computing Research (ASCR)
   </li>
   <br>
   <li>
