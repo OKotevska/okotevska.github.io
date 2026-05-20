@@ -5,7 +5,7 @@ html {
   /* sticky footer fix */
   position: relative;
   min-height: 100%;
-  font-size: 16px;
+  font-size: 14px;
 }
 
 body {
@@ -59,6 +59,12 @@ small, .small {
 }
 
 p {
+  margin-bottom: 1em;
+}
+
+.page-tagline {
+  color: #777;
+  font-style: italic;
   margin-bottom: 1em;
 }
 
