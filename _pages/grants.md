@@ -7,7 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-<p>Competitively funded programs focused on privacy-preserving machine learning, federated learning, and AI for scientific applications. <b>TOTAL AWARDS: 5</b> &nbsp;|&nbsp; <b>GROSS FUNDING: ~$9.2M</b></p>
+<p style="font-size: 0.95em; letter-spacing: 0.08em; color: #555; text-transform: uppercase; font-weight: 600;">Competitively funded programs across U.S. agencies.</p>
+<p><b>TOTAL AWARDS: 10</b> &nbsp;|&nbsp; <b>GROSS FUNDING: ~$14.2M</b></p>
 
 ---
 
@@ -30,6 +31,48 @@ author_profile: true
 
 ---
 
+**U.S. Department of Energy — National Nuclear Security Administration (NNSA)**
+
+<ul style="list-style-type: none; padding-left: 0;">
+  <li>
+    <b>$3,000,000</b><br>
+    Explainable, High Confidence Models for Dynamic Systems<br>
+    <em>Task Lead</em> — DOE NNSA
+  </li>
+  <br>
+  <li>
+    <b>$1,000,000</b><br>
+    Intrusion Detection for Controller Area Networks for Vehicles<br>
+    <em>Task Lead</em> — DOE NNSA
+  </li>
+</ul>
+
+---
+
+**U.S. Department of Veterans Affairs**
+
+<ul style="list-style-type: none; padding-left: 0;">
+  <li>
+    <b>2023–2025</b><br>
+    Lung Cancer Prediction and Explainability<br>
+    <em>Task Lead</em> — U.S. Veterans Affairs
+  </li>
+</ul>
+
+---
+
+**U.S. Department of Defense (DoD)**
+
+<ul style="list-style-type: none; padding-left: 0;">
+  <li>
+    <b>2020</b><br>
+    Misinformation Impact on Covid-19<br>
+    <em>Task Lead</em> — DoD
+  </li>
+</ul>
+
+---
+
 **ORNL Laboratory Directed Research & Development (LDRD / SEED)**
 
 <ul style="list-style-type: none; padding-left: 0;">
@@ -37,6 +80,12 @@ author_profile: true
     <b>2024–2025 &nbsp;|&nbsp; $240,000</b><br>
     Scalable Privacy Algorithms and Benchmarks for Federated Learning Frameworks<br>
     <em>Principal Investigator</em> — ORNL LDRD
+  </li>
+  <br>
+  <li>
+    <b>2021 &nbsp;|&nbsp; $1,000,000</b><br>
+    Flexible Privacy-enabled Platform for AI Sensitive Applications<br>
+    <em>Task Lead</em> — ORNL LDRD
   </li>
   <br>
   <li>
