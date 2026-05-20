@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Olivera Kotevska, PhD"
 title_separator          : "-"
 name                     : &name "Ole"
-description              : &description "Research Scientist"
+description              : &description "Senior Research Scientist"
 url                      : https://okotevska.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "okotevska/okotevska.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Olivera Kotevska, PhD"
   avatar           : "profile_okk.png"
-  bio              : "Research Scientist"
+  bio              : "Senior Research Scientist"
   location         : #"Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
