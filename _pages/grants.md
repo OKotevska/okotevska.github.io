@@ -53,7 +53,7 @@ author_profile: true
   <div class="funding-date">2024&#8211;2027</div>
   <div class="funding-body">
     <span class="funding-title">Federated Learning Methods for Privacy Preservation in Foundational Models</span> &nbsp; <span class="funding-amount">$7,000,000</span><br>
-    <span class="funding-role">Principal Investigator</span> &#8212; Office of Advanced Scientific Computing Research (ASCR), AI for Science &nbsp; <a href="https://github.com/ORNL/Sci_PPFL_FM/blob/main/readme.md">Project info</a>
+    <span class="funding-role">Principal Investigator</span> &#8212; Office of Advanced Scientific Computing Research (ASCR), AI for Science &nbsp; <a href="https://github.com/ORNL/Sci_PPFL_FM/blob/main/readme.md">Project deliverables</a>
   </div>
 </div>
 
