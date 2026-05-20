@@ -29,21 +29,6 @@ My work advances the theory and practice of privacy-preserving machine learning 
 
 ---
 
-### Professional Facts
-
-<p><i>A snapshot of scholarship, service, and funded impact.</i></p>
-
-<table style="border:none; width:auto; border-collapse:separate; border-spacing:2em 0;">
-  <tr>
-    <td style="border:none; text-align:center;"><b style="font-size:1.4em;">71</b><br><small>Publications</small></td>
-    <td style="border:none; text-align:center;"><b style="font-size:1.4em;">5</b><br><small>Grants</small></td>
-    <td style="border:none; text-align:center;"><b style="font-size:1.4em;">~$9.2M</b><br><small>Total Funding</small></td>
-    <td style="border:none; text-align:center;"><a href="https://scholar.google.com/citations?user=8kdeBSEAAAAJ&hl=en&authuser=1"><b style="font-size:1.4em;">Google Scholar</b></a><br><small>Citations &amp; H-index</small></td>
-  </tr>
-</table>
-
----
-
 ### Get in Touch
 
 <p><i>Open to collaborations, invited talks, and research partnerships.</i></p>
