@@ -7,7 +7,7 @@ redirect_from:
   - /students.html
 ---
 
-<p class="page-tagline">If you are interested in working with me, consider the opportunities listed below. I am looking for genuinely motivated students interested in trustworthy and efficient ML — privacy, interpretability, and explainability.</p>
+<p class="section-heading">If you are interested in working with me, consider the opportunities listed below. I am looking for genuinely motivated students interested in trustworthy and efficient ML — privacy, interpretability, and explainability.</p>
 
 <b> Internship opportunities </b> 
 
