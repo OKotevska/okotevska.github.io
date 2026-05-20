@@ -1,6 +1,6 @@
 --- 
 layout: archive 
-title: "Selected Awards" 
+title: "Awards" 
 permalink: /trophy/ 
 author_profile: true 
 ---
@@ -43,22 +43,22 @@ author_profile: true
 <ul style="list-style-type: square;">
   <li>Best Paper Runner-Up, <em>IEEE BigData Conference</em> — "Methodology for interpretable reinforcement learning model for HVAC energy control."</li>
   <li>Community Outreach and Service Award, <em>ORNL Computer Science and Mathematics Division</em>.</li>
-  <li>Heidelberg Laureate Forum.</li>
+  <li>Participation scholarship, <em>Heidelberg Laureate Forum</em>.</li>
 </ul>
 
 <b>2019</b>
 <ul style="list-style-type: square;">
-  <li>US Clean Energy Education and Empowerment (C3E) Women in Clean Energy Symposium and Awards.</li>
+  <li>Participation scholarship, <em>US Clean Energy Education and Empowerment (C3E) Women in Clean Energy Symposium and Awards</em>.</li>
 </ul>
 
 <b>2018</b>
 <ul style="list-style-type: square;">
   <li>International Guest Researcher, <em>National Institute of Standards and Technology (NIST)</em>.</li>
-  <li>CRA-WP Early and Mid Career Mentoring Workshop.</li>
+  <li>Participation scholarship, <em>CRA-WP Early and Mid Career Mentoring Workshop</em>.</li>
 </ul>
 
 <b>2017</b>
 <ul style="list-style-type: square;">
-  <li>Grace Hopper Celebration.</li>
-  <li>ACM-W Europe Celebration of Women in Computing Conference.</li>
+  <li>Participation scholarship, <em>Grace Hopper Celebration</em>.</li>
+  <li>Participation scholarship, <em>ACM-W Europe Celebration of Women in Computing Conference</em>.</li>
 </ul>

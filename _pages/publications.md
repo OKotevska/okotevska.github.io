@@ -37,7 +37,7 @@ author_profile: true
 </ul>
 </div>
 
-<b> Publications and White papers </b> <br>
+<b> Published or Accepted </b> <br>
 <div style="counter-reset: pub-counter;">
 <b> 2026 </b>
 <ul class="pub-list">
