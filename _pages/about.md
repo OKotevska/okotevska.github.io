@@ -18,7 +18,7 @@ I am a Senior Member of IEEE and Chair & Founder of the [IEEE Women in Engineeri
 
 ---
 
-### Research Focus
+<h2 style="font-size: 1.3em; margin-top: 1.2em; margin-bottom: 0.4em;">Research Focus</h2>
 
 My work advances the theory and practice of privacy-preserving machine learning for distributed and federated scientific systems. Core research themes include:
 
@@ -29,7 +29,7 @@ My work advances the theory and practice of privacy-preserving machine learning 
 
 ---
 
-### Get in Touch
+<h2 style="font-size: 1.3em; margin-top: 1.2em; margin-bottom: 0.4em;">Get in Touch</h2>
 
 <p><i>Open to collaborations, invited talks, and research partnerships.</i></p>
 
