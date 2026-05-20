@@ -87,6 +87,10 @@ p {
   margin-bottom: 0.1em;
 }
 
+p:has(> .year-label) {
+  margin-bottom: 0;
+}
+
 .sq-list {
   list-style-type: square;
   margin: 0 0 0 1.5em;
