@@ -7,8 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-<p style="font-size: 0.95em; letter-spacing: 0.08em; color: #555; text-transform: uppercase; font-weight: 600;">Competitively funded programs across U.S. agencies.</p>
-<p><b>TOTAL AWARDS: 15</b> &nbsp;|&nbsp; <b>GROSS FUNDING: ~$19.4M</b></p>
+<p style="font-size: 0.95em; letter-spacing: 0.08em; color: #555; text-transform: uppercase; font-weight: 600;">Competitively funded programs across U.S. agencies and private sector.</p>
+<p><b>TOTAL AWARDS: 16</b> &nbsp;|&nbsp; <b>GROSS FUNDING: ~$33.4M</b></p>
 
 ---
 
@@ -20,6 +20,12 @@ author_profile: true
     Federated Learning Methods for Privacy Preservation in Foundational Models<br>
     <em>Principal Investigator</em> — Office of Advanced Scientific Computing Research (ASCR), AI for Science<br>
     <a href="https://github.com/ORNL/Sci_PPFL_FM/blob/main/readme.md">Project info</a>
+  </li>
+  <br>
+  <li>
+    <b>2025–2027 &nbsp;|&nbsp; $14,000,000</b><br>
+    Genesis Mission / ModCon — AI Safety &amp; Security Thrust<br>
+    <em>Team Member</em> — Office of Advanced Scientific Computing Research (ASCR)
   </li>
   <br>
   <li>
