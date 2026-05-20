@@ -4,17 +4,61 @@ title: "Selected Awards"
 permalink: /trophy/ 
 author_profile: true 
 ---
-* 2026, Gold Reviewer, International Conference on Machine Learning (ICML).
-* 2025, R&D 100 Award in Software Category <a href="https://www.rdworldonline.com/rd-100-2025-winner/presto-privacy-recommendation-and-security-optimization/"> PRESTO: Privacy REcommendation and SecuriTy Optimization</a>.
-* 2024, Outstanding Mentorship, ORNL Computer Science and Mathematics Division.
-* 2023, CRA Early and Mid Career Mentoring Workshop.
-* 2022, Applied Energy, Highly cited research paper award <a href="https://www.sciencedirect.com/science/article/abs/pii/S030626192031535X"> Intelligent multi-zone residential HVAC control strategy based on deep reinforcement learning. </a>
-* 2021, IEEE Senior Membership.
-* 2020, IEEE BigData Conference, Best Paper Runner-Up, 'Methodology for interpretable reinforcement learning model for HVAC energy control'
-* 2020, Community Outreach and Service, ORNL Computer Science and Mathematics Division.
-* 2020, Heidelberg Laureate Forum.
-* 2019, US Clean Energy Education and Empowerment (C3E) Women in Clean Energy Symposium and Awards.
-* 2018, International Guest Researcher, National Institute of Standards and Technology (NIST).
-* 2018, CRA-WP Early and Mid Career Mentoring Workshop.
-* 2017, Grace Hopper Celebration.
-* 2017, ACM-W Europe Celebration Women in Computing Conference.
+
+<p>Recognition for research excellence, mentorship, and community contributions.</p>
+
+---
+
+<b>2026</b>
+<ul style="list-style-type: square;">
+  <li>Gold Reviewer, <em>International Conference on Machine Learning (ICML)</em>.</li>
+</ul>
+
+<b>2025</b>
+<ul style="list-style-type: square;">
+  <li><a href="https://www.rdworldonline.com/rd-100-2025-winner/presto-privacy-recommendation-and-security-optimization/">R&amp;D 100 Award, Software Category</a> — <em>PRESTO: Privacy REcommendation and SecuriTy Optimization</em>.</li>
+</ul>
+
+<b>2024</b>
+<ul style="list-style-type: square;">
+  <li>Outstanding Mentorship Award, <em>ORNL Computer Science and Mathematics Division</em>.</li>
+</ul>
+
+<b>2023</b>
+<ul style="list-style-type: square;">
+  <li>CRA Early and Mid Career Mentoring Workshop.</li>
+</ul>
+
+<b>2022</b>
+<ul style="list-style-type: square;">
+  <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S030626192031535X">Highly Cited Research Paper Award</a>, <em>Applied Energy</em> — "Intelligent multi-zone residential HVAC control strategy based on deep reinforcement learning."</li>
+</ul>
+
+<b>2021</b>
+<ul style="list-style-type: square;">
+  <li>IEEE Senior Membership.</li>
+</ul>
+
+<b>2020</b>
+<ul style="list-style-type: square;">
+  <li>Best Paper Runner-Up, <em>IEEE BigData Conference</em> — "Methodology for interpretable reinforcement learning model for HVAC energy control."</li>
+  <li>Community Outreach and Service Award, <em>ORNL Computer Science and Mathematics Division</em>.</li>
+  <li>Heidelberg Laureate Forum.</li>
+</ul>
+
+<b>2019</b>
+<ul style="list-style-type: square;">
+  <li>US Clean Energy Education and Empowerment (C3E) Women in Clean Energy Symposium and Awards.</li>
+</ul>
+
+<b>2018</b>
+<ul style="list-style-type: square;">
+  <li>International Guest Researcher, <em>National Institute of Standards and Technology (NIST)</em>.</li>
+  <li>CRA-WP Early and Mid Career Mentoring Workshop.</li>
+</ul>
+
+<b>2017</b>
+<ul style="list-style-type: square;">
+  <li>Grace Hopper Celebration.</li>
+  <li>ACM-W Europe Celebration of Women in Computing Conference.</li>
+</ul>
