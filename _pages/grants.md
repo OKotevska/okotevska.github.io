@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 <p style="font-size: 0.95em; letter-spacing: 0.08em; color: #555; text-transform: uppercase; font-weight: 600;">Competitively funded programs across U.S. agencies.</p>
-<p><b>TOTAL AWARDS: 10</b> &nbsp;|&nbsp; <b>GROSS FUNDING: ~$14.2M</b></p>
+<p><b>TOTAL AWARDS: 15</b> &nbsp;|&nbsp; <b>GROSS FUNDING: ~$19.4M</b></p>
 
 ---
 
@@ -26,6 +26,12 @@ author_profile: true
     <b>2023–2025 &nbsp;|&nbsp; $900,000</b><br>
     Physics-Aware Acceleration for Federated Learning on Scientific Data<br>
     <em>Co-Principal Investigator</em> — Office of Advanced Scientific Computing Research (ASCR), EXPRESS Program
+  </li>
+  <br>
+  <li>
+    <b>2019–2020 &nbsp;|&nbsp; $3,000,000</b><br>
+    Scalable Load Management Using Reinforcement Learning<br>
+    <em>Task Lead</em> — Office of Energy Efficiency and Renewable Energy (EERE)
   </li>
 </ul>
 
@@ -69,6 +75,12 @@ author_profile: true
     Misinformation Impact on Covid-19<br>
     <em>Task Lead</em> — DoD
   </li>
+  <br>
+  <li>
+    <b>2020 &nbsp;|&nbsp; $200,000</b><br>
+    Activity Characterization<br>
+    <em>Task Lead</em> — DoD
+  </li>
 </ul>
 
 ---
@@ -98,6 +110,30 @@ author_profile: true
     <b>2020–2022 &nbsp;|&nbsp; $900,000</b><br>
     Privacy Challenges in Low-Shot Learning for GeoAI Applications<br>
     <em>Co-Principal Investigator</em> — ORNL LDRD
+  </li>
+  <br>
+  <li>
+    <b>$1,000,000</b><br>
+    A Semantic Graph Approach to Monitoring the Biological Literature for Biosecurity Applications<br>
+    <em>Task Lead</em> — ORNL LDRD
+  </li>
+  <br>
+  <li>
+    <b>2021–2023 &nbsp;|&nbsp; $900,000</b><br>
+    Automation for Grid Interconnected-Laboratory Emulation<br>
+    <em>ML Advisor</em> — ORNL LDRD
+  </li>
+</ul>
+
+---
+
+**Industry**
+
+<ul style="list-style-type: none; padding-left: 0;">
+  <li>
+    <b>$90,000</b><br>
+    Real-Time and Physics Based Data Analytics for Thermal Power Plants<br>
+    <em>ML Advisor</em> — Strategic Power Systems
   </li>
 </ul>
 
