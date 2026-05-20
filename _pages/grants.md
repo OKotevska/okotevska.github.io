@@ -7,11 +7,48 @@ author_profile: true
 
 {% include base_path %}
 
-* 2024-2027, ORNL's PI of a $7M DOE ASCR AI for Science-funded project focused on developing federated learning methods to enhance privacy preservation in foundational models. More info [here](https://github.com/ORNL/Sci_PPFL_FM/blob/main/readme.md).
-* 2024-2025, PI for a $240K ORNL-LDRD funded project aimed at creating scalable privacy algorithms and designing benchmark analyses for federated learning frameworks.
-* 2023-2025, Co-PI of a $900K DOE-ASCR EXPRESS funded project titled Physics-Aware Acceleration for Federated Learning on Scientific Data, aimed at developing energy-efficient, privacy-preserving methods.
-* 2021-2022, PI of a $180K ORNL-SEED funded project to create a comprehensive privacy framework for streaming data and edge computing.
-* 2020-2022, Co-PI of a $900K ORNL-LDRD funded project addressing privacy challenges in low-shot learning for GeoAI applications.
+<p>Competitively funded programs focused on privacy-preserving machine learning, federated learning, and AI for scientific applications. <b>TOTAL AWARDS: 5</b> &nbsp;|&nbsp; <b>GROSS FUNDING: ~$9.2M</b></p>
 
+---
 
-  
+**U.S. Department of Energy (DOE)**
+
+<ul style="list-style-type: none; padding-left: 0;">
+  <li>
+    <b>2024–2027 &nbsp;|&nbsp; $7,000,000</b><br>
+    Federated Learning Methods for Privacy Preservation in Foundational Models<br>
+    <em>Principal Investigator</em> — Office of Advanced Scientific Computing Research (ASCR), AI for Science<br>
+    <a href="https://github.com/ORNL/Sci_PPFL_FM/blob/main/readme.md">Project info</a>
+  </li>
+  <br>
+  <li>
+    <b>2023–2025 &nbsp;|&nbsp; $900,000</b><br>
+    Physics-Aware Acceleration for Federated Learning on Scientific Data<br>
+    <em>Co-Principal Investigator</em> — Office of Advanced Scientific Computing Research (ASCR), EXPRESS Program
+  </li>
+</ul>
+
+---
+
+**ORNL Laboratory Directed Research & Development (LDRD / SEED)**
+
+<ul style="list-style-type: none; padding-left: 0;">
+  <li>
+    <b>2024–2025 &nbsp;|&nbsp; $240,000</b><br>
+    Scalable Privacy Algorithms and Benchmarks for Federated Learning Frameworks<br>
+    <em>Principal Investigator</em> — ORNL LDRD
+  </li>
+  <br>
+  <li>
+    <b>2021–2022 &nbsp;|&nbsp; $180,000</b><br>
+    Comprehensive Privacy Framework for Streaming Data and Edge Computing<br>
+    <em>Principal Investigator</em> — ORNL SEED
+  </li>
+  <br>
+  <li>
+    <b>2020–2022 &nbsp;|&nbsp; $900,000</b><br>
+    Privacy Challenges in Low-Shot Learning for GeoAI Applications<br>
+    <em>Co-Principal Investigator</em> — ORNL LDRD
+  </li>
+</ul>
+
