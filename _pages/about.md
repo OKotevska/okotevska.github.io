@@ -14,7 +14,7 @@ I am a Senior Research Scientist in the [Computer Science and Mathematics Divisi
 
 Prior to joining ORNL in 2019, I was an international guest researcher at the [National Institute of Standards and Technology (NIST)](https://www.nist.gov/), Maryland, USA. Before my PhD, I worked in software development for Nuance Communications (UK), Vivo (Brazil), T-Mobile (Macedonia), and Renault (France). I received my Ph.D. in Computer Science from the [Université Grenoble Alpes, France](https://www.univ-grenoble-alpes.fr/), and B.S. and M.S. degrees in Computer Science and Engineering from the [University of Ss. Cyril and Methodius, Skopje, Macedonia](https://ukim.edu.mk/).
 
-I am a Senior Member of IEEE and Chair & Founder of the [IEEE Women in Engineering, East Tennessee Affinity Group](https://wie.ieee.org/).
+I am a Senior Member of IEEE, an Advisor to the [IEEE USA Artificial Intelligence Policy Committee](https://ieeeusa.org/committees/aipc/), and an Advisor to the [IEEE Computational Intelligence Society Government Activities Committee](https://cis.ieee.org/activities/industrial-governmental-activities/governmental-activities-committee/government-activities-committee-members).
 
 ---
 

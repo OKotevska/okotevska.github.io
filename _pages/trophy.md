@@ -5,7 +5,7 @@ permalink: /trophy/
 author_profile: true 
 ---
 
-<p>Recognition for research excellence, mentorship, and community contributions.</p>
+<p style="font-size: 0.95em; letter-spacing: 0.08em; color: #555; text-transform: uppercase; font-weight: 600;">Recognition for research excellence, mentorship, and community contributions.</p>
 
 ---
 
