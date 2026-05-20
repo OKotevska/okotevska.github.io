@@ -7,21 +7,40 @@ author_profile: true
 <!--<b> Open-source software </b> <br>-->
 <!--The software portfolio is available on <a href="https://github.com/OKotevska"> GitHub </a> and <a href="https://code.ornl.gov/ok0/set-of-projects">  GitLab </a> pages.-->
 
+<style>
+.pub-list { list-style: none; padding-left: 2.5em; margin: 0.2em 0 0.8em 0; }
+.pub-list li { position: relative; margin-bottom: 0.35em; }
+.pub-list li::before {
+  counter-increment: pub-counter;
+  content: counter(pub-counter) ".";
+  position: absolute;
+  left: -2.2em;
+  color: #aaa;
+  font-size: 0.82em;
+  min-width: 1.8em;
+  text-align: right;
+  padding-top: 0.15em;
+}
+</style>
+
 <p>Peer-reviewed articles, conference papers, book chapters, and reports spanning privacy-preserving machine learning, federated learning, differential privacy, and AI security.<br><b>TOTAL PUBLICATIONS: 71</b> &nbsp;|&nbsp; <a href="https://scholar.google.com/citations?user=8kdeBSEAAAAJ&hl=en&authuser=1">Google Scholar</a></p>
 
 <b> Under Review (Preprints on arXiv) </b> <br>
 <i> Ordered by arXiv posting date, most recent first. </i>
-<ul style="list-style-type: none; padding-left: 1em;">
+<div style="counter-reset: pub-counter;">
+<ul class="pub-list">
 <li> Zhang, Z., Hu, R., Kotevska, O., &amp; Xu, J. (2026). <a href="https://arxiv.org/abs/2604.01473">SelfGrader: Stable Jailbreak Detection for Large Language Models using Token-Level Logits.</a> <em>arXiv preprint</em>, submitted April 2026. </li>
 <li> Tran, T., Kotevska, O., &amp; Xiong, L. (2026). <a href="https://arxiv.org/abs/2603.19375">Automated Membership Inference Attacks: Discovering MIA Signal Computations using LLM Agents.</a> <em>arXiv preprint</em>, submitted March 2026. </li>
 <li> Riya, F. F., Hoque, S., Sun, J. S., &amp; Kotevska, O. (2025). <a href="https://arxiv.org/abs/2511.13535">Accuracy is Not Enough: Poisoning Interpretability in Federated Learning via Color Skew.</a> <em>arXiv preprint</em>, submitted November 2025. </li>
 <li> Mahbub, M., Klein, R. J., Selvan, M. E., Yip, R., Henschke, C., Morales, P., Goethert, I., Kotevska, O., Shekar, M. C., Wilkinson, S. R., McAllister, E., Aguayo, S. M., Gümüş, Z. H., Danciu, I., &amp; VA Million Veteran Program. (2025). <a href="https://arxiv.org/abs/2510.07477">HEMERA: A Human-Explainable Transformer Model for Estimating Lung Cancer Risk using GWAS Data.</a> <em>arXiv preprint</em>, submitted October 2025. </li>
 <li> Shi, Y., Kotevska, O., Reshniak, V., Singh, A., &amp; Raskar, R. (2024). <a href="https://arxiv.org/abs/2405.10376">Dealing Doubt: Unveiling Threat Models in Gradient Inversion Attacks under Federated Learning, A Survey and Taxonomy.</a> <em>arXiv preprint</em>, submitted May 2024. </li>
 </ul>
+</div>
 
 <b> Publications and White papers </b> <br>
+<div style="counter-reset: pub-counter;">
 <b> 2026 </b>
-<ul style="list-style-type: none; padding-left: 1em;">
+<ul class="pub-list">
 <li> Riya, F. F., Kotevska, O., &amp; Sun, Y. (2026). IntraShuffler: A Privacy Preserving Framework for Heterogeneous DP Federated Learning. <em>40th Annual IFIP WG 11.3 Conference on Data and Applications Security and Privacy (DBSec 2026)</em>. </li>
 <li> Xu, J., Hu, R., Kotevska, O., &amp; Zhang, Z. (2026). <a href="https://arxiv.org/abs/2604.05242">XMark: Reliable Multi-Bit Watermarking for LLM-Generated Texts.</a> <em>The 64th Annual Meeting of the Association for Computational Linguistics</em>. <a href="https://github.com/JiiahaoXU/XMark">[Code].</a> </li>
 <li> Xu, J., Hu, R., Kotevska, O., &amp; Zhang, Z. (2026). <a href="https://arxiv.org/abs/2505.13651">Traceable Black-box Watermarks for Federated Learning.</a> <em>The Fourteenth International Conference on Learning Representations (ICLR)</em>. <a href="https://github.com/JiiahaoXU/TraMark">[Code].</a> </li>
@@ -38,7 +57,7 @@ author_profile: true
 </ul>
 
 <b> 2025 </b>
-<ul style="list-style-type: none; padding-left: 1em;">
+<ul class="pub-list">
 <li> Kotevska, O., Yang, W., &amp; Al-Masri, E. (2025). <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11311065">Engineering Privacy at the Edge: A Practical Guide to Differential Privacy in System Architectures.</a> <em>The 43rd IEEE International Conference on Computer Design (ICCD)</em>. <a href="https://github.com/ORNL/PETINA">[Code].</a> </li>
 <li> Tyagi, S., Cozma, A., Kotevska, O., &amp; Wang, F. (2025). <a href="https://dl.acm.org/doi/10.1145/3731599.3767397">OmniFed: A Modular Framework for Configurable Federated Learning from Edge to HPC.</a> <em>ACM/IEEE Supercomputing Workshop on Extreme Heterogeneity and AI Convergence in HPC</em>. <a href="https://github.com/at-aaims/OmniFed">[Code].</a> </li>
 <li> Yang, W., Al-Masri, E., &amp; Kotevska, O. (2025). <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11218270">MIC-DP: A Scalable Correlation-Aware Differential Privacy Framework for Edge AI and High-Dimensional Data.</a> <em>IEEE Transactions on Privacy</em>. <a href="https://github.com/aeris-lab/mic-dp">[Code].</a> </li>
@@ -50,7 +69,7 @@ author_profile: true
 </ul>
 
 <b> 2024 </b>
-<ul style="list-style-type: none; padding-left: 1em;">  
+<ul class="pub-list">
 <li> Kotevska, O. (2024). <a href="https://smartcities.ieee.org/newsletter/october-november-2024/privacy-by-design-in-distributed-edge-systems-innovating-secure-workflows-for-smart-cities">Privacy by Design in Distributed Edge Systems: Innovating Secure Workflows for Smart Cities.</a> <em>IEEE Smart Cities Newsletter</em>. </li>
 <li> Brogan, J., Kotevska, O., Torres, A., Jha, S., &amp; Adams, M. (2024). <a href="https://arxiv.org/html/2409.01532v1">Improving Robustness of Spectrogram Classifiers with Neural Stochastic Differential Equations.</a> <em>IEEE 34th International Workshop on Machine Learning for Signal Processing (MLSP)</em>. </li>
 <li> Zhang, Y., Zhao, Y., Li, Z., Cheng, X., Wang, Y., Kotevska, O., Yu, P. S., &amp; Derr, T. (2024). <a href="https://arxiv.org/pdf/2308.16375">A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications.</a> <em>IEEE Transactions on Knowledge and Data Engineering</em>. <a href="https://github.com/nds-vu/awesome-gnn-privacy">[Repository].</a> </li>
@@ -60,7 +79,7 @@ author_profile: true
 </ul>
 
 <b> 2023 </b>
-<ul style="list-style-type: none; padding-left: 1em;">  
+<ul class="pub-list">
 <li> Zhang, Y., Zhao, Y., Li, Z., Cheng, X., Wang, Y., Kotevska, O., Yu, P. S., &amp; Derr, T. (2023). <a href="https://arxiv.org/pdf/2308.16375">A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications.</a> Preprint. <a href="https://github.com/nds-vu/awesome-gnn-privacy">GitHub page.</a> </li>
 <li> Al-Masri, E., Souri, A., Mohamed, H., Yang, W., Olmsted, J., &amp; Kotevska, O. (2023). <a href="https://www.sciencedirect.com/science/article/abs/pii/S2542660523001555">Energy-Efficient Cooperative Resource Allocation and Task Scheduling for Internet of Things Environments.</a> <em>Elsevier - Internet of Things</em>. </li>
 <li> von Laszewski, G., Chang, W., Reinsch, R., Kotevska, O., Karimi, A., Sattar, A. R., Mazzaferro, G., &amp; Fox, G. C. (2023). <a href="https://arxiv.org/abs/2310.17013">Reusable Hybrid and Multi-Cloud Analytics Service Framework.</a> Preprint [White paper]. </li>
@@ -68,7 +87,7 @@ author_profile: true
 
 
 <b> 2022 </b>
-<ul style="list-style-type: none; padding-left: 1em;">  
+<ul class="pub-list">
 <li> Mohamed, H., Al-Masri, E., Kotevska, O., &amp; Souri, A. (2022). <a href="https://www.mdpi.com/2079-9292/11/18/2888">A Multi-Objective Approach for Optimizing Edge-based Resource Allocation using TOPSIS.</a> <em>MDPI Electronics</em>. </li>
 <li> Joy, D., Kotevska, O., &amp; Al-Masri, E. (2022). <a href="https://ieeexplore.ieee.org/document/10042926">Investigating Users Privacy Concerns of Internet of Things (IoT) Smart Devices.</a> <em>IEEE Eurasia Conference on IOT, Communication and Engineering (ECICE)</em>. </li>
 <li> Yu, P. S., Kotevska, O., &amp; Derr, T. (2022). <a href="https://dl.acm.org/doi/abs/10.1145/3511808.3557494">PAS: Privacy Algorithms in Systems.</a> <em>ACM International Conference on Information &amp; Knowledge Management (CIKM)</em>. </li>
@@ -81,7 +100,7 @@ author_profile: true
 </ul>
 
 <b> 2021 </b>
-<ul style="list-style-type: none; padding-left: 1em;">  
+<ul class="pub-list">
 <li> Afrose, S., Yao, D. D., &amp; Kotevska, O. (2021). <a href="https://ieeexplore.ieee.org/abstract/document/9647839">Measurement of Local Differential Privacy Techniques for IoT-based Streaming Data.</a> <em>IEEE Conference on Privacy, Security, and Trust (PST)</em>. </li>
 <li> Kotevska, O., Alamudun, F., &amp; Stanley, C. (2021). <a href="https://ieeexplore.ieee.org/abstract/document/9799176">Optimal Balance of Privacy and Utility with Differential Privacy Deep Learning Frameworks.</a> <em>IEEE International Conference on Computational Science and Computational Intelligence (CSCI)</em>. </li>
 <li> Peralta-Peterson, M., &amp; Kotevska, O. (2021). <a href="https://ieeexplore.ieee.org/abstract/document/9799049">Effectiveness of Privacy Techniques in Smart Metering Systems.</a> <em>IEEE International Conference on Computational Science and Computational Intelligence (CSCI)</em>. </li>
@@ -97,7 +116,7 @@ author_profile: true
 </ul>
 
 <b> 2020 </b>
-<ul style="list-style-type: none; padding-left: 1em;">  
+<ul class="pub-list">
 <li> Kurte, K., Munk, J., Amasyali, K., Kotevska, O., Cui, B., Kuruganti, T., &amp; Zandi, H. (2020). <a href="https://dl.acm.org/doi/abs/10.1145/3427773.3427866">Electricity Pricing Aware Deep Reinforcement Learning based Intelligent HVAC Control.</a> <em>ACM SENSYS Workshop on Reinforcement Learning for Energy Management in Buildings &amp; Cities</em>. </li>
 <li> Thakur, G., &amp; Kotevska, O. (2020). <a href="https://dl.acm.org/doi/abs/10.1145/3423334.3431449">Activity Characterization for Modeling Behavior-driven Human Mobility in Platial Network.</a> <em>ACM SIGSPATIAL Workshop on Location-Based Recommendations, Geosocial Networks, and Geoadvertising</em>. </li>
 <li> Perumalla, K., Lopez, J., Alam, M., Kotevska, O., Hempel, M., &amp; Sharif, H. (2020). <a href="https://ieeexplore.ieee.org/abstract/document/9167562">A Novel Vetting Approach to Cybersecurity Verification in Energy Grid Systems.</a> <em>IEEE Kansas Power and Energy Conference (KPEC)</em>. </li>
@@ -109,7 +128,7 @@ author_profile: true
 </ul>
 
 <b> 2019 and before</b>
-<ul style="list-style-type: none; padding-left: 1em;">  
+<ul class="pub-list">
 <li> Kotevska, O., Perumalla, K., &amp; Lopez, J. (2019). <a href="https://ieeexplore.ieee.org/abstract/document/9006318">Kensor: Coordinated Intelligence from Co-Located Sensors.</a> <em>IEEE International Conference on Big Data</em>. </li>
 <li> Kotevska, O., Kusne, G. A., Samarov, V. D., Lbath, A., &amp; Battou, A. (2018). <a href="https://ieeexplore.ieee.org/document/8066282">Dynamic Network Model for Smart City Data-loss Resilience.</a> <em>IEEE Access - Advanced Data Analytics for Large-scale Complex Data Environments</em>. </li>
 <li> Kotevska, O., &amp; Lbath, A. (2017). <a href="https://journal.uob.edu.bh/handle/123456789/286">Sentiment analysis of Social Sensors for improvement of local services improvement.</a> <em>International Journal of Computing and Digital Systems (IJCDS)</em>. </li>
@@ -123,3 +142,4 @@ author_profile: true
 <li> Kotevska, O., Vlahu-Gjorgievska, E., Trajkovic, V., &amp; Koceski, S. (2012). <a href="https://repository.ukim.mk/handle/20.500.12188/26114">Towards a patient-centered collaborative health care system model.</a> <em>International Journal of Computer Theory and Engineering (IJCTE)</em>. </li>
 <li> Kotevska, O., Vlahu-Gjorgievska, E., &amp; Trajkovik, V. (2011). <a href="http://ciit.finki.ukim.mk/data/papers/8CiiT/8CiiT-09.pdf">COHESY - Collaborative Health Care System Model.</a> <em>International Conference on Informatics and Information Technologies (CIIT)</em>. </li>
 </ul>
+</div>
