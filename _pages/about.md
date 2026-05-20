@@ -16,7 +16,6 @@ Prior to joining ORNL in 2019, I was an international guest researcher at the [N
 
 I am a Senior Member of IEEE, an Advisor to the [IEEE USA Artificial Intelligence Policy Committee](https://ieeeusa.org/committees/aipc/), and an Advisor to the [IEEE Computational Intelligence Society Government Activities Committee](https://cis.ieee.org/activities/industrial-governmental-activities/governmental-activities-committee/government-activities-committee-members).
 
----
 
 <h2 style="font-size: 1.3em; margin-top: 1.2em; margin-bottom: 0.4em;">Research Focus</h2>
 
