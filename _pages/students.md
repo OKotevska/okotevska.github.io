@@ -7,9 +7,9 @@ redirect_from:
   - /students.html
 ---
 
-<p class="section-heading">If you are interested in working with me, consider the opportunities listed below. I am looking for genuinely motivated students interested in trustworthy and efficient ML — privacy, interpretability, and explainability.</p>
+<p class="page-tagline">If you are interested in working with me, consider the opportunities listed below. I am looking for genuinely motivated students interested in trustworthy and efficient ML — privacy, interpretability, and explainability.</p>
 
-<b> Internship opportunities </b> 
+<b class="section-heading">Internship opportunities</b> 
 
 National Science Foundation  - Mathematical Sciences Graduate Internship (<a href="https://orise.orau.gov/nsf-msgi/">NSF-MSGI</a>) Program. <br>
 Department of Energy - Office of Science Graduate Student Research (<a href="https://science.osti.gov/wdts/scgsr/">SCGSR</a>) Program<br>
