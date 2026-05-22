@@ -14,8 +14,9 @@ author_profile: true
   align-items: start;
 }
 .award-year {
-  font-weight: bold;
-  color: #333;
+  color: #666;
+  font-size: 0.88em;
+  padding-top: 0.1em;
   white-space: nowrap;
 }
 </style>
