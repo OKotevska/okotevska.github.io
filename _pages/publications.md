@@ -24,7 +24,7 @@ author_profile: true
 </style>
 
 <p class="page-tagline">Peer-reviewed articles, conference papers, book chapters, and reports spanning privacy-preserving machine learning, federated learning, differential privacy, and AI security.</p>
-<p><b>TOTAL PUBLICATIONS: 71</b> &nbsp;|&nbsp; <a href="https://scholar.google.com/citations?user=8kdeBSEAAAAJ&hl=en&authuser=1">Google Scholar</a></p>
+<p><b>TOTAL PUBLICATIONS: 72</b> &nbsp;|&nbsp; <a href="https://scholar.google.com/citations?user=8kdeBSEAAAAJ&hl=en&authuser=1">Google Scholar</a></p>
 
 <b> Under Review (Preprints on arXiv) </b> <br>
 <i> Ordered by arXiv posting date, most recent first. </i>
