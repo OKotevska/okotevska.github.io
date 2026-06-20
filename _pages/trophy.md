@@ -30,7 +30,7 @@ author_profile: true
 
 <div class="award-entry">
   <div class="award-year">2025</div>
-  <div><a href="https://www.rdworldonline.com/rd-100-2025-winner/presto-privacy-recommendation-and-security-optimization/"><b>R&amp;D 100 Award, Software Category</b></a> — <em>PRESTO: Privacy REcommendation and SecuriTy Optimization</em>.</div>
+  <div><a href="https://www.rdworldonline.com/rd-100-2025-winner/presto-privacy-recommendation-and-security-optimization/"><b>R&amp;D 100 Award, Software Category</b></a> — <em>PRESTO: Privacy REcommendation and SecuriTy Optimization</em>. <span style="font-size:0.9em; color:#555;">The R&amp;D 100 Awards, known as the &ldquo;Oscars of Innovation,&rdquo; recognize the 100 most significant technology innovations of the year.</span></div>
 </div>
 
 <div class="award-entry">

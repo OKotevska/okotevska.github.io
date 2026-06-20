@@ -3,6 +3,9 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Funding"
+    url: /grants/
+
   - title: "Awards"
     url: /trophy/
 
@@ -11,9 +14,6 @@ main:
 
   - title: "Activities"
     url: /service/
-
-  - title: "Funding"
-    url: /grants/
 
   - title: "Outreach"
     url: /outreach/
