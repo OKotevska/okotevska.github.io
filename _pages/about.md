@@ -44,8 +44,8 @@ Core research areas spanning theory, systems, and federal deployment:
 </div>
 
 <div class="project-entry">
-  <div><span class="project-name">Privacy-Preserving Federated Learning for Scientific Foundation Models</span> <span class="project-status-active">Active · 2024–2027</span></div>
-  <div class="project-desc">As ORNL Principal Investigator on a $7M DOE ASCR project, developing privacy-preserving federated training methods for scientific foundation models, with open-source implementations and cross-institutional pilots at DOE facilities. <em>Funder: DOE ASCR, AI for Science.</em> <a href="https://github.com/ORNL/Sci_PPFL_FM/blob/main/readme.md">Project deliverables.</a></div>
+  <div><span class="project-name">Privacy-Preserving Federated Learning for Scientific Foundation Models</span> <span class="project-status-active">PI · Active · 2024–2027</span></div>
+  <div class="project-desc">ORNL Principal Investigator on a $7M DOE ASCR program developing privacy-preserving federated training methods for scientific foundation models, with open-source implementations and cross-institutional pilots at DOE facilities. <em>Funder: DOE ASCR, AI for Science.</em> <a href="https://github.com/ORNL/Sci_PPFL_FM/blob/main/readme.md">Project deliverables.</a></div>
 </div>
 
 <div class="project-entry">
