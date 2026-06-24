@@ -1,4 +1,8 @@
----
+#!/usr/bin/env python3
+"""Write the restructured publications page."""
+import pathlib
+
+content = r"""---
 layout: archive
 title: "Scientific outputs"
 permalink: /publications/
@@ -277,3 +281,8 @@ author_profile: true
 <div class="wp-entry">
   Rastogi, D., Kurte, K., Reshniak, V., &amp; <b>Kotevska, O.</b> (2020). <a href="https://ai4esp.org/files/AI4ESP1111_Rastogi_Deeksha.pdf">AI-based Approach for Advancing the Understanding of Spatiotemporal Drought Characteristics.</a> <em>DOE AI for Earth System Predictability (AI4ESP) Workshop</em>. <span class="wp-tag">DOE Workshop</span>
 </div>
+"""
+
+out = pathlib.Path("/Users/wall-e/Projects/okotevska.github.io/_pages/publications.md")
+out.write_text(content, encoding="utf-8")
+print(f"Written {len(content)} chars to {out}")
