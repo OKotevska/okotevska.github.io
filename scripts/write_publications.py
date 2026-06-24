@@ -67,66 +67,6 @@ author_profile: true
 <p class="page-tagline">Peer-reviewed articles, conference papers, book chapters, and reports spanning privacy-preserving machine learning, federated learning, differential privacy, and AI security and safety.</p>
 <p><b>TOTAL PUBLICATIONS: 72</b></p>
 
-<div class="pub-section-heading">&#9733; Selected Publications</div>
-<p style="font-size:0.88em; color:#555; margin-top:-0.4em; margin-bottom:0.8em;">Key contributions by venue prestige, citation impact, or recognition. Full list below.</p>
-
-<ul class="pub-selected-list">
-
-<li><div class="pub-card">
-  <div class="pub-card-title"><a href="https://www.sciencedirect.com/science/article/abs/pii/S030626192031535X">Intelligent multi-zone residential HVAC control strategy based on deep reinforcement learning</a></div>
-  <div class="pub-card-authors">Du, Y., Zandi, H., <b>Kotevska, O.</b>, Kurte, K., Munk, J., &amp; Li, F. (2021)</div>
-  <div class="pub-card-venue"><em>Elsevier Applied Energy</em></div>
-  <div><span class="pub-card-sig">&#127942; 2022 Highly Cited Research Paper Award &mdash; highest-citation paper in portfolio</span></div>
-</div></li>
-
-<li><div class="pub-card">
-  <div class="pub-card-title"><a href="https://arxiv.org/abs/2505.13651">Traceable Black-box Watermarks for Federated Learning</a></div>
-  <div class="pub-card-authors">Xu, J., Hu, R., <b>Kotevska, O.</b>, &amp; Zhang, Z. (2026)</div>
-  <div class="pub-card-venue"><em>ICLR 2026 &mdash; International Conference on Learning Representations</em></div>
-  <div><span class="pub-card-sig">Top-10 ML venue globally &middot; federated learning integrity &amp; security</span></div>
-  <div class="pub-card-links"><a href="https://github.com/JiiahaoXU/TraMark" class="pub-link-code">Code</a></div>
-</div></li>
-
-<li><div class="pub-card">
-  <div class="pub-card-title">Selective Amnesia using Contrastive Subnet Erasure for Class Level Unlearning in Vision Models</div>
-  <div class="pub-card-authors">Pramanik, V., Maliha, M., Jha, S., Velasquez, A., <b>Kotevska, O.</b>, &amp; Jha, S. K. (2026)</div>
-  <div class="pub-card-venue"><em>CVPR 2026 &mdash; IEEE/CVF Conference on Computer Vision and Pattern Recognition</em></div>
-  <div><span class="pub-card-sig">Top-3 computer vision venue &middot; machine unlearning for trustworthy AI</span></div>
-  <div class="pub-card-links"><a href="https://github.com/VishalPramanik/CSE" class="pub-link-code">Code</a></div>
-</div></li>
-
-<li><div class="pub-card">
-  <div class="pub-card-title"><a href="https://arxiv.org/abs/2604.05242">XMark: Reliable Multi-Bit Watermarking for LLM-Generated Texts</a></div>
-  <div class="pub-card-authors">Xu, J., Hu, R., <b>Kotevska, O.</b>, &amp; Zhang, Z. (2026)</div>
-  <div class="pub-card-venue"><em>ACL 2026 &mdash; 64th Annual Meeting of the Association for Computational Linguistics</em></div>
-  <div><span class="pub-card-sig">Top-3 NLP venue &middot; LLM safety and content provenance</span></div>
-  <div class="pub-card-links"><a href="https://github.com/JiiahaoXU/XMark" class="pub-link-code">Code</a></div>
-</div></li>
-
-<li><div class="pub-card">
-  <div class="pub-card-title"><a href="https://ojs.aaai.org/index.php/AAAI/article/view/30507">Frequency Oracles for Sensitive Data Monitoring</a></div>
-  <div class="pub-card-authors">Sances, R., <b>Kotevska, O.</b>, &amp; Laiu, P. (2024)</div>
-  <div class="pub-card-venue"><em>AAAI 2024 &mdash; Association for the Advancement of Artificial Intelligence Conference</em></div>
-  <div><span class="pub-card-sig">Top-5 AI venue &middot; differential privacy for real-time scientific data streams</span></div>
-</div></li>
-
-<li><div class="pub-card">
-  <div class="pub-card-title"><a href="https://arxiv.org/pdf/2308.16375">A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications</a></div>
-  <div class="pub-card-authors">Zhang, Y., Zhao, Y., Li, Z., Cheng, X., Wang, Y., <b>Kotevska, O.</b>, Yu, P. S., &amp; Derr, T. (2024)</div>
-  <div class="pub-card-venue"><em>IEEE Transactions on Knowledge and Data Engineering</em></div>
-  <div><span class="pub-card-sig">High-impact IEEE journal &middot; comprehensive survey with community repository</span></div>
-  <div class="pub-card-links"><a href="https://github.com/nds-vu/awesome-gnn-privacy" class="pub-link-code">Repository</a></div>
-</div></li>
-
-<li><div class="pub-card">
-  <div class="pub-card-title"><a href="https://ieeexplore.ieee.org/document/11079249">Privacy Preservation from High-Performance Computing to Autonomous Science</a></div>
-  <div class="pub-card-authors"><b>Kotevska, O.</b> (2025)</div>
-  <div class="pub-card-venue"><em>IEEE Computational Intelligence Magazine</em></div>
-  <div><span class="pub-card-sig">Invited perspective &middot; frames the federated privacy research agenda for DOE-scale science</span></div>
-</div></li>
-
-</ul>
-
 <div class="pub-section-heading">Peer-Reviewed Publications</div>
 <p style="font-size:0.88em; color:#555; margin-top:-0.4em; margin-bottom:0.6em;">Grouped by year, reverse chronological. White papers and book chapters appear in dedicated sections below.</p>
 
