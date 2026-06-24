@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Olivera Kotevska, PhD"
 title_separator          : "-"
 name                     : &name "Olivera Kotevska, PhD"
-description              : &description "Senior Research Scientist"
+description              : &description "Senior Research Scientist at Oak Ridge National Laboratory. R&D 100 Award winner. Leading DOE programs in privacy-preserving federated learning and AI safety for science. $33M+ research portfolio."
 url                      : https://okotevska.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "okotevska/okotevska.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Olivera Kotevska, PhD"
   avatar           : "Ole_new.jpeg"
-  bio              : "Senior Research Scientist"
+  bio              : "R&D 100 Award winner. DOE PI, privacy-preserving federated learning & AI safety for science. $33M+ portfolio."
   location         : #"Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

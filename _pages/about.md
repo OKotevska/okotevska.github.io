@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About"
-excerpt: "About"
+excerpt: "Senior Research Scientist at Oak Ridge National Laboratory. 2025 R&D 100 Award winner for PRESTO. Leading DOE programs in privacy-preserving federated learning and AI safety for science. $33M+ research portfolio."
 author_profile: true
 redirect_from: 
   - /about/

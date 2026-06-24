@@ -222,7 +222,7 @@ author_profile: true
 <li><b>Kotevska, O.</b>, Vlahu-Gjorgievska, E., &amp; Koceski, S. (2013). <a href="http://eprints.ugd.edu.mk/8757/">Using ZigBee low-power wireless standard for monitoring patients' signs.</a> <em>Elsevier ICT Innovation</em>.</li>
 <li>Gjorgievska, E. V., <b>Kotevska, O.</b>, &amp; Trajkovik, V. (2012). <a href="https://ro.uow.edu.au/eispapers1/444/">Collaboration Model within Personal Healthcare System.</a> <em>ISGT 2012</em>.</li>
 <li><b>Kotevska, O.</b>, Vlahu-Gjorgievska, E., Trajkovic, V., &amp; Koceski, S. (2012). <a href="https://repository.ukim.mk/handle/20.500.12188/26114">Towards a patient-centered collaborative health care system model.</a> <em>International Journal of Computer Theory and Engineering (IJCTE)</em>.</li>
-<li><b>Kotevska, O.</b>, Vlahu-Gjorgievska, E., &amp; Trajkovik, V. (2011). <a href="http://ciit.finki.ukim.mk/data/papers/8CiiT/8CiiT-09.pdf">COHESY - Collaborative Health Care System Model.</a> <em>CIIT 2011</em>.</li>
+<li><b>Kotevska, O.</b>, Vlahu-Gjorgievska, E., &amp; Trajkovik, V. (2011). COHESY - Collaborative Health Care System Model. <em>CIIT 2011</em>.</li>
 </ul>
 
 <div class="pub-section-heading">Book Chapters</div>
