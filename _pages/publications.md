@@ -41,7 +41,7 @@ author_profile: true
 </style>
 
 <p class="page-tagline">Peer-reviewed articles, conference papers, book chapters, and reports spanning privacy-preserving machine learning, federated learning, differential privacy, and AI security and safety.</p>
-<p><b>TOTAL PUBLICATIONS: 72</b> &nbsp;|&nbsp; <a href="https://scholar.google.com/citations?user=8kdeBSEAAAAJ&hl=en">Google Scholar</a></p>
+<p><b>TOTAL PUBLICATIONS: 73</b> &nbsp;|&nbsp; <a href="https://scholar.google.com/citations?user=8kdeBSEAAAAJ&hl=en">Google Scholar</a></p>
 
 <div class="pub-section-heading">Peer-Reviewed Publications</div>
 <p style="font-size:0.88em; color:#555; margin-top:-0.4em; margin-bottom:0.6em;">Grouped by year, reverse chronological. White papers and book chapters appear in dedicated sections below.</p>
@@ -79,12 +79,13 @@ author_profile: true
 <li><b>Kotevska, O.</b>, He, X., &amp; Al-Masri, E. (2025). <a href="https://ieeexplore.ieee.org/document/10924687">Enhancing Smart Home Privacy: A Tutorial on Local Differential Privacy Techniques for Frequency and Mean Estimation.</a> <em>IEEE Communications Magazine</em>.</li>
 <li><b>Kotevska, O.</b> (2025). <a href="https://ieeexplore.ieee.org/document/11079249">Privacy Preservation from High-Performance Computing to Autonomous Science.</a> <em>IEEE Computational Intelligence Magazine</em>.</li>
 <li>Riya, F. F., Hoque, S., Yang, Y., Sun, J., &amp; <b>Kotevska, O.</b> (2025). <a href="https://www.computer.org/csdl/proceedings-article/pst/2025/11268818/2c95SqJQPhC">Balancing Trade-offs: Adaptive Differential Privacy in Interpretable Machine Learning Models.</a> <em>IEEE PST 2025 &mdash; Conference on Privacy, Security, and Trust</em>.</li>
-<li>Kim, K., Raghavan, K., <b>Kotevska, O.</b>, Dorier, M., Madduri, R., Ryu, M., et al., &amp; Yousefian, F. (2025). <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10825853">Privacy-Preserving Federated Learning for Science: Challenges and Research Directions.</a> <em>IEEE BigData 2025 &mdash; 13th IEEE International Conference on Big Data</em>.</li>
 <li>Afrose, S., &amp; <b>Kotevska, O.</b> (2025). <a href="https://ieeexplore.ieee.org/document/11050545">Dynamical Sketching for Enhanced Communication Efficiency in Federated Learning.</a> <em>IEEE International Conference on Artificial Intelligence</em>.</li>
 </ul>
 
 <b>2024</b>
 <ul class="pub-list">
+<li>Kim, K., Raghavan, K., <b>Kotevska, O.</b>, Dorier, M., Madduri, R., Ryu, M., et al., &amp; Yousefian, F. (2024). <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10825853">Privacy-Preserving Federated Learning for Science: Challenges and Research Directions.</a> <em>IEEE BigData 2024 &mdash; IEEE International Conference on Big Data</em>.</li>
+<li>Shu, Y., <b>Kotevska, O.</b>, Reshniak, V., &amp; Sedovak, A. (2024). Assessing Membership Inference Attacks under Distribution Shifts. <em>IEEE BigData 2024 &mdash; IEEE International Conference on Big Data</em>.</li>
 <li><b>Kotevska, O.</b> (2024). <a href="https://smartcities.ieee.org/newsletter/october-november-2024/privacy-by-design-in-distributed-edge-systems-innovating-secure-workflows-for-smart-cities">Privacy by Design in Distributed Edge Systems: Innovating Secure Workflows for Smart Cities.</a> <em>IEEE Smart Cities Newsletter</em>.</li>
 <li>Brogan, J., <b>Kotevska, O.</b>, Torres, A., Jha, S., &amp; Adams, M. (2024). <a href="https://arxiv.org/html/2409.01532v1">Improving Robustness of Spectrogram Classifiers with Neural Stochastic Differential Equations.</a> <em>IEEE MLSP 2024 &mdash; 34th International Workshop on Machine Learning for Signal Processing</em>.</li>
 <li>Zhang, Y., Zhao, Y., Li, Z., Cheng, X., Wang, Y., <b>Kotevska, O.</b>, Yu, P. S., &amp; Derr, T. (2024). <a href="https://arxiv.org/pdf/2308.16375">A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications.</a> <em>IEEE Transactions on Knowledge and Data Engineering</em>. <a href="https://github.com/nds-vu/awesome-gnn-privacy" class="pub-link-code">Repository</a></li>
