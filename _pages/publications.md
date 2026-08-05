@@ -87,12 +87,12 @@ author_profile: true
 <ul class="pub-list">
 <li><b>Kotevska, O.</b> (2024). <a href="https://smartcities.ieee.org/newsletter/october-november-2024/privacy-by-design-in-distributed-edge-systems-innovating-secure-workflows-for-smart-cities">Privacy by Design in Distributed Edge Systems: Innovating Secure Workflows for Smart Cities.</a> <em>IEEE Smart Cities Newsletter</em>.</li>
 <li>Brogan, J., <b>Kotevska, O.</b>, Torres, A., Jha, S., &amp; Adams, M. (2024). <a href="https://arxiv.org/html/2409.01532v1">Improving Robustness of Spectrogram Classifiers with Neural Stochastic Differential Equations.</a> <em>IEEE MLSP 2024 &mdash; 34th International Workshop on Machine Learning for Signal Processing</em>.</li>
+<li>Zhang, Y., Zhao, Y., Li, Z., Cheng, X., Wang, Y., <b>Kotevska, O.</b>, Yu, P. S., &amp; Derr, T. (2024). <a href="https://arxiv.org/pdf/2308.16375">A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications.</a> <em>IEEE Transactions on Knowledge and Data Engineering</em>. <a href="https://github.com/nds-vu/awesome-gnn-privacy" class="pub-link-code">Repository</a></li>
 <li>Sances, R., <b>Kotevska, O.</b>, &amp; Laiu, P. (2024). <a href="https://ojs.aaai.org/index.php/AAAI/article/view/30507">Frequency Oracles for Sensitive Data Monitoring.</a> <em>AAAI 2024 &mdash; Association for the Advancement of Artificial Intelligence Conference</em>.</li>
 </ul>
 
 <b>2023</b>
 <ul class="pub-list">
-<li>Zhang, Y., Zhao, Y., Li, Z., Cheng, X., Wang, Y., <b>Kotevska, O.</b>, Yu, P. S., &amp; Derr, T. (2023). <a href="https://arxiv.org/pdf/2308.16375">A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications.</a> Preprint. <a href="https://github.com/nds-vu/awesome-gnn-privacy" class="pub-link-code">Repository</a></li>
 <li>Al-Masri, E., Souri, A., Mohamed, H., Yang, W., Olmsted, J., &amp; <b>Kotevska, O.</b> (2023). <a href="https://www.sciencedirect.com/science/article/abs/pii/S2542660523001555">Energy-Efficient Cooperative Resource Allocation and Task Scheduling for Internet of Things Environments.</a> <em>Elsevier Internet of Things</em>.</li>
 </ul>
 
