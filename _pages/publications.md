@@ -41,7 +41,7 @@ author_profile: true
 </style>
 
 <p class="page-tagline">Peer-reviewed articles, conference papers, book chapters, and reports spanning privacy-preserving machine learning, federated learning, differential privacy, and AI security and safety.</p>
-<p><b>TOTAL PUBLICATIONS: 73</b> &nbsp;|&nbsp; <a href="https://scholar.google.com/citations?user=8kdeBSEAAAAJ&hl=en">Google Scholar</a></p>
+<p><b>TOTAL PUBLICATIONS: 74</b> &nbsp;|&nbsp; <a href="https://scholar.google.com/citations?user=8kdeBSEAAAAJ&hl=en">Google Scholar</a></p>
 
 <div class="pub-section-heading">Peer-Reviewed Publications</div>
 <p style="font-size:0.88em; color:#555; margin-top:-0.4em; margin-bottom:0.6em;">Grouped by year, reverse chronological. White papers and book chapters appear in dedicated sections below.</p>
@@ -94,6 +94,7 @@ author_profile: true
 
 <b>2023</b>
 <ul class="pub-list">
+<li><b>Kotevska, O.</b>, &amp; Kusne, A. G. (2023). Privacy-Preserving Federated Learning with Frequency Estimation. <em>NeurIPS 2023 Workshop</em>.</li>
 <li>Al-Masri, E., Souri, A., Mohamed, H., Yang, W., Olmsted, J., &amp; <b>Kotevska, O.</b> (2023). <a href="https://www.sciencedirect.com/science/article/abs/pii/S2542660523001555">Energy-Efficient Cooperative Resource Allocation and Task Scheduling for Internet of Things Environments.</a> <em>Elsevier Internet of Things</em>.</li>
 </ul>
 
