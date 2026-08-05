@@ -1,18 +1,18 @@
 ---
 permalink: /
 title: "About"
-excerpt: "Senior Research Scientist at Oak Ridge National Laboratory. 2025 R&D 100 Award winner for PRESTO. Leading DOE programs in privacy-preserving federated learning and AI safety for science. $33M+ research portfolio."
+excerpt: "Leader in Trustworthy Scientific AI at Oak Ridge National Laboratory. 2025 R&D 100 Award winner for PRESTO. Leading DOE programs in privacy-preserving federated learning and AI safety for science. $33M+ research portfolio."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-<p><b>Senior Research Scientist &middot; Computer Science and Mathematics Division &middot; Oak Ridge National Laboratory</b></p>
+<p><b>Leader in Trustworthy Scientific AI &middot; Computer Science and Mathematics Division &middot; Oak Ridge National Laboratory</b></p>
 
 <p style="font-size: 1.1em; font-weight: 600; color: #1a1a1a; margin: 0.8em 0 1.1em 0;">She defines the privacy and security foundations for multi-institutional scientific AI — the systems where national labs, universities, and global partners must collaborate without trusting each other.</p>
 
-Dr. Olivera Kotevska is a Senior Research Scientist in the [Computer Science and Mathematics Division (CSMD)](https://www.ornl.gov/division/csmd) at [Oak Ridge National Laboratory (ORNL)](https://www.ornl.gov/), where she leads the DOE program on privacy-preserving federated learning for scientific foundation models and serves on the AI Safety and Security Thrust of the [DOE Genesis Mission](https://www.ornl.gov/). Her research defines the emerging field of trustworthy AI for multi-institutional science, spanning differential privacy, federated learning, gradient privacy, and autonomous scientific computing. She is the 2025 [R&D 100 Award](https://www.rdworldonline.com/rd-100-2025-winner/presto-privacy-recommendation-and-security-optimization/) winner for PRESTO (Privacy REcommendation and SecuriTy Optimization), a privacy mechanism recommendation system for federated learning at scale, and the recipient of the 2022 Highly Cited Research Paper Award from *Applied Energy*.
+Dr. Olivera Kotevska is a leader in trustworthy scientific AI in the [Computer Science and Mathematics Division (CSMD)](https://www.ornl.gov/division/csmd) at [Oak Ridge National Laboratory (ORNL)](https://www.ornl.gov/), where she directs the DOE program on privacy-preserving federated learning for scientific foundation models and serves on the AI Safety and Security Thrust of the [DOE Genesis Mission](https://www.ornl.gov/). Her research defines the emerging field of trustworthy AI for multi-institutional science, spanning differential privacy, federated learning, gradient privacy, and autonomous scientific computing. She is the 2025 [R&D 100 Award](https://www.rdworldonline.com/rd-100-2025-winner/presto-privacy-recommendation-and-security-optimization/) winner for PRESTO (Privacy REcommendation and SecuriTy Optimization), a privacy mechanism recommendation system for federated learning at scale, and the recipient of the 2022 Highly Cited Research Paper Award from *Applied Energy*.
 
 Prior to joining ORNL in 2019, Dr. Kotevska was an international guest researcher at the [National Institute of Standards and Technology (NIST)](https://www.nist.gov/), Maryland, USA, where she was part of the NIST Smart Cities Framework Team and contributed to some of the earliest foundational work in that domain. Before her PhD, she built and shipped production software actively used by millions of consumers — at Nuance Communications (UK, voice and AI systems), Vivo (Brazil, mobile telecommunications), T-Mobile (Macedonia, mobile services), and Renault (France, automotive software). She received her Ph.D. in Computer Science from the [Université Grenoble Alpes, France](https://www.univ-grenoble-alpes.fr/), and B.S. and M.S. degrees in Computer Science and Engineering from the [University of Ss. Cyril and Methodius, Skopje, Macedonia](https://ukim.edu.mk/).
 
@@ -45,7 +45,7 @@ Core research areas spanning theory, systems, and federal deployment:
 
 <div class="project-entry">
   <div><span class="project-name">Privacy-Preserving Federated Learning for Scientific Foundation Models</span> <span class="project-status-active">PI · Active · 2024–2027</span></div>
-  <div class="project-desc">ORNL Principal Investigator on a $7M DOE ASCR program developing privacy-preserving federated training methods for scientific foundation models, with open-source implementations and cross-institutional pilots at DOE facilities. <em>Funder: DOE ASCR, AI for Science.</em> <a href="https://github.com/ORNL/Sci_PPFL_FM/blob/main/readme.md">Project deliverables.</a></div>
+  <div class="project-desc">ORNL Principal Investigator on a $7M DOE ASCR program developing privacy-preserving federated training methods for scientific foundation models, with open-source implementations and cross-institutional pilots at DOE facilities. <em>Funder: DOE ASCR, AI for Science.</em> <a href="https://github.com/ORNL/Sci_PPFL_FM/">Project deliverables.</a></div>
 </div>
 
 <div class="project-entry">

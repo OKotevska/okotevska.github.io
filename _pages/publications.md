@@ -41,7 +41,7 @@ author_profile: true
 </style>
 
 <p class="page-tagline">Peer-reviewed articles, conference papers, book chapters, and reports spanning privacy-preserving machine learning, federated learning, differential privacy, and AI security and safety.</p>
-<p><b>TOTAL PUBLICATIONS: 72</b> &nbsp;|&nbsp; <a href="https://scholar.google.com/citations?user=8kdeBSEAAAAJ&hl=en">Google Scholar</a></p>
+<p><b>TOTAL PUBLICATIONS: 73</b> &nbsp;|&nbsp; <a href="https://scholar.google.com/citations?user=8kdeBSEAAAAJ&hl=en">Google Scholar</a></p>
 
 <div class="pub-section-heading">Peer-Reviewed Publications</div>
 <p style="font-size:0.88em; color:#555; margin-top:-0.4em; margin-bottom:0.6em;">Grouped by year, reverse chronological. White papers and book chapters appear in dedicated sections below.</p>
@@ -58,14 +58,15 @@ author_profile: true
 
 <b>2026</b>
 <ul class="pub-list">
-<li>Riya, F. F., <b>Kotevska, O.</b>, &amp; Sun, Y. (2026). IntraShuffler: A Privacy Preserving Framework for Heterogeneous DP Federated Learning. <em>40th Annual IFIP WG 11.3 Conference on Data and Applications Security and Privacy (DBSec 2026)</em>.</li>
+<li>Zhang, Z., Hu, R., <b>Kotevska, O.</b>, &amp; Xu, J. (2026). Vision Token Manipulation Attacks on Cloud-Edge Inference of Large Vision-Language Models. <em>GLOBECOM 2026 &mdash; IEEE Global Communications Conference, Communication &amp; Information System Security</em>.</li>
+<li>Riya, F. F., <b>Kotevska, O.</b>, &amp; Sun, J. S. (2026, July). <a href="https://link.springer.com/chapter/10.1007/978-3-032-33260-8_3">IntraShuffler: A Privacy Preserving Framework for Heterogeneous DP Federated Learning.</a> In <em>IFIP Annual Conference on Data and Applications Security and Privacy</em> (pp. 40-61). Cham: Springer Nature Switzerland.</li>
 <li>Xu, J., Hu, R., <b>Kotevska, O.</b>, &amp; Zhang, Z. (2026). <a href="https://arxiv.org/abs/2604.05242">XMark: Reliable Multi-Bit Watermarking for LLM-Generated Texts.</a> <em>ACL 2026 &mdash; 64th Annual Meeting of the Association for Computational Linguistics</em>. <a href="https://github.com/JiiahaoXU/XMark" class="pub-link-code">Code</a></li>
 <li>Xu, J., Hu, R., <b>Kotevska, O.</b>, &amp; Zhang, Z. (2026). <a href="https://arxiv.org/abs/2505.13651">Traceable Black-box Watermarks for Federated Learning.</a> <em>ICLR 2026 &mdash; International Conference on Learning Representations</em>. <a href="https://github.com/JiiahaoXU/TraMark" class="pub-link-code">Code</a></li>
-<li>Pramanik, V., Maliha, M., Jha, S., Velasquez, A., <b>Kotevska, O.</b>, &amp; Jha, S. K. (2026). Selective Amnesia using Contrastive Subnet Erasure for Class Level Unlearning in Vision Models. <em>CVPR 2026 &mdash; IEEE/CVF Conference on Computer Vision and Pattern Recognition</em>. <a href="https://github.com/VishalPramanik/CSE" class="pub-link-code">Code</a></li>
-<li>Babu, A., Kaur, R., Bastian, N., <b>Kotevska, O.</b>, Jha, S., Wu, Y., Jha, S., &amp; Roy, A. (2026). CTRL-STEER: Closed-Loop Neuron Activation Control in Vision-Language-Action Models. <em>Visual Concepts Workshop at CVPR 2026</em>.</li>
+<li>Pramanik, V., Maliha, M., Jha, S., Velasquez, A., <b>Kotevska, O.</b>, &amp; Jha, S. K. (2026). <a href="https://sumitkumarjha.com/publications/168_2026_Selective_Amnesia.pdf">Selective Amnesia using Contrastive Subnet Erasure for Class Level Unlearning in Vision Models.</a> <em>CVPR 2026 &mdash; IEEE/CVF Conference on Computer Vision and Pattern Recognition</em>. <a href="https://github.com/VishalPramanik/CSE" class="pub-link-code">Code</a></li>
+<li>Babu, A., Kaur, R., Bastian, N., <b>Kotevska, O.</b>, Jha, S., Wu, Y., Jha, S., &amp; Roy, A. (2026). <a href="https://openreview.net/pdf?id=ri3c82xhcX">CTRL-STEER: Closed-Loop Neuron Activation Control in Vision-Language-Action Models.</a> <em>Visual Concepts Workshop at CVPR 2026</em>.</li>
 <li><b>Kotevska, O.</b>, Nguyen, T., Ferreira da Silva, R., Engelmann, C., &amp; Balaprakash, P. (2026). <a href="https://dl.acm.org/doi/pdf/10.1145/3805621.3807639">Scalable Federated Learning for Scientific Foundation Models on Leadership-Class Systems.</a> <em>EuroMLSys @ EuroSys 2026</em>.</li>
 <li><b>Kotevska, O.</b>, Nguyen, T., &amp; Hernandez, O. (2026). Energy&ndash;Performance Trade-offs in Federated Learning with SmartNIC-Enabled Communication on HPC Systems. <em>IPDPSW 2026 &mdash; Accelerators and Hybrid Emerging Systems Workshop</em>.</li>
-<li><b>Kotevska, O.</b>, Patton, R., Jha, S., &amp; Balaprakash, P. (2026). DP-TwoLevel: Two-Stage Gradient Subspace Learning for Differentially Private Federated Learning. <em>SPIE Conference on Assurance and Security for AI-enabled Systems</em>.</li>
+<li><b>Kotevska, O.</b>, Patton, R., Jha, S., &amp; Balaprakash, P. (2026). <a href="https://www.spiedigitallibrary.org/proceedings/Download?urlId=10.1117%2F12.3094636">DP-TwoLevel: Two-Stage Gradient Subspace Learning for Differentially Private Federated Learning.</a> <em>SPIE Conference on Assurance and Security for AI-enabled Systems</em>.</li>
 <li>Xu, J., Hu, R., &amp; <b>Kotevska, O.</b> (2026). <a href="https://ieeexplore.ieee.org/abstract/document/11373392">Optimal Client Sampling in Federated Learning with Client-level Heterogeneous Differential Privacy.</a> <em>IEEE Internet of Things Journal</em>. <a href="https://github.com/JiiahaoXU/GDPFed" class="pub-link-code">Code</a></li>
 <li>Pramanik, V., <b>Kotevska, O.</b>, Velasquez, A., Jha, A., &amp; Jha, K. S. (2026). SPUN: Spectral Projection-based UNlearning in Hyperdimensional Computing. <em>AAAI Workshop on Artificial Intelligence for Cyber Security</em>.</li>
 </ul>
