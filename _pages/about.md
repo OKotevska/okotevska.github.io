@@ -21,7 +21,7 @@ With over $33M in competitive funding secured across DOE, NNSA, VA, and DoD prog
 
 <h2 style="font-size: 1.3em; margin-top: 1.2em; margin-bottom: 0.4em;">Research Focus</h2>
 
-Core research areas spanning theory, systems, and federal deployment:
+Core research areas spanning theory and systems:
 
 - **Federated learning** — communication-efficient and privacy-preserving training across decentralized scientific data
 - **Differential privacy** — formal guarantees for data release and model training in sensitive domains
