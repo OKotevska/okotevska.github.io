@@ -41,7 +41,7 @@ author_profile: true
 </style>
 
 <p class="page-tagline">Peer-reviewed articles, conference papers, book chapters, and reports spanning privacy-preserving machine learning, federated learning, differential privacy, and AI security and safety.</p>
-<p><b>TOTAL PUBLICATIONS: 74</b> &nbsp;|&nbsp; <a href="https://scholar.google.com/citations?user=8kdeBSEAAAAJ&hl=en">Google Scholar</a></p>
+<p><b>TOTAL PUBLICATIONS: 75</b> &nbsp;|&nbsp; <a href="https://scholar.google.com/citations?user=8kdeBSEAAAAJ&hl=en">Google Scholar</a></p>
 
 <div class="pub-section-heading">Peer-Reviewed Publications</div>
 <p style="font-size:0.88em; color:#555; margin-top:-0.4em; margin-bottom:0.6em;">Grouped by year, reverse chronological. White papers and book chapters appear in dedicated sections below.</p>
@@ -59,6 +59,7 @@ author_profile: true
 <b>2026</b>
 <ul class="pub-list">
 <li>Zhang, Z., Hu, R., <b>Kotevska, O.</b>, &amp; Xu, J. (2026). Vision Token Manipulation Attacks on Cloud-Edge Inference of Large Vision-Language Models. <em>GLOBECOM 2026 &mdash; IEEE Global Communications Conference, Communication &amp; Information System Security</em>.</li>
+<li><b>Kotevska, O.</b>, Carlson, M., Gao, Y., Jeanson, F., Li, Y., Lindskog, W., Naseri, M., Ryu, M., Tyagi, S., Watkins, J., Wang, F., Madduri, R., &amp; Kim, K. (2026). From Pilots to Production: Lessons in Cross-Institutional Federated Training and AI for Science. <em>SC 2026 &mdash; 4th Annual TPC Workshop: Building Open AI Infrastructure, Models, and Agentic Systems for Science</em>.</li>
 <li>Riya, F. F., <b>Kotevska, O.</b>, &amp; Sun, J. S. (2026, July). <a href="https://link.springer.com/chapter/10.1007/978-3-032-33260-8_3">IntraShuffler: A Privacy Preserving Framework for Heterogeneous DP Federated Learning.</a> In <em>IFIP Annual Conference on Data and Applications Security and Privacy</em> (pp. 40-61). Cham: Springer Nature Switzerland.</li>
 <li>Xu, J., Hu, R., <b>Kotevska, O.</b>, &amp; Zhang, Z. (2026). <a href="https://arxiv.org/abs/2604.05242">XMark: Reliable Multi-Bit Watermarking for LLM-Generated Texts.</a> <em>ACL 2026 &mdash; 64th Annual Meeting of the Association for Computational Linguistics</em>. <a href="https://github.com/JiiahaoXU/XMark" class="pub-link-code">Code</a></li>
 <li>Xu, J., Hu, R., <b>Kotevska, O.</b>, &amp; Zhang, Z. (2026). <a href="https://arxiv.org/abs/2505.13651">Traceable Black-box Watermarks for Federated Learning.</a> <em>ICLR 2026 &mdash; International Conference on Learning Representations</em>. <a href="https://github.com/JiiahaoXU/TraMark" class="pub-link-code">Code</a></li>
