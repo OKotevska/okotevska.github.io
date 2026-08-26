@@ -49,6 +49,7 @@ author_profile: true
 <b>Preprints Under Review</b><br>
 <i style="font-size:0.88em;">Ordered by arXiv posting date, most recent first.</i>
 <ul class="pub-list">
+<li>Babu, A., Kaur, R., Pramanik, V., <b>Kotevska, O.</b>, Bastian, N. D., Jha, S., Raj, S., Wu, Y., Jha, S. K., &amp; Roy, A. (2026). <a href="https://arxiv.org/abs/2608.20564">Consilience: Conformally Calibrated Communication Control for Hidden-Profile Multi-Agent Reasoning.</a> <em>arXiv preprint</em>, submitted August 2026.</li>
 <li>Zhang, Z., Hu, R., <b>Kotevska, O.</b>, &amp; Xu, J. (2026). <a href="https://arxiv.org/abs/2604.01473">SelfGrader: Stable Jailbreak Detection for Large Language Models using Token-Level Logits.</a> <em>arXiv preprint</em>, submitted April 2026.</li>
 <li>Tran, T., <b>Kotevska, O.</b>, &amp; Xiong, L. (2026). <a href="https://arxiv.org/abs/2603.19375">Automated Membership Inference Attacks: Discovering MIA Signal Computations using LLM Agents.</a> <em>arXiv preprint</em>, submitted March 2026.</li>
 <li>Riya, F. F., Hoque, S., Sun, J. S., &amp; <b>Kotevska, O.</b> (2025). <a href="https://arxiv.org/abs/2511.13535">Accuracy is Not Enough: Poisoning Interpretability in Federated Learning via Color Skew.</a> <em>arXiv preprint</em>, submitted November 2025.</li>
