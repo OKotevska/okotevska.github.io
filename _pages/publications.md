@@ -41,7 +41,7 @@ author_profile: true
 </style>
 
 <p class="page-tagline">Peer-reviewed articles, conference papers, book chapters, and reports spanning privacy-preserving machine learning, federated learning, differential privacy, and AI security and safety.</p>
-<p><b>TOTAL PUBLICATIONS: 75</b> &nbsp;|&nbsp; <a href="https://scholar.google.com/citations?user=8kdeBSEAAAAJ&hl=en">Google Scholar</a></p>
+<p><b>TOTAL PUBLICATIONS: 76</b> &nbsp;|&nbsp; <a href="https://scholar.google.com/citations?user=8kdeBSEAAAAJ&hl=en">Google Scholar</a></p>
 
 <div class="pub-section-heading">Peer-Reviewed Publications</div>
 <p style="font-size:0.88em; color:#555; margin-top:-0.4em; margin-bottom:0.6em;">Grouped by year, reverse chronological. White papers and book chapters appear in dedicated sections below.</p>
@@ -51,7 +51,6 @@ author_profile: true
 <ul class="pub-list">
 <li>Babu, A., Kaur, R., Pramanik, V., <b>Kotevska, O.</b>, Bastian, N. D., Jha, S., Raj, S., Wu, Y., Jha, S. K., &amp; Roy, A. (2026). <a href="https://arxiv.org/abs/2608.20564">Consilience: Conformally Calibrated Communication Control for Hidden-Profile Multi-Agent Reasoning.</a> <em>arXiv preprint</em>, submitted August 2026.</li>
 <li>Zhang, Z., Hu, R., <b>Kotevska, O.</b>, &amp; Xu, J. (2026). <a href="https://arxiv.org/abs/2604.01473">SelfGrader: Stable Jailbreak Detection for Large Language Models using Token-Level Logits.</a> <em>arXiv preprint</em>, submitted April 2026.</li>
-<li>Tran, T., <b>Kotevska, O.</b>, &amp; Xiong, L. (2026). <a href="https://arxiv.org/abs/2603.19375">Automated Membership Inference Attacks: Discovering MIA Signal Computations using LLM Agents.</a> <em>arXiv preprint</em>, submitted March 2026.</li>
 <li>Riya, F. F., Hoque, S., Sun, J. S., &amp; <b>Kotevska, O.</b> (2025). <a href="https://arxiv.org/abs/2511.13535">Accuracy is Not Enough: Poisoning Interpretability in Federated Learning via Color Skew.</a> <em>arXiv preprint</em>, submitted November 2025.</li>
 <li>Mahbub, M., Klein, R. J., Selvan, M. E., Yip, R., Henschke, C., Morales, P., Goethert, I., <b>Kotevska, O.</b>, Shekar, M. C., Wilkinson, S. R., McAllister, E., Aguayo, S. M., G&uuml;m&uuml;&scaron;, Z. H., Danciu, I., &amp; VA Million Veteran Program. (2025). <a href="https://arxiv.org/abs/2510.07477">HEMERA: A Human-Explainable Transformer Model for Estimating Lung Cancer Risk using GWAS Data.</a> <em>arXiv preprint</em>, submitted October 2025.</li>
 <li>Shi, Y., <b>Kotevska, O.</b>, Reshniak, V., Singh, A., &amp; Raskar, R. (2024). <a href="https://arxiv.org/abs/2405.10376">Dealing Doubt: Unveiling Threat Models in Gradient Inversion Attacks under Federated Learning, A Survey and Taxonomy.</a> <em>arXiv preprint</em>, submitted May 2024.</li>
@@ -61,6 +60,7 @@ author_profile: true
 <ul class="pub-list">
 <li>Zhang, Z., Hu, R., <b>Kotevska, O.</b>, &amp; Xu, J. (2026). Vision Token Manipulation Attacks on Cloud-Edge Inference of Large Vision-Language Models. <em>GLOBECOM 2026 &mdash; IEEE Global Communications Conference, Communication &amp; Information System Security</em>.</li>
 <li><b>Kotevska, O.</b>, Carlson, M., Gao, Y., Jeanson, F., Li, Y., Lindskog, W., Naseri, M., Ryu, M., Tyagi, S., Watkins, J., Wang, F., Madduri, R., &amp; Kim, K. (2026). <a href="https://tpc.dev/tpc-workshop-at-sc26/">From Pilots to Production: Lessons in Cross-Institutional Federated Training and AI for Science.</a> <em>SC26 &mdash; 4th TPC Workshop: Building Open AI Infrastructure, Models, and Agentic Systems for Science</em>.</li>
+<li>Tran, T., <b>Kotevska, O.</b>, &amp; Xiong, L. (2026). <a href="https://arxiv.org/abs/2603.19375">Automated Membership Inference Attacks: Discovering MIA Signal Computations using LLM Agents.</a> <em>Transactions on Machine Learning Research (TMLR)</em>.</li>
 <li>Riya, F. F., <b>Kotevska, O.</b>, &amp; Sun, J. S. (2026, July). <a href="https://link.springer.com/chapter/10.1007/978-3-032-33260-8_3">IntraShuffler: A Privacy Preserving Framework for Heterogeneous DP Federated Learning.</a> In <em>IFIP Annual Conference on Data and Applications Security and Privacy</em> (pp. 40-61). Cham: Springer Nature Switzerland.</li>
 <li>Xu, J., Hu, R., <b>Kotevska, O.</b>, &amp; Zhang, Z. (2026). <a href="https://arxiv.org/abs/2604.05242">XMark: Reliable Multi-Bit Watermarking for LLM-Generated Texts.</a> <em>ACL 2026 &mdash; 64th Annual Meeting of the Association for Computational Linguistics</em>. <a href="https://github.com/JiiahaoXU/XMark" class="pub-link-code">Code</a></li>
 <li>Xu, J., Hu, R., <b>Kotevska, O.</b>, &amp; Zhang, Z. (2026). <a href="https://arxiv.org/abs/2505.13651">Traceable Black-box Watermarks for Federated Learning.</a> <em>ICLR 2026 &mdash; International Conference on Learning Representations</em>. <a href="https://github.com/JiiahaoXU/TraMark" class="pub-link-code">Code</a></li>
