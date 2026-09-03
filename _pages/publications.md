@@ -177,7 +177,7 @@ author_profile: true
 </div>
 
 <div class="wp-entry">
-  (2024). Oak Ridge National Laboratory's Response to DOE's Responsibilities on Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence. <em>U.S. Department of Energy</em>. <span class="wp-tag">DOE RFI</span>
+  Oak Ridge National Laboratory's Response to DOE's Responsibilities on Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence (2024). <em>U.S. Department of Energy</em>. <span class="wp-tag">DOE RFI</span>
 </div>
 
 <div class="wp-entry">
@@ -189,7 +189,7 @@ author_profile: true
 </div>
 
 <div class="wp-entry">
-  (2022). ORNL Microelectronics LDRD Initiative Deep Dive. <em>ORNL Internal</em>. <span class="wp-tag">Technical Report</span>
+  ORNL Microelectronics LDRD Initiative Deep Dive (2022). <em>ORNL Internal</em>. <span class="wp-tag">Technical Report</span>
 </div>
 
 <div class="wp-entry">
