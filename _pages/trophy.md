@@ -25,6 +25,11 @@ author_profile: true
 
 <div class="award-entry">
   <div class="award-year">2026</div>
+  <div><b>Highlight Paper</b>, <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</em> &mdash; <a href="https://sumitkumarjha.com/publications/168_2026_Selective_Amnesia.pdf">Selective Amnesia using Contrastive Subnet Erasure for Class Level Unlearning in Vision Models</a>.</div>
+</div>
+
+<div class="award-entry">
+  <div class="award-year">2026</div>
   <div><b>Gold Reviewer</b>, <em>International Conference on Machine Learning (ICML)</em>.</div>
 </div>
 
