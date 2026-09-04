@@ -31,6 +31,12 @@ author_profile: true
   text-decoration: none; margin-left: 0.3em;
 }
 .pub-link-code:hover { background: #c8e6c9; }
+/* award / recognition tags */
+.pub-tag-award {
+  display: inline-block; font-size: 0.75em; font-weight: bold;
+  background: #fff3cd; color: #7a4f00;
+  border-radius: 3px; padding: 1px 6px; margin-left: 0.4em; vertical-align: middle;
+}
 /* policy / white paper tags */
 .wp-entry { margin-bottom: 0.7em; font-size: 0.93em; }
 .wp-tag {
@@ -66,7 +72,7 @@ author_profile: true
 <li>Riya, F. F., <b>Kotevska, O.</b>, &amp; Sun, J. S. (2026, July). <a href="https://link.springer.com/chapter/10.1007/978-3-032-33260-8_3">IntraShuffler: A Privacy Preserving Framework for Heterogeneous DP Federated Learning.</a> In <em>IFIP Annual Conference on Data and Applications Security and Privacy</em> (pp. 40-61). Cham: Springer Nature Switzerland.</li>
 <li>Xu, J., Hu, R., <b>Kotevska, O.</b>, &amp; Zhang, Z. (2026). <a href="https://arxiv.org/abs/2604.05242">XMark: Reliable Multi-Bit Watermarking for LLM-Generated Texts.</a> <em>ACL 2026 &mdash; 64th Annual Meeting of the Association for Computational Linguistics</em>. <a href="https://github.com/JiiahaoXU/XMark" class="pub-link-code">Code</a></li>
 <li>Xu, J., Hu, R., <b>Kotevska, O.</b>, &amp; Zhang, Z. (2026). <a href="https://arxiv.org/abs/2505.13651">Traceable Black-box Watermarks for Federated Learning.</a> <em>ICLR 2026 &mdash; International Conference on Learning Representations</em>. <a href="https://github.com/JiiahaoXU/TraMark" class="pub-link-code">Code</a></li>
-<li>Pramanik, V., Maliha, M., Jha, S., Velasquez, A., <b>Kotevska, O.</b>, &amp; Jha, S. K. (2026). <a href="https://sumitkumarjha.com/publications/168_2026_Selective_Amnesia.pdf">Selective Amnesia using Contrastive Subnet Erasure for Class Level Unlearning in Vision Models.</a> <em>CVPR 2026 &mdash; IEEE/CVF Conference on Computer Vision and Pattern Recognition</em>. <a href="https://github.com/VishalPramanik/CSE" class="pub-link-code">Code</a></li>
+<li>Pramanik, V., Maliha, M., Jha, S., Velasquez, A., <b>Kotevska, O.</b>, &amp; Jha, S. K. (2026). <a href="https://sumitkumarjha.com/publications/168_2026_Selective_Amnesia.pdf">Selective Amnesia using Contrastive Subnet Erasure for Class Level Unlearning in Vision Models.</a> <em>CVPR 2026 &mdash; IEEE/CVF Conference on Computer Vision and Pattern Recognition</em>. <span class="pub-tag-award">Highlight</span> <a href="https://github.com/VishalPramanik/CSE" class="pub-link-code">Code</a></li>
 <li>Babu, A., Kaur, R., Bastian, N., <b>Kotevska, O.</b>, Jha, S., Wu, Y., Jha, S., &amp; Roy, A. (2026). <a href="https://openreview.net/pdf?id=ri3c82xhcX">CTRL-STEER: Closed-Loop Neuron Activation Control in Vision-Language-Action Models.</a> <em>Visual Concepts Workshop at CVPR 2026</em>.</li>
 <li><b>Kotevska, O.</b>, Nguyen, T., Ferreira da Silva, R., Engelmann, C., &amp; Balaprakash, P. (2026). <a href="https://dl.acm.org/doi/pdf/10.1145/3805621.3807639">Scalable Federated Learning for Scientific Foundation Models on Leadership-Class Systems.</a> <em>EuroMLSys @ EuroSys 2026</em>.</li>
 <li><b>Kotevska, O.</b>, Nguyen, T., &amp; Hernandez, O. (2026). Energy&ndash;Performance Trade-offs in Federated Learning with SmartNIC-Enabled Communication on HPC Systems. <em>IPDPSW 2026 &mdash; Accelerators and Hybrid Emerging Systems Workshop</em>.</li>
