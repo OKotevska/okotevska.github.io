@@ -47,7 +47,7 @@ author_profile: true
 </style>
 
 <p class="page-tagline">Peer-reviewed articles, conference papers, book chapters, and reports spanning privacy-preserving machine learning, federated learning, differential privacy, and AI security and safety.</p>
-<p><b>TOTAL PUBLICATIONS: 77</b> &nbsp;|&nbsp; <a href="https://scholar.google.com/citations?user=8kdeBSEAAAAJ&hl=en">Google Scholar</a></p>
+<p><b>TOTAL PUBLICATIONS: 79</b> &nbsp;|&nbsp; <a href="https://scholar.google.com/citations?user=8kdeBSEAAAAJ&hl=en">Google Scholar</a></p>
 
 <div class="pub-section-heading">Peer-Reviewed Publications</div>
 <p style="font-size:0.88em; color:#555; margin-top:-0.4em; margin-bottom:0.6em;">Grouped by year, reverse chronological. White papers and book chapters appear in dedicated sections below.</p>
@@ -57,7 +57,6 @@ author_profile: true
 <ul class="pub-list">
 <li><b>Kotevska, O.</b>, Goethert, I., McGee, M., Mahbub, M., Wilkinson, S. R., Yip, R., Selvan, M. E., G&uuml;m&uuml;&scaron;, Z. H., Henschke, C., Klein, R. J., Morales, P., Aguayo, S. M., Danciu, I., &amp; Shekar, M. C. (2026). <a href="https://arxiv.org/abs/2608.21571">Extending the Horizon of Early Diagnosis: Lung Cancer Prediction with Vision Transformers.</a> <em>arXiv preprint</em>, submitted August 2026.</li>
 <li>Babu, A., Kaur, R., Pramanik, V., <b>Kotevska, O.</b>, Bastian, N. D., Jha, S., Raj, S., Wu, Y., Jha, S. K., &amp; Roy, A. (2026). <a href="https://arxiv.org/abs/2608.20564">Consilience: Conformally Calibrated Communication Control for Hidden-Profile Multi-Agent Reasoning.</a> <em>arXiv preprint</em>, submitted August 2026.</li>
-<li>Zhang, Z., Hu, R., <b>Kotevska, O.</b>, &amp; Xu, J. (2026). <a href="https://arxiv.org/abs/2604.01473">SelfGrader: Stable Jailbreak Detection for Large Language Models using Token-Level Logits.</a> <em>arXiv preprint</em>, submitted April 2026.</li>
 <li>Riya, F. F., Hoque, S., Sun, J. S., &amp; <b>Kotevska, O.</b> (2025). <a href="https://arxiv.org/abs/2511.13535">Accuracy is Not Enough: Poisoning Interpretability in Federated Learning via Color Skew.</a> <em>arXiv preprint</em>, submitted November 2025.</li>
 <li>Mahbub, M., Klein, R. J., Selvan, M. E., Yip, R., Henschke, C., Morales, P., Goethert, I., <b>Kotevska, O.</b>, Shekar, M. C., Wilkinson, S. R., McAllister, E., Aguayo, S. M., G&uuml;m&uuml;&scaron;, Z. H., Danciu, I., &amp; VA Million Veteran Program. (2025). <a href="https://arxiv.org/abs/2510.07477">HEMERA: A Human-Explainable Transformer Model for Estimating Lung Cancer Risk using GWAS Data.</a> <em>arXiv preprint</em>, submitted October 2025.</li>
 <li>Shi, Y., <b>Kotevska, O.</b>, Reshniak, V., Singh, A., &amp; Raskar, R. (2024). <a href="https://arxiv.org/abs/2405.10376">Dealing Doubt: Unveiling Threat Models in Gradient Inversion Attacks under Federated Learning, A Survey and Taxonomy.</a> <em>arXiv preprint</em>, submitted May 2024.</li>
@@ -65,6 +64,8 @@ author_profile: true
 
 <b>2026</b>
 <ul class="pub-list">
+<li>Zhang, Z., Xu, R., <b>Kotevska, O.</b>, &amp; Xu, J. (2026). <a href="https://arxiv.org/abs/2604.01473">SelfGrader: LLM Jailbreak Detection via Anchored Token-Level Logits.</a> <em>AACL-IJCNLP 2026 &mdash; Asia-Pacific Chapter of the Association for Computational Linguistics and International Joint Conference on Natural Language Processing, Findings</em>.</li>
+<li>Kumar, R., <b>Kotevska, O.</b>, &amp; Polyzou, A. (2026). Forgetting Only What Matters: Layer-Selective Unlearning toward Robust LLMs. <em>AACL-IJCNLP 2026 &mdash; Asia-Pacific Chapter of the Association for Computational Linguistics and International Joint Conference on Natural Language Processing</em>.</li>
 <li>Tran, T., <b>Kotevska, O.</b>, &amp; Xiong, L. (2026). <a href="https://arxiv.org/abs/2603.19375">Automated Membership Inference Attacks: Discovering MIA Signal Computations using LLM Agents.</a> <em>Transactions on Machine Learning Research (TMLR)</em>.</li>
 <li><b>Kotevska, O.</b>, Carlson, M., Gao, Y., Jeanson, F., Li, Y., Lindskog, W., Naseri, M., Ryu, M., Tyagi, S., Watkins, J., Wang, F., Madduri, R., &amp; Kim, K. (2026). <a href="https://tpc.dev/tpc-workshop-at-sc26/">From Pilots to Production: Lessons in Cross-Institutional Federated Training and AI for Science.</a> <em>SC26 &mdash; 4th TPC Workshop: Building Open AI Infrastructure, Models, and Agentic Systems for Science</em>.</li>
 <li><b>Kotevska, O.</b>, Bastian, N. D., Jha, S., Ferreira da Silva, R., Bellet, A., Madduri, R., Hu, R., &amp; Kim, K. (2026). <a href="https://hpc.pnl.gov/S-HPC/2026/">Privacy Foundations for Multi-Institutional Scientific Artificial Intelligence.</a> <em>S-HPC'26 &mdash; 5th Annual Workshop on Cyber Security in High-Performance Computing, co-located with SC26</em>.</li>
