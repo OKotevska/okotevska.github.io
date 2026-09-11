@@ -47,7 +47,7 @@ author_profile: true
 </style>
 
 <p class="page-tagline">Peer-reviewed articles, conference papers, book chapters, and reports spanning privacy-preserving machine learning, federated learning, differential privacy, and AI security and safety.</p>
-<p><b>TOTAL PUBLICATIONS: 79</b> &nbsp;|&nbsp; <a href="https://scholar.google.com/citations?user=8kdeBSEAAAAJ&hl=en">Google Scholar</a></p>
+<p><b>TOTAL PUBLICATIONS: 80</b> &nbsp;|&nbsp; <a href="https://scholar.google.com/citations?user=8kdeBSEAAAAJ&hl=en">Google Scholar</a></p>
 
 <div class="pub-section-heading">Peer-Reviewed Publications</div>
 <p style="font-size:0.88em; color:#555; margin-top:-0.4em; margin-bottom:0.6em;">Grouped by year, reverse chronological. White papers and book chapters appear in dedicated sections below.</p>
@@ -78,6 +78,7 @@ author_profile: true
 <li><b>Kotevska, O.</b>, Nguyen, T., Ferreira da Silva, R., Engelmann, C., &amp; Balaprakash, P. (2026). <a href="https://dl.acm.org/doi/pdf/10.1145/3805621.3807639">Scalable Federated Learning for Scientific Foundation Models on Leadership-Class Systems.</a> <em>EuroMLSys @ EuroSys 2026</em>.</li>
 <li><b>Kotevska, O.</b>, Nguyen, T., &amp; Hernandez, O. (2026). Energy&ndash;Performance Trade-offs in Federated Learning with SmartNIC-Enabled Communication on HPC Systems. <em>IPDPSW 2026 &mdash; Accelerators and Hybrid Emerging Systems Workshop</em>.</li>
 <li><b>Kotevska, O.</b>, Patton, R., Jha, S., &amp; Balaprakash, P. (2026). <a href="https://www.spiedigitallibrary.org/proceedings/Download?urlId=10.1117%2F12.3094636">DP-TwoLevel: Two-Stage Gradient Subspace Learning for Differentially Private Federated Learning.</a> <em>SPIE Conference on Assurance and Security for AI-enabled Systems</em>.</li>
+<li>Pramanik, V., <b>Kotevska, O.</b>, Bastian, N., &amp; Jha, S. (2026). Entropy-Weighted Multi-Layer Attention for Token-Level Attribution in Autoregressive Language Models. <em>SPIE Conference on Assurance and Security for AI-enabled Systems</em>.</li>
 <li>Xu, J., Hu, R., &amp; <b>Kotevska, O.</b> (2026). <a href="https://ieeexplore.ieee.org/abstract/document/11373392">Optimal Client Sampling in Federated Learning with Client-level Heterogeneous Differential Privacy.</a> <em>IEEE Internet of Things Journal</em>. <a href="https://github.com/JiiahaoXU/GDPFed" class="pub-link-code">Code</a></li>
 <li>Pramanik, V., <b>Kotevska, O.</b>, Velasquez, A., Jha, A., &amp; Jha, K. S. (2026). SPUN: Spectral Projection-based UNlearning in Hyperdimensional Computing. <em>AAAI Workshop on Artificial Intelligence for Cyber Security</em>.</li>
 </ul>
