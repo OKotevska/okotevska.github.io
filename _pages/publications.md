@@ -47,7 +47,7 @@ author_profile: true
 </style>
 
 <p class="page-tagline">Peer-reviewed articles, conference papers, book chapters, and reports spanning privacy-preserving machine learning, federated learning, differential privacy, and AI security and safety.</p>
-<p><b>TOTAL PUBLICATIONS: 80</b> &nbsp;|&nbsp; <a href="https://scholar.google.com/citations?user=8kdeBSEAAAAJ&hl=en">Google Scholar</a></p>
+<p><b>TOTAL PUBLICATIONS: 83</b> &nbsp;|&nbsp; <a href="https://scholar.google.com/citations?user=8kdeBSEAAAAJ&hl=en">Google Scholar</a></p>
 
 <div class="pub-section-heading">Peer-Reviewed Publications</div>
 <p style="font-size:0.88em; color:#555; margin-top:-0.4em; margin-bottom:0.6em;">Grouped by year, reverse chronological. White papers and book chapters appear in dedicated sections below.</p>
@@ -64,6 +64,9 @@ author_profile: true
 
 <b>2026</b>
 <ul class="pub-list">
+<li>Pramanik, V., Maliha, M., <b>Kotevska, O.</b>, Bastian, N. D., Jha, S., &amp; Jha, S. K. (2026). Harmless in Pieces, Harmful in Motion: Detecting Multi-Agent Jailbreaks. <em>NeurIPS 2026 &mdash; Conference on Neural Information Processing Systems</em>.</li>
+<li>Pramanik, V., Maliha, M., <b>Kotevska, O.</b>, Ramanathan, A., Bastian, N. D., Jha, S., &amp; Jha, S. K. (2026). Unified Resource-Grounded Coordination Protocol for Orchestrator-Free Heterogeneous Multi-Agent Systems. <em>NeurIPS 2026 &mdash; Conference on Neural Information Processing Systems</em>.</li>
+<li>Xu, J., Hu, R., <b>Kotevska, O.</b>, &amp; Zhang, Z. (2026). Majority Bit-Aware Watermarking for Large Language Models. <em>NeurIPS 2026 &mdash; Conference on Neural Information Processing Systems</em>.</li>
 <li>Zhang, Z., Xu, R., <b>Kotevska, O.</b>, &amp; Xu, J. (2026). <a href="https://arxiv.org/abs/2604.01473">SelfGrader: LLM Jailbreak Detection via Anchored Token-Level Logits.</a> <em>AACL-IJCNLP 2026 &mdash; Asia-Pacific Chapter of the Association for Computational Linguistics and International Joint Conference on Natural Language Processing, Findings</em>.</li>
 <li>Kumar, R., <b>Kotevska, O.</b>, &amp; Polyzou, A. (2026). Forgetting Only What Matters: Layer-Selective Unlearning toward Robust LLMs. <em>AACL-IJCNLP 2026 &mdash; Asia-Pacific Chapter of the Association for Computational Linguistics and International Joint Conference on Natural Language Processing</em>.</li>
 <li>Tran, T., <b>Kotevska, O.</b>, &amp; Xiong, L. (2026). <a href="https://arxiv.org/abs/2603.19375">Automated Membership Inference Attacks: Discovering MIA Signal Computations using LLM Agents.</a> <em>Transactions on Machine Learning Research (TMLR)</em>.</li>
