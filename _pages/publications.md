@@ -65,7 +65,7 @@ author_profile: true
 <p><b>TOTAL PUBLICATIONS: 83</b> &nbsp;|&nbsp; <a href="https://scholar.google.com/citations?user=8kdeBSEAAAAJ&hl=en">Google Scholar</a></p>
 
 <div class="pub-section-heading">Selected Publications</div>
-<p style="font-size:0.88em; color:#555; margin-top:-0.4em; margin-bottom:0.8em;">Recent work at top-tier machine learning and systems venues. The complete record follows below.</p>
+<p style="font-size:0.88em; color:#555; margin-top:-0.4em; margin-bottom:0.8em;">Selected recent work at top-tier venues. The complete record follows below.</p>
 
 <div class="pub-card">
   <div class="pub-card-venue">CVPR 2026</div> <span class="pub-tag-award">Highlight</span>
@@ -93,9 +93,9 @@ author_profile: true
   <div class="pub-card-authors">Xu, J., Hu, R., <b>Kotevska, O.</b>, &amp; Zhang, Z.</div>
 </div>
 <div class="pub-card">
-  <div class="pub-card-venue">EuroSys 2026</div>
-  <div class="pub-card-title"><a href="https://dl.acm.org/doi/pdf/10.1145/3805621.3807639">Scalable Federated Learning for Scientific Foundation Models on Leadership-Class Systems</a></div>
-  <div class="pub-card-authors"><b>Kotevska, O.</b>, Nguyen, T., Ferreira da Silva, R., Engelmann, C., &amp; Balaprakash, P.</div>
+  <div class="pub-card-venue">IEEE Computational Intelligence Magazine</div>
+  <div class="pub-card-title"><a href="https://ieeexplore.ieee.org/document/11079249">Privacy Preservation from High-Performance Computing to Autonomous Science</a></div>
+  <div class="pub-card-authors"><b>Kotevska, O.</b> (sole author)</div>
 </div>
 
 <div class="pub-section-heading">Peer-Reviewed Publications</div>
