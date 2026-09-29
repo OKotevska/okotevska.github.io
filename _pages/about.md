@@ -42,6 +42,28 @@ Prior to joining ORNL in 2019, Dr. Kotevska was an international guest researche
 With over $33M in competitive funding secured across DOE, NNSA, VA, and DoD programs, Dr. Kotevska brings a portfolio perspective to research investment — from early-stage laboratory concepts through open-source deployment and federal policy. She is a Senior Member of IEEE, an Advisor to the [IEEE USA Artificial Intelligence Policy Committee](https://ieeeusa.org/committees/aipc/) and the [IEEE Computational Intelligence Society Government Activities Committee](https://cis.ieee.org/activities/industrial-governmental-activities/governmental-activities-committee/government-activities-committee-members), and has responded directly to White House OSTP and NIST solicitations on privacy-enhancing technologies and AI security. She has mentored over 20 students and interns across PhD, MS, and undergraduate programs.
 
 
+<h2 style="font-size: 1.3em; margin-top: 1.2em; margin-bottom: 0.4em;">Leadership</h2>
+
+<style>
+.lead-list { list-style: none; padding-left: 0; margin: 0.4em 0 0 0; }
+.lead-list li { position: relative; padding-left: 1.1em; margin-bottom: 0.45em; font-size: 0.97em; }
+.lead-list li::before {
+  content: ""; position: absolute; left: 0; top: 0.55em;
+  width: 5px; height: 5px; border-radius: 50%; background: #2a5db0;
+}
+</style>
+
+<ul class="lead-list">
+  <li><b>Principal Investigator</b>, $7M DOE ASCR program on privacy-preserving federated learning for scientific foundation models (2024&ndash;2027).</li>
+  <li><b>AI Safety &amp; Security Thrust</b>, DOE Genesis Mission &mdash; one of eight team members on a $30M program (2025&ndash;2027).</li>
+  <li><b>Lead Editor</b>, Springer <em>Evolving Systems</em> special issue on verifiable and composable trust in federated and distributed learning.</li>
+  <li><b>Advisor</b>, <a href="https://ieeeusa.org/committees/aipc/">IEEE USA AI Policy Committee</a>, <a href="https://cis.ieee.org/activities/industrial-governmental-activities/governmental-activities-committee/government-activities-committee-members">IEEE CIS Government Activities Committee</a>, and two <a href="https://research.utk.edu/aitn/ai-techx/">AI TechX</a> councils at the University of Tennessee.</li>
+  <li><b>Chair &amp; Founder</b>, IEEE Women in Engineering, East Tennessee Affinity Group (2021&ndash;present).</li>
+  <li><b>Lead organizer</b> of four workshops and Birds of a Feather sessions at SC, TPC and CIKM; <a href="/service/">13 organized in total</a>.</li>
+  <li><b>25 students and interns mentored</b> across PhD, MS and undergraduate programs.</li>
+</ul>
+
+---
 <h2 style="font-size: 1.3em; margin-top: 1.2em; margin-bottom: 0.4em;">Research Focus</h2>
 
 Core research areas spanning theory and systems:
@@ -68,6 +90,11 @@ Core research areas spanning theory and systems:
 <div class="project-entry">
   <div><span class="project-name">Privacy-Preserving Federated Learning for Scientific Foundation Models</span> <span class="project-status-active">PI · Active · 2024–2027</span></div>
   <div class="project-desc">ORNL Principal Investigator on a $7M DOE ASCR program developing privacy-preserving federated training methods for scientific foundation models, with open-source implementations and cross-institutional pilots at DOE facilities. <em>Funder: DOE ASCR, AI for Science.</em> <a href="https://github.com/ORNL/Sci_PPFL_FM/">Project deliverables.</a></div>
+</div>
+
+<div class="project-entry">
+  <div><span class="project-name">PETINA — Privacy Toolkit for Edge and Distributed AI</span> <span class="project-status-active">Active</span></div>
+  <div class="project-desc">Open-source differential privacy library for system architectures at the edge, released through ORNL and used as the reference implementation for the ICCD 2025 practitioner guide. <a href="https://github.com/ORNL/PETINA">Repository.</a></div>
 </div>
 
 <div class="project-entry">
