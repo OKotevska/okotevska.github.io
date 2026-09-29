@@ -12,6 +12,29 @@ redirect_from:
 
 <p style="font-size: 1.1em; font-weight: 600; color: #1a1a1a; margin: 0.8em 0 1.1em 0;">She defines the privacy and security foundations for multi-institutional scientific AI — the systems where national labs, universities, and global partners must collaborate without trusting each other.</p>
 
+<style>
+.hp-stats {
+  display: flex; flex-wrap: wrap; gap: 1.6em 2.4em;
+  margin: 0 0 1.4em 0; padding: 0.9em 0;
+  border-top: 1px solid #e3e3e3; border-bottom: 1px solid #e3e3e3;
+}
+.hp-stat .hp-num {
+  font-size: 1.75em; font-weight: bold; color: #2a5db0; line-height: 1.1;
+}
+.hp-stat .hp-label {
+  font-size: 0.8em; color: #555; margin-top: 0.1em;
+}
+@media (max-width: 480px) { .hp-stats { gap: 1.1em 1.6em; } .hp-stat .hp-num { font-size: 1.45em; } }
+</style>
+
+<div class="hp-stats">
+  <div class="hp-stat"><div class="hp-num">83</div><div class="hp-label">Publications</div></div>
+  <div class="hp-stat"><div class="hp-num">$33M+</div><div class="hp-label">Funding secured</div></div>
+  <div class="hp-stat"><div class="hp-num">R&amp;D 100</div><div class="hp-label">2025 Award winner</div></div>
+  <div class="hp-stat"><div class="hp-num">25</div><div class="hp-label">Students mentored</div></div>
+  <div class="hp-stat"><div class="hp-num">13</div><div class="hp-label">Workshops organized</div></div>
+</div>
+
 Dr. Olivera Kotevska is a leader in trustworthy scientific AI in the [Computer Science and Mathematics Division (CSMD)](https://www.ornl.gov/division/csmd) at [Oak Ridge National Laboratory (ORNL)](https://www.ornl.gov/), where she directs the DOE program on privacy-preserving federated learning for scientific foundation models and shapes AI safety and security for the [DOE Genesis Mission](https://www.energy.gov/undersecretaryforscience/genesis-mission/genesis-mission). Her research defines the emerging field of trustworthy AI for multi-institutional science, spanning differential privacy, federated learning, gradient privacy, and autonomous scientific computing. She is the 2025 [R&D 100 Award](https://www.rdworldonline.com/rd-100-2025-winner/presto-privacy-recommendation-and-security-optimization/) winner for PRESTO (Privacy REcommendation and SecuriTy Optimization), a privacy mechanism recommendation system for federated learning at scale, and the recipient of the 2022 Highly Cited Research Paper Award from *Applied Energy*. Her CVPR 2026 paper on class-level unlearning in vision models was selected as a Highlight.
 
 Prior to joining ORNL in 2019, Dr. Kotevska was an international guest researcher at the [National Institute of Standards and Technology (NIST)](https://www.nist.gov/), Maryland, USA, where she was part of the NIST Smart Cities Framework Team and contributed to some of the earliest foundational work in that domain. Before her PhD, she built and shipped production software actively used by millions of consumers — at Nuance Communications (UK, voice and AI systems), Vivo (Brazil, mobile telecommunications), T-Mobile (Macedonia, mobile services), and Renault (France, automotive software). She received her Ph.D. in Computer Science from the [Université Grenoble Alpes, France](https://www.univ-grenoble-alpes.fr/), and B.S. and M.S. degrees in Computer Science and Engineering from the [University of Ss. Cyril and Methodius, Skopje, Macedonia](https://ukim.edu.mk/).
