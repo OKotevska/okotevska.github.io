@@ -42,12 +42,16 @@ redirect_from:
 
 <div class="mentorship-stats">
   <div class="mentorship-stat">
-    <div class="number">25</div>
+    <div class="number">30</div>
     <div class="label">Students &amp; interns mentored</div>
   </div>
   <div class="mentorship-stat">
-    <div class="number">10</div>
+    <div class="number">15</div>
     <div class="label">PhD students</div>
+  </div>
+  <div class="mentorship-stat">
+    <div class="number">10</div>
+    <div class="label">Universities, US &amp; Europe</div>
   </div>
   <div class="mentorship-stat">
     <div class="number">3</div>

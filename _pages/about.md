@@ -31,7 +31,7 @@ redirect_from:
   <div class="hp-stat"><div class="hp-num">83</div><div class="hp-label">Publications</div></div>
   <div class="hp-stat"><div class="hp-num">$33M+</div><div class="hp-label">Funding secured</div></div>
   <div class="hp-stat"><div class="hp-num">R&amp;D 100</div><div class="hp-label">2025 Award winner</div></div>
-  <div class="hp-stat"><div class="hp-num">25</div><div class="hp-label">Students mentored</div></div>
+  <div class="hp-stat"><div class="hp-num">15</div><div class="hp-label">PhD students mentored</div></div>
   <div class="hp-stat"><div class="hp-num">13</div><div class="hp-label">Workshops organized</div></div>
 </div>
 
@@ -39,7 +39,7 @@ Dr. Olivera Kotevska is a leader in trustworthy scientific AI in the [Computer S
 
 Prior to joining ORNL in 2019, Dr. Kotevska was an international guest researcher at the [National Institute of Standards and Technology (NIST)](https://www.nist.gov/), Maryland, USA, where she was part of the NIST Smart Cities Framework Team and contributed to some of the earliest foundational work in that domain. Before her PhD, she built and shipped production software actively used by millions of consumers — at Nuance Communications (UK, voice and AI systems), Vivo (Brazil, mobile telecommunications), T-Mobile (Macedonia, mobile services), and Renault (France, automotive software). She received her Ph.D. in Computer Science from the [Université Grenoble Alpes, France](https://www.univ-grenoble-alpes.fr/), and B.S. and M.S. degrees in Computer Science and Engineering from the [University of Ss. Cyril and Methodius, Skopje, Macedonia](https://ukim.edu.mk/).
 
-With over $33M in competitive funding secured across DOE, NNSA, VA, and DoD programs, Dr. Kotevska brings a portfolio perspective to research investment — from early-stage laboratory concepts through open-source deployment and federal policy. She is a Senior Member of IEEE, an Advisor to the [IEEE USA Artificial Intelligence Policy Committee](https://ieeeusa.org/committees/aipc/) and the [IEEE Computational Intelligence Society Government Activities Committee](https://cis.ieee.org/activities/industrial-governmental-activities/governmental-activities-committee/government-activities-committee-members), and has responded directly to White House OSTP and NIST solicitations on privacy-enhancing technologies and AI security. She has mentored over 20 students and interns across PhD, MS, and undergraduate programs.
+With over $33M in competitive funding secured across DOE, NNSA, VA, and DoD programs, Dr. Kotevska brings a portfolio perspective to research investment — from early-stage laboratory concepts through open-source deployment and federal policy. She is a Senior Member of IEEE, an Advisor to the [IEEE USA Artificial Intelligence Policy Committee](https://ieeeusa.org/committees/aipc/) and the [IEEE Computational Intelligence Society Government Activities Committee](https://cis.ieee.org/activities/industrial-governmental-activities/governmental-activities-committee/government-activities-committee-members), and has responded directly to White House OSTP and NIST solicitations on privacy-enhancing technologies and AI security. She has mentored 15 PhD students across 10 universities in the United States and Europe, and 30 students and interns in total.
 
 
 <h2 style="font-size: 1.3em; margin-top: 1.2em; margin-bottom: 0.4em;">Leadership</h2>
@@ -60,7 +60,7 @@ With over $33M in competitive funding secured across DOE, NNSA, VA, and DoD prog
   <li><b>Advisor</b>, <a href="https://ieeeusa.org/committees/aipc/">IEEE USA AI Policy Committee</a>, <a href="https://cis.ieee.org/activities/industrial-governmental-activities/governmental-activities-committee/government-activities-committee-members">IEEE CIS Government Activities Committee</a>, and two <a href="https://research.utk.edu/aitn/ai-techx/">AI TechX</a> councils at the University of Tennessee.</li>
   <li><b>Chair &amp; Founder</b>, IEEE Women in Engineering, East Tennessee Affinity Group (2021&ndash;present).</li>
   <li><b>Lead organizer</b> of four workshops and Birds of a Feather sessions at SC, TPC and CIKM; <a href="/service/">13 organized in total</a>.</li>
-  <li><b>25 students and interns mentored</b> across PhD, MS and undergraduate programs.</li>
+  <li><b>15 PhD students mentored</b> across 10 universities in the United States and Europe; 30 students and interns in total.</li>
 </ul>
 
 ---
