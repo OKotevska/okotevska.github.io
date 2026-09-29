@@ -105,7 +105,7 @@ Core research areas spanning theory and systems:
 ---
 <h2 style="font-size: 1.3em; margin-top: 1.2em; margin-bottom: 0.4em;">Get in Touch</h2>
 
-<p><i>Open to research collaborations, advisory roles, invited talks, and conversations about building trustworthy AI programs.</i></p>
+<p><i>Open to research partnerships, advisory roles, and speaking invitations.</i></p>
 
 [Oak Ridge National Laboratory](https://www.ornl.gov/)  
 Computer Science and Mathematics Division  
