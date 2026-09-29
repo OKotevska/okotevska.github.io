@@ -31,6 +31,21 @@ author_profile: true
   text-decoration: none; margin-left: 0.3em;
 }
 .pub-link-code:hover { background: #c8e6c9; }
+/* selected publication cards */
+.pub-card {
+  border-left: 3px solid #2a5db0;
+  background: #f7f9ff;
+  padding: 0.7em 1em 0.65em 1em;
+  margin-bottom: 0.8em;
+  border-radius: 0 4px 4px 0;
+}
+.pub-card-venue {
+  display: inline-block; font-size: 0.75em; font-weight: bold;
+  background: #2a5db0; color: #fff;
+  border-radius: 3px; padding: 1px 7px; margin-bottom: 0.35em;
+}
+.pub-card-title { font-weight: 600; font-size: 0.97em; line-height: 1.35; }
+.pub-card-authors { font-size: 0.86em; color: #444; margin-top: 0.2em; }
 /* award / recognition tags */
 .pub-tag-award {
   display: inline-block; font-size: 0.75em; font-weight: bold;
@@ -48,6 +63,40 @@ author_profile: true
 
 <p class="page-tagline">Peer-reviewed articles, conference papers, book chapters, and reports spanning privacy-preserving machine learning, federated learning, differential privacy, and AI security and safety.</p>
 <p><b>TOTAL PUBLICATIONS: 83</b> &nbsp;|&nbsp; <a href="https://scholar.google.com/citations?user=8kdeBSEAAAAJ&hl=en">Google Scholar</a></p>
+
+<div class="pub-section-heading">Selected Publications</div>
+<p style="font-size:0.88em; color:#555; margin-top:-0.4em; margin-bottom:0.8em;">Recent work at top-tier machine learning and systems venues. The complete record follows below.</p>
+
+<div class="pub-card">
+  <div class="pub-card-venue">CVPR 2026</div> <span class="pub-tag-award">Highlight</span>
+  <div class="pub-card-title"><a href="https://sumitkumarjha.com/publications/168_2026_Selective_Amnesia.pdf">Selective Amnesia using Contrastive Subnet Erasure for Class Level Unlearning in Vision Models</a></div>
+  <div class="pub-card-authors">Pramanik, V., Maliha, M., Jha, S., Velasquez, A., <b>Kotevska, O.</b>, &amp; Jha, S. K.</div>
+</div>
+<div class="pub-card">
+  <div class="pub-card-venue">NeurIPS 2026</div>
+  <div class="pub-card-title">Majority Bit-Aware Watermarking for Large Language Models</div>
+  <div class="pub-card-authors">Xu, J., Hu, R., <b>Kotevska, O.</b>, &amp; Zhang, Z.</div>
+</div>
+<div class="pub-card">
+  <div class="pub-card-venue">NeurIPS 2026</div>
+  <div class="pub-card-title">Harmless in Pieces, Harmful in Motion: Detecting Multi-Agent Jailbreaks</div>
+  <div class="pub-card-authors">Pramanik, V., Maliha, M., <b>Kotevska, O.</b>, Bastian, N. D., Jha, S., &amp; Jha, S. K.</div>
+</div>
+<div class="pub-card">
+  <div class="pub-card-venue">ICLR 2026</div> <a href="https://github.com/JiiahaoXU/TraMark" class="pub-link-code">Code</a>
+  <div class="pub-card-title"><a href="https://arxiv.org/abs/2505.13651">Traceable Black-box Watermarks for Federated Learning</a></div>
+  <div class="pub-card-authors">Xu, J., Hu, R., <b>Kotevska, O.</b>, &amp; Zhang, Z.</div>
+</div>
+<div class="pub-card">
+  <div class="pub-card-venue">ACL 2026</div> <a href="https://github.com/JiiahaoXU/XMark" class="pub-link-code">Code</a>
+  <div class="pub-card-title"><a href="https://arxiv.org/abs/2604.05242">XMark: Reliable Multi-Bit Watermarking for LLM-Generated Texts</a></div>
+  <div class="pub-card-authors">Xu, J., Hu, R., <b>Kotevska, O.</b>, &amp; Zhang, Z.</div>
+</div>
+<div class="pub-card">
+  <div class="pub-card-venue">EuroSys 2026</div>
+  <div class="pub-card-title"><a href="https://dl.acm.org/doi/pdf/10.1145/3805621.3807639">Scalable Federated Learning for Scientific Foundation Models on Leadership-Class Systems</a></div>
+  <div class="pub-card-authors"><b>Kotevska, O.</b>, Nguyen, T., Ferreira da Silva, R., Engelmann, C., &amp; Balaprakash, P.</div>
+</div>
 
 <div class="pub-section-heading">Peer-Reviewed Publications</div>
 <p style="font-size:0.88em; color:#555; margin-top:-0.4em; margin-bottom:0.6em;">Grouped by year, reverse chronological. White papers and book chapters appear in dedicated sections below.</p>
