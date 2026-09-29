@@ -36,9 +36,9 @@ redirect_from:
 }
 </style>
 
-<p class="page-tagline">If you are interested in working with me, consider the opportunities listed below. I am looking for genuinely motivated students interested in trustworthy and efficient ML — privacy, interpretability, and explainability.</p>
+<p class="page-tagline">Doctoral and early-career mentorship across ten universities in the United States and Europe.</p>
 
-<b class="section-heading">Mentorship</b>
+<b class="section-heading">Track Record</b>
 
 <div class="mentorship-stats">
   <div class="mentorship-stat">
@@ -62,6 +62,12 @@ redirect_from:
     <div class="label">Undergraduate students</div>
   </div>
 </div>
+
+<p style="font-size:0.95em; color:#444; margin-top:-0.4em;">Recipient of the 2024 <a href="/trophy/">Outstanding Mentorship Award</a>, ORNL Computer Science and Mathematics Division.</p>
+
+<b class="section-heading">Working with Me</b>
+
+<p>I am looking for genuinely motivated students interested in trustworthy and efficient ML — privacy, interpretability, and explainability. If that is you, consider the opportunities below.</p>
 
 <b class="section-heading">Internship opportunities</b> 
 
