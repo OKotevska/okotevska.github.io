@@ -55,7 +55,7 @@ With over $33M in competitive funding secured across DOE, NNSA, VA, and DoD prog
 </style>
 
 <ul class="lead-list">
-  <li><b>Principal Investigator</b>, $7M DOE ASCR program on privacy-preserving federated learning for scientific foundation models (2024&ndash;2027).</li>
+  <li><b>ORNL Principal Investigator</b>, $7M multi-institutional DOE ASCR program on privacy-preserving federated learning for scientific foundation models (2024&ndash;2027).</li>
   <li><b>AI Safety &amp; Security Thrust</b>, DOE Genesis Mission &mdash; one of eight team members on a $30M program (2025&ndash;2027).</li>
   <li><b>Lead Editor</b>, Springer <em>Evolving Systems</em> special issue on verifiable and composable trust in federated and distributed learning.</li>
   <li><b>Advisor</b>, <a href="https://ieeeusa.org/committees/aipc/">IEEE USA AI Policy Committee</a>, <a href="https://cis.ieee.org/activities/industrial-governmental-activities/governmental-activities-committee/government-activities-committee-members">IEEE CIS Government Activities Committee</a>, and two <a href="https://research.utk.edu/aitn/ai-techx/">AI TechX</a> councils at the University of Tennessee.</li>
