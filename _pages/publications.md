@@ -122,7 +122,6 @@ author_profile: true
 <li>Babu, A., Kaur, R., Pramanik, V., <b>Kotevska, O.</b>, Bastian, N. D., Jha, S., Raj, S., Wu, Y., Jha, S. K., &amp; Roy, A. (2026). <a href="https://arxiv.org/abs/2608.20564">Consilience: Conformally Calibrated Communication Control for Hidden-Profile Multi-Agent Reasoning.</a> <em>arXiv preprint</em>, submitted August 2026.</li>
 <li>Riya, F. F., Hoque, S., Sun, J. S., &amp; <b>Kotevska, O.</b> (2025). <a href="https://arxiv.org/abs/2511.13535">Accuracy is Not Enough: Poisoning Interpretability in Federated Learning via Color Skew.</a> <em>arXiv preprint</em>, submitted November 2025.</li>
 <li>Mahbub, M., Klein, R. J., Selvan, M. E., Yip, R., Henschke, C., Morales, P., Goethert, I., <b>Kotevska, O.</b>, Shekar, M. C., Wilkinson, S. R., McAllister, E., Aguayo, S. M., G&uuml;m&uuml;&scaron;, Z. H., Danciu, I., &amp; VA Million Veteran Program. (2025). <a href="https://arxiv.org/abs/2510.07477">HEMERA: A Human-Explainable Transformer Model for Estimating Lung Cancer Risk using GWAS Data.</a> <em>arXiv preprint</em>, submitted October 2025.</li>
-<li>Shi, Y., <b>Kotevska, O.</b>, Reshniak, V., Singh, A., &amp; Raskar, R. (2024). <a href="https://arxiv.org/abs/2405.10376">Dealing Doubt: Unveiling Threat Models in Gradient Inversion Attacks under Federated Learning, A Survey and Taxonomy.</a> <em>arXiv preprint</em>, submitted May 2024.</li>
 </ul>
 
 <b>2026</b>
