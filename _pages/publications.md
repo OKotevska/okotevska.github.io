@@ -8,7 +8,7 @@ author_profile: true
 <style>
 /* numbered list */
 .pub-list { list-style: none; padding-left: 2.5em; margin: 0.2em 0 0.8em 0; counter-reset: pub-counter; }
-.pub-list li { position: relative; margin-bottom: 0.4em; }
+.pub-list li { position: relative; margin-bottom: 0.2em; }
 .pub-list li::before {
   counter-increment: pub-counter;
   content: counter(pub-counter) ".";
@@ -35,8 +35,8 @@ author_profile: true
 .pub-card {
   border-left: 3px solid #2a5db0;
   background: #f7f9ff;
-  padding: 0.7em 1em 0.65em 1em;
-  margin-bottom: 0.8em;
+  padding: 0.55em 1em 0.5em 1em;
+  margin-bottom: 0.5em;
   border-radius: 0 4px 4px 0;
 }
 .pub-card-venue {
@@ -62,7 +62,7 @@ author_profile: true
   border-radius: 3px; padding: 1px 6px; margin-left: 0.4em; vertical-align: middle;
 }
 /* policy / white paper tags */
-.wp-entry { margin-bottom: 0.7em; font-size: 0.93em; }
+.wp-entry { margin-bottom: 0.45em; font-size: 0.93em; }
 .wp-tag {
   display: inline-block; font-size: 0.75em; font-weight: bold;
   background: #f3f0ff; color: #5b30a6;
@@ -90,6 +90,11 @@ author_profile: true
   <div class="pub-card-venue">NeurIPS 2026</div>
   <div class="pub-card-title">Harmless in Pieces, Harmful in Motion: Detecting Multi-Agent Jailbreaks</div>
   <div class="pub-card-authors">Pramanik, V., Maliha, M., <b>Kotevska, O.</b>, Bastian, N. D., Jha, S., &amp; Jha, S. K.</div>
+</div>
+<div class="pub-card">
+  <div class="pub-card-venue">NeurIPS 2026</div>
+  <div class="pub-card-title">Unified Resource-Grounded Coordination Protocol for Orchestrator-Free Heterogeneous Multi-Agent Systems</div>
+  <div class="pub-card-authors">Pramanik, V., Maliha, M., <b>Kotevska, O.</b>, Ramanathan, A., Bastian, N. D., Jha, S., &amp; Jha, S. K.</div>
 </div>
 <div class="pub-card">
   <div class="pub-card-venue">ICLR 2026</div> <a href="https://github.com/JiiahaoXU/TraMark" class="pub-link-code">Code</a>
