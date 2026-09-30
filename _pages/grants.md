@@ -46,7 +46,7 @@ author_profile: true
   <div class="funding-date">2025&#8211;2027</div>
   <div class="funding-body">
     <span class="funding-title">Genesis Mission / ModCon &#8212; AI Safety &amp; Security Thrust</span> &nbsp; <span class="funding-amount">$30,000,000</span><br>
-    <span class="funding-role">Team Member</span> &#8212; Office of Advanced Scientific Computing Research (ASCR)<br>
+    <span class="funding-role">Task Lead</span> &#8212; Office of Advanced Scientific Computing Research (ASCR)<br>
     <span class="funding-outcome">Deliverable: Threat models, safeguards, and evaluation protocols for AI safety in DOE foundation-model deployments across national laboratory workflows.</span>
   </div>
 </div>
