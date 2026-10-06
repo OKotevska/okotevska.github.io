@@ -67,7 +67,9 @@ redirect_from:
 
 <b class="section-heading">Working with Me</b>
 
-<p>I am looking for genuinely motivated students interested in trustworthy and efficient ML — privacy, interpretability, and explainability. If that is you, consider the opportunities below.</p>
+<p>I am looking for genuinely motivated students interested in trustworthy and efficient ML — privacy, interpretability, and explainability.</p>
+
+<p>As joint faculty in the Department of Electrical Engineering and Computer Science at the University of Tennessee, Knoxville, I can advise doctoral students directly at UT. The ORNL internship programs below are open to students at any institution.</p>
 
 <b class="section-heading">Internship opportunities</b> 
 
