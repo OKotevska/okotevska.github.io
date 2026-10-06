@@ -118,6 +118,7 @@ author_profile: true
 <b>Preprints Under Review</b><br>
 <i style="font-size:0.88em;">Ordered by arXiv posting date, most recent first.</i>
 <ul class="pub-list">
+<li>Palanciyan, Z., van Osch, T., van der Wal, D., <b>Kotevska, O.</b>, &amp; Kok, T. (2026). <a href="https://arxiv.org/abs/2610.03457">Cross-Facility LLM Pre-training on HPC: Elastic Aggregation, Data Leasing, and Queue-Aware Placement.</a> <em>arXiv preprint</em>, submitted October 2026.</li>
 <li><b>Kotevska, O.</b>, Goethert, I., McGee, M., Mahbub, M., Wilkinson, S. R., Yip, R., Selvan, M. E., G&uuml;m&uuml;&scaron;, Z. H., Henschke, C., Klein, R. J., Morales, P., Aguayo, S. M., Danciu, I., &amp; Shekar, M. C. (2026). <a href="https://arxiv.org/abs/2608.21571">Extending the Horizon of Early Diagnosis: Lung Cancer Prediction with Vision Transformers.</a> <em>arXiv preprint</em>, submitted August 2026.</li>
 <li>Babu, A., Kaur, R., Pramanik, V., <b>Kotevska, O.</b>, Bastian, N. D., Jha, S., Raj, S., Wu, Y., Jha, S. K., &amp; Roy, A. (2026). <a href="https://arxiv.org/abs/2608.20564">Consilience: Conformally Calibrated Communication Control for Hidden-Profile Multi-Agent Reasoning.</a> <em>arXiv preprint</em>, submitted August 2026.</li>
 <li>Riya, F. F., Hoque, S., Sun, J. S., &amp; <b>Kotevska, O.</b> (2025). <a href="https://arxiv.org/abs/2511.13535">Accuracy is Not Enough: Poisoning Interpretability in Federated Learning via Color Skew.</a> <em>arXiv preprint</em>, submitted November 2025.</li>
