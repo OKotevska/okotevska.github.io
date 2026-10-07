@@ -31,7 +31,7 @@ Joint Faculty Associate Professor &middot; Department of Electrical Engineering 
 
 <div class="hp-stats">
   <div class="hp-stat"><div class="hp-num">$33M+</div><div class="hp-label">Research portfolio</div></div>
-  <div class="hp-stat"><div class="hp-num">16</div><div class="hp-label">Funded awards</div></div>
+  <div class="hp-stat"><div class="hp-num">17</div><div class="hp-label">Funded awards</div></div>
   <div class="hp-stat"><div class="hp-num">R&amp;D 100</div><div class="hp-label">2025 Award winner</div></div>
   <div class="hp-stat"><div class="hp-num">84</div><div class="hp-label">Publications</div></div>
   <div class="hp-stat"><div class="hp-num">15</div><div class="hp-label">PhD students mentored</div></div>
