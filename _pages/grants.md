@@ -37,7 +37,7 @@ author_profile: true
 </style>
 
 <p class="page-tagline">Competitively funded programs across U.S. agencies and private sector.</p>
-<p class="funding-summary"><b>TOTAL AWARDS: 17</b> &nbsp;|&nbsp; <b>GROSS FUNDING: ~$56.7M</b></p>
+<p class="funding-summary"><b>TOTAL AWARDS: 17</b> &nbsp;|&nbsp; <b>GROSS FUNDING: ~$58.9M</b></p>
 
 <div class="funding-agency">
 <div class="funding-agency-title">U.S. Department of Energy (DOE)</div>
@@ -107,7 +107,7 @@ author_profile: true
 <div class="funding-entry">
   <div class="funding-date">2023&#8211;2025</div>
   <div class="funding-body">
-    <span class="funding-title">Lung Cancer Prediction and Explainability</span><br>
+    <span class="funding-title">Lung Cancer Prediction and Explainability</span> &nbsp; <span class="funding-amount">$2,000,000</span><br>
     <span class="funding-role">Task Lead</span> &#8212; U.S. Veterans Affairs<br>
     <span class="funding-outcome">Outcome: Privacy-preserving predictive models and explainability tools for lung cancer risk stratification across VA patient cohorts.</span>
   </div>
@@ -120,7 +120,7 @@ author_profile: true
 <div class="funding-entry">
   <div class="funding-date">2020</div>
   <div class="funding-body">
-    <span class="funding-title">Misinformation Impact on Covid-19</span><br>
+    <span class="funding-title">Misinformation Impact on Covid-19</span> &nbsp; <span class="funding-amount">$160,000</span><br>
     <span class="funding-role">Task Lead</span> &#8212; DoD<br>
     <span class="funding-outcome">Outcome: Analytical framework assessing the propagation and societal impact of health misinformation during the COVID-19 pandemic.</span>
   </div>
