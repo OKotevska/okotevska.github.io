@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About"
-excerpt: "Leader in Trustworthy Scientific AI at Oak Ridge National Laboratory and joint faculty Associate Professor at the University of Tennessee, Knoxville. 2025 R&D 100 Award winner for PRESTO. Leading DOE programs in privacy-preserving federated learning and AI safety and security for science. $33M+ research portfolio."
+excerpt: "Leader in Trustworthy Scientific AI at Oak Ridge National Laboratory and joint faculty Associate Professor at the University of Tennessee, Knoxville. 2025 R&D 100 Award winner for PRESTO. Leading DOE programs in privacy-preserving federated learning and AI safety and security for science. $34M+ research portfolio."
 author_profile: true
 redirect_from: 
   - /about/
@@ -30,7 +30,7 @@ Joint Faculty Associate Professor &middot; Department of Electrical Engineering 
 </style>
 
 <div class="hp-stats">
-  <div class="hp-stat"><div class="hp-num">$33M+</div><div class="hp-label">Research portfolio</div></div>
+  <div class="hp-stat"><div class="hp-num">$34M+</div><div class="hp-label">Research portfolio</div></div>
   <div class="hp-stat"><div class="hp-num">17</div><div class="hp-label">Funded awards</div></div>
   <div class="hp-stat"><div class="hp-num">R&amp;D 100</div><div class="hp-label">2025 Award winner</div></div>
   <div class="hp-stat"><div class="hp-num">84</div><div class="hp-label">Publications</div></div>
@@ -42,7 +42,7 @@ Dr. Olivera Kotevska is a leader in trustworthy scientific AI in the [Computer S
 
 Prior to joining ORNL in 2019, Dr. Kotevska was an international guest researcher at the [National Institute of Standards and Technology (NIST)](https://www.nist.gov/), Maryland, USA, where she was part of the NIST Smart Cities Framework Team and contributed to some of the earliest foundational work in that domain. Before her PhD, she built and shipped production software actively used by millions of consumers — at Nuance Communications (UK, voice and AI systems), Vivo (Brazil, mobile telecommunications), T-Mobile (Macedonia, mobile services), and Renault (France, automotive software). She received her Ph.D. in Computer Science from the [Université Grenoble Alpes, France](https://www.univ-grenoble-alpes.fr/), and B.S. and M.S. degrees in Computer Science and Engineering from the [University of Ss. Cyril and Methodius, Skopje, Macedonia](https://ukim.edu.mk/).
 
-With over $33M in competitive funding secured across DOE, NNSA, VA, and DoD programs, Dr. Kotevska brings a portfolio perspective to research investment — from early-stage laboratory concepts through open-source deployment and federal policy. She is a Senior Member of IEEE, an Advisor to the [IEEE USA Artificial Intelligence Policy Committee](https://ieeeusa.org/committees/aipc/) and the [IEEE Computational Intelligence Society Government Activities Committee](https://cis.ieee.org/activities/industrial-governmental-activities/governmental-activities-committee/government-activities-committee-members), and has responded directly to White House OSTP and NIST solicitations on privacy-enhancing technologies and AI security. She has mentored 15 PhD students across 10 universities in the United States and Europe, and 30 students and interns in total.
+With over $34M in competitive funding secured across DOE, NNSA, VA, and DoD programs, Dr. Kotevska brings a portfolio perspective to research investment — from early-stage laboratory concepts through open-source deployment and federal policy. She is a Senior Member of IEEE, an Advisor to the [IEEE USA Artificial Intelligence Policy Committee](https://ieeeusa.org/committees/aipc/) and the [IEEE Computational Intelligence Society Government Activities Committee](https://cis.ieee.org/activities/industrial-governmental-activities/governmental-activities-committee/government-activities-committee-members), and has responded directly to White House OSTP and NIST solicitations on privacy-enhancing technologies and AI security. She has mentored 15 PhD students across 10 universities in the United States and Europe, and 30 students and interns in total.
 
 
 <h2 style="font-size: 1.3em; margin-top: 1.2em; margin-bottom: 0.4em;">Leadership</h2>

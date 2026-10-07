@@ -37,7 +37,7 @@ author_profile: true
 </style>
 
 <p class="page-tagline">Competitively funded programs across U.S. agencies and private sector.</p>
-<p class="funding-summary"><b>TOTAL AWARDS: 17</b> &nbsp;|&nbsp; <b>GROSS FUNDING: ~$33.4M</b></p>
+<p class="funding-summary"><b>TOTAL AWARDS: 17</b> &nbsp;|&nbsp; <b>GROSS FUNDING: ~$34.7M</b></p>
 
 <div class="funding-agency">
 <div class="funding-agency-title">U.S. Department of Energy (DOE)</div>
@@ -140,9 +140,9 @@ author_profile: true
 <div class="funding-agency-title">ORNL Laboratory Directed Research &amp; Development (LDRD / SEED)</div>
 
 <div class="funding-entry">
-  <div class="funding-date">2026</div>
+  <div class="funding-date">2026&#8211;2028</div>
   <div class="funding-body">
-    <span class="funding-title">Safe and Secure Agentic Closed-Loop Physicochemical Materials Process Optimization</span><br>
+    <span class="funding-title">Safe and Secure Agentic Closed-Loop Physicochemical Materials Process Optimization</span> &nbsp; <span class="funding-amount">$1,300,000</span><br>
     <span class="funding-role">Co-Principal Investigator, Safe &amp; Secure Lead</span> &#8212; ORNL LDRD<br>
     <span class="funding-outcome">Scope: safety and security architecture for closed-loop agentic systems driving autonomous materials synthesis and process optimization.</span>
   </div>
