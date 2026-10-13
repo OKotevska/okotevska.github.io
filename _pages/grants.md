@@ -65,7 +65,7 @@ author_profile: true
   <div class="funding-body">
     <span class="funding-title">Physics-Aware Acceleration for Federated Learning on Scientific Data</span> &nbsp; <span class="funding-amount">$900,000</span><br>
     <span class="funding-role">Co-Principal Investigator</span> &#8212; Office of Advanced Scientific Computing Research (ASCR), EXPRESS Program<br>
-    <span class="funding-outcome">Deliverable: Physics-informed compression and acceleration methods that reduce federated learning communication costs for large-scale scientific simulations.</span>
+    <span class="funding-outcome">Outcome: Physics-informed compression and acceleration methods that reduce federated learning communication costs for large-scale scientific simulations.</span>
   </div>
 </div>
 
@@ -144,7 +144,7 @@ author_profile: true
   <div class="funding-body">
     <span class="funding-title">Safe and Secure Agentic Closed-Loop Physicochemical Materials Process Optimization</span> &nbsp; <span class="funding-amount">$1,300,000</span><br>
     <span class="funding-role">Co-Principal Investigator, Safe &amp; Secure Lead</span> &#8212; ORNL LDRD<br>
-    <span class="funding-outcome">Scope: safety and security architecture for closed-loop agentic systems driving autonomous materials synthesis and process optimization.</span>
+    <span class="funding-outcome">Deliverable: Safety and security architecture for closed-loop agentic systems driving autonomous materials synthesis and process optimization.</span>
   </div>
 </div>
 
@@ -153,7 +153,7 @@ author_profile: true
   <div class="funding-body">
     <span class="funding-title">Scalable Privacy Algorithms and Benchmarks for Federated Learning Frameworks</span> &nbsp; <span class="funding-amount">$240,000</span><br>
     <span class="funding-role">Principal Investigator</span> &#8212; ORNL LDRD<br>
-    <span class="funding-outcome">Deliverable: PRESTO — a reproducible benchmark suite for evaluating differential privacy, secure aggregation, and gradient protection in federated scientific learning.</span>
+    <span class="funding-outcome">Outcome: PRESTO — a reproducible benchmark suite for evaluating differential privacy, secure aggregation, and gradient protection in federated scientific learning.</span>
   </div>
 </div>
 
