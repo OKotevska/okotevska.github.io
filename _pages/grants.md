@@ -83,20 +83,20 @@ author_profile: true
 <div class="funding-agency-title">U.S. Department of Energy &#8212; National Nuclear Security Administration (NNSA)</div>
 
 <div class="funding-entry">
-  <div class="funding-date">2021&#8211;2023</div>
-  <div class="funding-body">
-    <span class="funding-title">Explainable, High Confidence Models for Dynamic Systems</span> &nbsp; <span class="funding-amount">$3,000,000</span><br>
-    <span class="funding-role">Task Lead</span> &#8212; DOE NNSA<br>
-    <span class="funding-outcome">Outcome: Explainability and uncertainty quantification methods for ML models on dynamic physical systems in national-security environments.</span>
-  </div>
-</div>
-
-<div class="funding-entry">
   <div class="funding-date">2023&#8211;2025</div>
   <div class="funding-body">
     <span class="funding-title">Intrusion Detection for Controller Area Networks for Vehicles</span> &nbsp; <span class="funding-amount">$1,000,000</span><br>
     <span class="funding-role">Task Lead</span> &#8212; DOE NNSA<br>
     <span class="funding-outcome">Outcome: ML-based intrusion detection for in-vehicle CAN bus communications, advancing cybersecurity for autonomous and connected vehicle platforms.</span>
+  </div>
+</div>
+
+<div class="funding-entry">
+  <div class="funding-date">2021&#8211;2023</div>
+  <div class="funding-body">
+    <span class="funding-title">Explainable, High Confidence Models for Dynamic Systems</span> &nbsp; <span class="funding-amount">$3,000,000</span><br>
+    <span class="funding-role">Task Lead</span> &#8212; DOE NNSA<br>
+    <span class="funding-outcome">Outcome: Explainability and uncertainty quantification methods for ML models on dynamic physical systems in national-security environments.</span>
   </div>
 </div>
 </div>
