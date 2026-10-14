@@ -83,7 +83,7 @@ author_profile: true
 <div class="funding-agency-title">U.S. Department of Energy &#8212; National Nuclear Security Administration (NNSA)</div>
 
 <div class="funding-entry">
-  <div class="funding-date"></div>
+  <div class="funding-date">2021&#8211;2023</div>
   <div class="funding-body">
     <span class="funding-title">Explainable, High Confidence Models for Dynamic Systems</span> &nbsp; <span class="funding-amount">$3,000,000</span><br>
     <span class="funding-role">Task Lead</span> &#8212; DOE NNSA<br>
@@ -92,7 +92,7 @@ author_profile: true
 </div>
 
 <div class="funding-entry">
-  <div class="funding-date"></div>
+  <div class="funding-date">2023&#8211;2025</div>
   <div class="funding-body">
     <span class="funding-title">Intrusion Detection for Controller Area Networks for Vehicles</span> &nbsp; <span class="funding-amount">$1,000,000</span><br>
     <span class="funding-role">Task Lead</span> &#8212; DOE NNSA<br>
@@ -207,7 +207,7 @@ author_profile: true
 <div class="funding-agency-title">Industry</div>
 
 <div class="funding-entry">
-  <div class="funding-date"></div>
+  <div class="funding-date">2022</div>
   <div class="funding-body">
     <span class="funding-title">Real-Time and Physics Based Data Analytics for Thermal Power Plants</span> &nbsp; <span class="funding-amount">$90,000</span><br>
     <span class="funding-role">ML Advisor</span> &#8212; Strategic Power Systems<br>
