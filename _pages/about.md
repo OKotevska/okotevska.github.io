@@ -87,7 +87,7 @@ Core research areas spanning theory and systems:
 
 <div class="project-entry">
   <div><span class="project-name">Genesis Mission — AI Safety &amp; Security Thrust</span> <span class="project-status-active">Active · 2025–2027</span></div>
-  <div class="project-desc">One of eight researchers on the AI Safety and Security Thrust of DOE's $36M Genesis Mission, developing threat models and safeguards for foundation models deployed across national laboratory scientific workflows. Currently task lead for the AI safety and security taxonomy. <em>Funder: DOE ASCR.</em></div>
+  <div class="project-desc">One of eight researchers on the AI Safety and Security Thrust of DOE's $36M Genesis Mission, developing threat models and safeguards for foundation models deployed across national laboratory scientific workflows, a 17-laboratory consortium. <a href="https://www.energy.gov/undersecretaryforscience/genesis-mission/modcon-transformational-ai-and-data">Program page.</a> Currently task lead for the AI safety and security taxonomy. <em>Funder: DOE ASCR.</em></div>
 </div>
 
 <div class="project-entry">
