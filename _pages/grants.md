@@ -115,13 +115,13 @@ author_profile: true
 </div>
 
 <div class="funding-agency">
-<div class="funding-agency-title">U.S. Department of Defense (DoD)</div>
+<div class="funding-agency-title">U.S. Department of War (DoW)</div>
 
 <div class="funding-entry">
   <div class="funding-date">2020</div>
   <div class="funding-body">
     <span class="funding-title">Misinformation Impact on Covid-19</span> &nbsp; <span class="funding-amount">$160,000</span><br>
-    <span class="funding-role">Task Lead</span> &#8212; DoD<br>
+    <span class="funding-role">Task Lead</span> &#8212; DoW<br>
     <span class="funding-outcome">Outcome: Analytical framework assessing the propagation and societal impact of health misinformation during the COVID-19 pandemic.</span>
   </div>
 </div>
@@ -130,7 +130,7 @@ author_profile: true
   <div class="funding-date">2020</div>
   <div class="funding-body">
     <span class="funding-title">Activity Characterization</span> &nbsp; <span class="funding-amount">$200,000</span><br>
-    <span class="funding-role">Task Lead</span> &#8212; DoD<br>
+    <span class="funding-role">Task Lead</span> &#8212; DoW<br>
     <span class="funding-outcome">Outcome: Behavioral pattern recognition and activity characterization methods for national-security applications.</span>
   </div>
 </div>
