@@ -153,7 +153,7 @@ author_profile: true
   <div class="funding-body">
     <span class="funding-title">Scalable Privacy Algorithms and Benchmarks for Federated Learning Frameworks</span> &nbsp; <span class="funding-amount">$240,000</span><br>
     <span class="funding-role">Principal Investigator</span> &#8212; ORNL LDRD<br>
-    <span class="funding-outcome">Outcome: PRESTO — a reproducible benchmark suite for evaluating differential privacy, secure aggregation, and gradient protection in federated scientific learning.</span>
+    <span class="funding-outcome">Outcome: <a href="https://github.com/ORNL/PRESTO">PRESTO</a> — a reproducible benchmark suite for evaluating differential privacy, secure aggregation, and gradient protection in federated scientific learning.</span>
   </div>
 </div>
 

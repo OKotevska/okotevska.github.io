@@ -58,7 +58,7 @@ With over $58M in competitive funding secured across DOE, NNSA, VA, and DoD prog
 
 <ul class="lead-list">
   <li><b>ORNL Principal Investigator</b>, $7M multi-institutional DOE ASCR program on privacy-preserving federated learning for scientific foundation models (2024&ndash;2027).</li>
-  <li><b>AI Safety &amp; Security Thrust</b>, DOE Genesis Mission &mdash; one of eight researchers on a $36M program; currently task lead for the AI safety and security taxonomy (2025&ndash;2027).</li>
+  <li><b>AI Safety &amp; Security Thrust</b>, DOE Genesis Mission &mdash; one of six researchers on a $36M program; currently task lead for the AI safety and security taxonomy (2025&ndash;2027).</li>
   <li><b>Lead Editor</b>, Springer <em>Evolving Systems</em> special issue on verifiable and composable trust in federated and distributed learning.</li>
   <li><b>Advisor</b>, <a href="https://ieeeusa.org/committees/aipc/">IEEE USA AI Policy Committee</a>, <a href="https://cis.ieee.org/activities/industrial-governmental-activities/governmental-activities-committee/government-activities-committee-members">IEEE CIS Government Activities Committee</a>, and two <a href="https://research.utk.edu/aitn/ai-techx/">AI TechX</a> councils at the University of Tennessee.</li>
   <li><b>Chair &amp; Founder</b>, IEEE Women in Engineering, East Tennessee Affinity Group (2021&ndash;present).</li>
@@ -87,7 +87,7 @@ Core research areas spanning theory and systems:
 
 <div class="project-entry">
   <div><span class="project-name">Genesis Mission — AI Safety &amp; Security Thrust</span> <span class="project-status-active">Active · 2025–2027</span></div>
-  <div class="project-desc">One of eight researchers on the AI Safety and Security Thrust of DOE's $36M Genesis Mission, developing threat models and safeguards for foundation models deployed across national laboratory scientific workflows, a 17-laboratory consortium. <a href="https://www.energy.gov/undersecretaryforscience/genesis-mission/modcon-transformational-ai-and-data">Program page.</a> Currently task lead for the AI safety and security taxonomy. <em>Funder: DOE ASCR.</em></div>
+  <div class="project-desc">One of six researchers on the AI Safety and Security Thrust of DOE's $36M Genesis Mission, developing threat models and safeguards for foundation models deployed across national laboratory scientific workflows, a 17-laboratory consortium. <a href="https://www.energy.gov/undersecretaryforscience/genesis-mission/modcon-transformational-ai-and-data">Program page.</a> Currently task lead for the AI safety and security taxonomy. <em>Funder: DOE ASCR.</em></div>
 </div>
 
 <div class="project-entry">
@@ -102,7 +102,7 @@ Core research areas spanning theory and systems:
 
 <div class="project-entry">
   <div><span class="project-name">PRESTO — Privacy Recommendation and Security Optimization</span> <span class="project-status-active">Active · 2024–present</span></div>
-  <div class="project-desc">2025 R&amp;D 100 Award winner. A privacy mechanism recommendation system for federated learning at scale, enabling reproducible evaluation of differential privacy, gradient protection, and secure aggregation across heterogeneous scientific data regimes. <em>Funder: ORNL LDRD.</em></div>
+  <div class="project-desc">2025 R&amp;D 100 Award winner. A privacy mechanism recommendation system for federated learning at scale, enabling reproducible evaluation of differential privacy, gradient protection, and secure aggregation across heterogeneous scientific data regimes. <em>Funder: ORNL LDRD.</em> <a href="https://github.com/ORNL/PRESTO">Repository.</a></div>
 </div>
 
 ---
