@@ -84,7 +84,7 @@ author_profile: true
 <div class="pub-card">
   <div class="pub-card-venue">NeurIPS 2026</div>
   <div class="pub-card-title">Majority Bit-Aware Watermarking for Large Language Models</div>
-  <div class="pub-card-authors">Xu, J., Hu, R., <b>Kotevska, O.</b>, &amp; Zhang, Z.</div>
+  <div class="pub-card-authors">Xu, J., Hu, R., Zhang, Z., &amp; <b>Kotevska, O.</b></div>
 </div>
 <div class="pub-card">
   <div class="pub-card-venue">NeurIPS 2026</div>
@@ -130,7 +130,7 @@ author_profile: true
 <ul class="pub-list">
 <li>Pramanik, V., Maliha, M., <b>Kotevska, O.</b>, Bastian, N. D., Jha, S., &amp; Jha, S. K. (2026). Harmless in Pieces, Harmful in Motion: Detecting Multi-Agent Jailbreaks. <em>NeurIPS 2026 &mdash; Conference on Neural Information Processing Systems</em>.</li>
 <li>Pramanik, V., Maliha, M., <b>Kotevska, O.</b>, Ramanathan, A., Bastian, N. D., Jha, S., &amp; Jha, S. K. (2026). Unified Resource-Grounded Coordination Protocol for Orchestrator-Free Heterogeneous Multi-Agent Systems. <em>NeurIPS 2026 &mdash; Conference on Neural Information Processing Systems</em>.</li>
-<li>Xu, J., Hu, R., <b>Kotevska, O.</b>, &amp; Zhang, Z. (2026). Majority Bit-Aware Watermarking for Large Language Models. <em>NeurIPS 2026 &mdash; Conference on Neural Information Processing Systems</em>.</li>
+<li>Xu, J., Hu, R., Zhang, Z., &amp; <b>Kotevska, O.</b> (2026). Majority Bit-Aware Watermarking for Large Language Models. <em>NeurIPS 2026 &mdash; Conference on Neural Information Processing Systems</em>.</li>
 <li><b>Kotevska, O.</b>, Florey, D., Goldenberg, S., Isenberg, N. M., Raab, R., Schram, M., &amp; Hodas, N. O. (2026). When Local Safety Does Not Compose: Measuring the Limits of Automated Risk Assessment for Cross-Institutional Agentic Systems. <em>Trustworthy AI for Good Workshop at NeurIPS 2026</em>. <a href="https://github.com/AI-ModCon/when-local-safety-does-not-compose" class="pub-link-code">Code</a></li>
 <li>Zhang, Z., Hu, R., <b>Kotevska, O.</b>, &amp; Xu, J. (2026). <a href="https://arxiv.org/abs/2604.01473">SelfGrader: LLM Jailbreak Detection via Anchored Token-Level Logits.</a> <em>AACL-IJCNLP 2026 &mdash; Asia-Pacific Chapter of the Association for Computational Linguistics and International Joint Conference on Natural Language Processing, Findings</em>.</li>
 <li>Kumar, R., <b>Kotevska, O.</b>, &amp; Polyzou, A. (2026). Forgetting Only What Matters: Layer-Selective Unlearning toward Robust LLMs. <em>AACL-IJCNLP 2026 &mdash; Asia-Pacific Chapter of the Association for Computational Linguistics and International Joint Conference on Natural Language Processing</em>.</li>
